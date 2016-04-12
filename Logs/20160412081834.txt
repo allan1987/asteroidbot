@@ -1,0 +1,260 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 180.0, getVelang = 0.0
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 180.0, getVelang = 0.0
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 177.9374, getVelang = -51.5662
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 172.7807, getVelang = -103.1324
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 167.6241, getVelang = -137.5099
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 157.3109, getVelang = -189.0761
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 143.9037, getVelang = -240.6423
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 133.2467, getVelang = -275.0198
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 114.6828, getVelang = -326.586
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 100.5881, getVelang = -360.9635
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 76.86761, getVelang = -412.5298
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 59.33509, getVelang = -446.9072
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 30.45801, getVelang = -498.4734
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = 9.800987, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -21.23034, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -41.91789, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -72.94921, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -93.63676, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -124.6681, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -145.3556, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -176.387, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -197.0745, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -228.1058, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -248.7934, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -279.8247, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -300.5123, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -331.5436, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -362.5749, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -393.6062, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -414.2938, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -445.3251, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -466.0127, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -497.0439, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -517.7314, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -548.7626, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -569.4501, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -600.4814, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -621.1689, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -652.2001, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -672.8876, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -703.9189, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -724.6064, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -755.6376, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -776.3251, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -807.3563, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -828.0438, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -859.0751, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -879.7626, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -921.1376, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -941.8251, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -972.8563, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -993.5438, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1024.575, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1045.263, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1076.294, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1096.981, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1128.013, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1148.7, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1179.731, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1200.419, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1231.45, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1252.137, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1272.825, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1303.856, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1324.544, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1355.575, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1376.262, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1407.294, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1438.325, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1469.356, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1490.044, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1521.075, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1541.762, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1572.794, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1593.481, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1624.512, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1645.2, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1676.231, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1696.919, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1727.95, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1748.637, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1779.669, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1800.356, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1831.387, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1852.075, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1883.107, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1903.794, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1934.826, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1955.514, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -1986.545, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2017.577, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2048.608, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2069.296, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2100.328, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2121.015, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2152.047, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2172.735, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2203.766, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2224.454, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2255.485, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2276.173, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2307.205, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2327.892, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2358.924, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2379.612, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2410.643, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2431.331, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2462.363, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2483.05, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2514.082, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2534.77, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2565.801, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2596.833, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2617.521, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2648.552, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2669.24, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2700.271, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2720.959, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2751.99, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2772.678, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2803.71, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2824.397, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2855.429, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2876.117, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2907.148, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2927.836, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2958.868, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -2979.555, getVelang = -517.1888
+
+[ Allan Ariel Bot ] radius = 2.0, getAng = -3010.587, getVelang = -517.1888
+

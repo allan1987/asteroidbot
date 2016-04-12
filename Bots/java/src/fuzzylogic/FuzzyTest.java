@@ -67,7 +67,7 @@ public class FuzzyTest {
         deltaXFromLeft.setRange(-60.0, 0.0);
         deltaXFromLeft.addTerm(new Triangle("LOW", 0.0, -10.0, -20.0));
         deltaXFromLeft.addTerm(new Triangle("MEDIUM", -20.0, -30.0, -40.0));
-        deltaXFromLeft.addTerm(new Triangle("HIGHT", -40.0, -50.0, -60.0));
+        deltaXFromLeft.addTerm(new Triangle("HIGH", -40.0, -50.0, -60.0));
         engine.addInputVariable(deltaXFromLeft);
         
         deltaXFromRight = new InputVariable();
@@ -75,7 +75,7 @@ public class FuzzyTest {
         deltaXFromRight.setRange(0.0, 60.0);
         deltaXFromRight.addTerm(new Triangle("LOW", 0.0, 10.0, 20.0));
         deltaXFromRight.addTerm(new Triangle("MEDIUM", 20.0, 30.0, 40.0));
-        deltaXFromRight.addTerm(new Triangle("HIGHT", 40.0, 50.0, 60.0));
+        deltaXFromRight.addTerm(new Triangle("HIGH", 40.0, 50.0, 60.0));
         engine.addInputVariable(deltaXFromRight);
         
         deltaYFromTop = new InputVariable();
@@ -83,7 +83,7 @@ public class FuzzyTest {
         deltaYFromTop.setRange(-60.0, 0.0);
         deltaYFromTop.addTerm(new Triangle("LOW", 0.0, -10.0, -20.0));
         deltaYFromTop.addTerm(new Triangle("MEDIUM", -20.0, -30.0, -40.0));
-        deltaYFromTop.addTerm(new Triangle("HIGHT", -4/0.0, -50.0, -60.0));
+        deltaYFromTop.addTerm(new Triangle("HIGH", -4/0.0, -50.0, -60.0));
         engine.addInputVariable(deltaYFromTop);
         
         deltaYFromBottom = new InputVariable();
@@ -91,14 +91,16 @@ public class FuzzyTest {
         deltaYFromBottom.setRange(0.0, 60.0);
         deltaYFromBottom.addTerm(new Triangle("LOW", 0.0, 10.0, 20.0));
         deltaYFromBottom.addTerm(new Triangle("MEDIUM", 20.0, 30.0, 40.0));
-        deltaYFromBottom.addTerm(new Triangle("HIGHT", 40.0, 50.0, 60.0));
+        deltaYFromBottom.addTerm(new Triangle("HIGH", 40.0, 50.0, 60.0));
         engine.addInputVariable(deltaYFromBottom);
         
         sideThrustFront = new OutputVariable();
         sideThrustFront.setName("sideThrustFront");
         sideThrustFront.setRange(-1.0, 1.0);
         sideThrustFront.setDefaultValue(Double.NaN);
-        sideThrustFront.addTerm(new Triangle("LOW", -1.0, 0.0, 1.0));
+        sideThrustFront.addTerm(new Triangle("LEFT", -1.0, -0.9, -0.8));
+        sideThrustFront.addTerm(new Triangle("NONE", -0.1, 0.0, 0.1));
+        sideThrustFront.addTerm(new Triangle("RIGHT", 0.8, 0.9, 1.0));
         engine.addOutputVariable(sideThrustFront);
         
 //        sideThrustBack = new OutputVariable();
@@ -111,8 +113,8 @@ public class FuzzyTest {
 //        engine.addOutputVariable(sideThrustBack);
         
         RuleBlock ruleBlock = new RuleBlock();
-        ruleBlock.addRule(Rule.parse("if deltaXFromRight is LOW then sideThrustFront is LOW", engine));
-        ruleBlock.addRule(Rule.parse("if deltaXFromRight is LOW then sideThrustFront is LOW", engine));
+        ruleBlock.addRule(Rule.parse("if deltaXFromRight is LOW then sideThrustFront is LEFT", engine));
+//        ruleBlock.addRule(Rule.parse("if deltaXFromRight is LOW then sideThrustFront is LOW", engine));
 //        ruleBlock.addRule(Rule.parse("if Ambient is MEDIUM then Power is MEDIUM", engine));
 //        ruleBlock.addRule(Rule.parse("if Ambient is BRIGHT then Power is LOW", engine));
         engine.addRuleBlock(ruleBlock);

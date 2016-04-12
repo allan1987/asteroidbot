@@ -32,12 +32,15 @@ public class AllanArielBot extends BotBase {
 		if(object != null) {
 //			action = new Action(0, 1, 1, 0);
 			if(gamestate != null) {
-				gamestate.log("nearUid = " + nearUid + " e Distance = " + minDistance);
+//				gamestate.log("nearUid = " + nearUid + " e Distance = " + minDistance);
+				gamestate.log("radius = " + getRadius() + ", getAng = " + getAng() + ", getVelang = " + getVelang());
 			}
+			action = new Action(0, 1, 0, 0); 
 		}
-		
-//		gamestate.log("ABC");
-		action = new Action(0, 0, 0, 0); 
+		else {
+//			gamestate.log("ABC");
+			action = new Action(0, 0, 0, 0); 
+		}
 		return action;
 	}
 	
@@ -122,12 +125,6 @@ public class AllanArielBot extends BotBase {
         sideThrustBack.addTerm(new Triangle("MEDIUM", -1.0, 0.0, 1.0));
         sideThrustBack.addTerm(new Triangle("HIGH", 0.0, 1.0, 1.0));
         engine.addOutputVariable(sideThrustBack);
-        
-        RuleBlock ruleBlock = new RuleBlock();
-        ruleBlock.addRule(Rule.parse("if deltaXFromLeft is LOW and (deltaYFromTop is LOW or deltaYFromBottom is LOW then sideThrustFront is HIGH and sideThrustBack is HIGH", engine));
-        ruleBlock.addRule(Rule.parse("if Ambient is MEDIUM then Power is MEDIUM", engine));
-        ruleBlock.addRule(Rule.parse("if Ambient is BRIGHT then Power is LOW", engine));
-        engine.addRuleBlock(ruleBlock);
 	}
 	
 	public static void main(String[] args) throws IOException {        
