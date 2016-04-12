@@ -1,0 +1,1840 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 0
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 1
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 2
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 3
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 4
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 5
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 6
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 7
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 8
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 9
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 10
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+
+[ Allan Ariel Bot ] size == 11
+

@@ -54,7 +54,7 @@ public class GameState {
 	}
 	
 	public void log(String message) {
-		System.err.print(message + "\r\n");
+		System.err.println(message);
 		System.err.flush();
 	}
 	
@@ -136,11 +136,11 @@ public class GameState {
 			try {
 				lastAction = bot.process(this);
 			} catch(Exception e) {
-				System.err.print(e.getMessage() + "\r\n");
+				System.err.println("erro: " + e.getMessage() + " e " + e.getLocalizedMessage());
 				System.err.flush();
 			}
 			
-			System.out.print("" + lastAction.thrust + " " + lastAction.sideThrustFront + " " + lastAction.sideThrustBack + " " + lastAction.shoot + "\r\n");
+			System.out.println("" + lastAction.thrust + " " + lastAction.sideThrustFront + " " + lastAction.sideThrustBack + " " + lastAction.shoot);
 			System.out.flush();
 		}
 		

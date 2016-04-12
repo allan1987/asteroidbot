@@ -1,0 +1,836 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 32.454803466796875
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 32.304603576660156
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 32.20447540283203
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 32.054264068603516
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.954132080078125
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.803924560546875
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.703792572021484
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.553585052490234
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.453453063964844
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.303245544433594
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.203113555908203
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 31.052902221679688
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.952774047851562
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.802562713623047
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.702434539794922
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.602294921875
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.50216293334961
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.301883697509766
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.25182342529297
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.051551818847656
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 30.001483917236328
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.851274490356445
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.751144409179688
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.600934982299805
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.500804901123047
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.350595474243164
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.250465393066406
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.100265502929688
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 29.000123977661133
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.849924087524414
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.749784469604492
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.599584579467773
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.49944496154785
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.349245071411133
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.24910545349121
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 28.098905563354492
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.998764038085938
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.84856414794922
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.748424530029297
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.598224639892578
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.498085021972656
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.347885131835938
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.247745513916016
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 27.097543716430664
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.997404098510742
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.847204208374023
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.7470645904541
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.596864700317383
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.49672508239746
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.346525192260742
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.24638557434082
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 26.09618377685547
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.99605369567871
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.845844268798828
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.74571418762207
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.595504760742188
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.49537467956543
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.345165252685547
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.24503517150879
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 25.094823837280273
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.994693756103516
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.844484329223633
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.744354248046875
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.594144821166992
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.494014739990234
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.34380531311035
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.243675231933594
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 24.093463897705078
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.99333381652832
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.8431339263916
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.74299430847168
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.59279441833496
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.49265480041504
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.34245491027832
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.2423152923584
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 23.09211540222168
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 22.991973876953125
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 22.841773986816406
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 22.741634368896484
+
+[ Allan Ariel Bot ] nearUid = -110396 e Distance = 22.591434478759766
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 43.98734664916992
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 43.69527816772461
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 43.50056838989258
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 43.2085075378418
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 43.013797760009766
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 42.72172546386719
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 42.527015686035156
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 42.23495864868164
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 42.04024887084961
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 41.74817657470703
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 41.553466796875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 41.26140594482422
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 41.06669616699219
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 40.774627685546875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 40.579917907714844
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 40.28785705566406
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 40.09314727783203
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 39.80108642578125
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 39.60637664794922
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 39.314308166503906
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 39.119598388671875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 38.827537536621094
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 38.63282775878906
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 38.43811798095703
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 38.14604568481445
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 37.85398864746094
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 37.659278869628906
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 37.464569091796875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 37.1724967956543
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 36.977787017822266
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 36.685726165771484
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 36.49101638793945
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 36.19894790649414
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 36.00423812866211
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 35.71217727661133
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 35.5174674987793
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 35.225406646728516
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 35.030696868896484
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 34.73862838745117
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 34.54391860961914
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 34.25185775756836
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 34.05714797973633
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 33.76507568359375
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 33.57036590576172
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 33.27830505371094
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 33.083595275878906
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 32.791526794433594
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 32.59681701660156
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 32.30475616455078
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 32.11004638671875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 31.817975997924805
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 31.623266220092773
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 31.331205368041992
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 31.13649559020996
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 30.84443473815918
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 30.64972496032715
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 30.357656478881836
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 30.162946701049805
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 29.870885848999023
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 29.676176071166992
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 29.384103775024414
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 29.189393997192383
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 28.897336959838867
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 28.702627182006836
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 28.410554885864258
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 28.215845108032227
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 27.923786163330078
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 27.729074478149414
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 27.4370059967041
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 27.24229621887207
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 26.95023536682129
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 26.755525588989258
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 26.463464736938477
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 26.268754959106445
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 25.9766845703125
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 25.78197479248047
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 25.48991584777832
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 25.29520606994629
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 25.003135681152344
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 24.808425903320312
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 24.51636505126953
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 24.3216552734375
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 24.029584884643555
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 23.834875106811523
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 23.542816162109375
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 23.34810447692871
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 23.0560359954834
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 22.861326217651367
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 22.569265365600586
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 22.374555587768555
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 22.082494735717773
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 21.887784957885742
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 21.595714569091797
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 21.401004791259766
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 21.108945846557617
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 20.914236068725586
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 20.62216567993164
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 20.42745590209961
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 20.135395050048828
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 19.940685272216797
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 19.64861488342285
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 19.45390510559082
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 19.161846160888672
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 18.967134475708008
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 18.675065994262695
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 18.480356216430664
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 18.188295364379883
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 17.99358558654785
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 17.70152473449707
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 17.50681495666504
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 17.214744567871094
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 17.020034790039062
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 16.727975845336914
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 16.630615234375
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 16.33855628967285
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 16.143844604492188
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 15.851776123046875
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 15.657064437866211
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 15.365005493164062
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 15.170295715332031
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 14.878225326538086
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 14.683515548706055
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 14.391454696655273
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 14.196744918823242
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 13.904674530029297
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 13.709976196289062
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 13.417905807495117
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 13.223196029663086
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 12.931135177612305
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 12.736425399780273
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 12.444355010986328
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 12.249645233154297
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 11.957576751708984
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 11.76286506652832
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 11.470796585083008
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 11.276084899902344
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 10.984016418457031
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 10.789306640625
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 10.497245788574219
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 10.302526473999023
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 10.010465621948242
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 9.815746307373047
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 9.523685455322266
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 9.328975677490234
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 9.036905288696289
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.842195510864258
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.550125122070312
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.355415344238281
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.063344955444336
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.868635654449463
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.576566219329834
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.381855487823486
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.089786052703857
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.895076274871826
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.603005886077881
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.40829610824585
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.1162285804748535
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.9215168952941895
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.62945032119751
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.434737682342529
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.142670154571533
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.947958469390869
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.655890941619873
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.461179256439209
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.51709508895874
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.5531134605407715
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.607141017913818
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.64315938949585
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.6971869468688965
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.733205318450928
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.787232875823975
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.823251247406006
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.877278804779053
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.913297176361084
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.967324733734131
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.003343105316162
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.057370662689209
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.09338903427124
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.147416591644287
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.183434963226318
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.237462520599365
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.2734808921813965
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.327508449554443
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.363526821136475
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.4175543785095215
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.453572750091553
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.5076003074646
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.543618679046631
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.597646236419678
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.633664608001709
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.687692165374756
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.723710536956787
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.777738094329834
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.813756465911865
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.867784023284912
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.903802394866943
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.939820766448975
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.975839138031006
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.029866695404053
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.065885066986084
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.119912624359131
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.155930995941162
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.209958553314209
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.24597692489624
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.300004482269287
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.336022853851318
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.390045642852783
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.426065921783447
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.480095386505127
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.516115665435791
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.570146083831787
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.606155872344971
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.660186290740967
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.6962056159973145
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.7502360343933105
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.786256313323975
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.84027624130249
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.876295566558838
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.930325984954834
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.966346263885498
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.020375728607178
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.056385517120361
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.110415935516357
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.1464362144470215
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.200465679168701
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.236485958099365
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.290505886077881
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.326526165008545
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.380555629730225
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.416575908660889
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.470605373382568
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.506616115570068
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.560645580291748
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.596665859222412
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.650696277618408
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.686715602874756
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.7407355308532715
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.7767558097839355
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.830786228179932
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.866805553436279
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.920835971832275
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.974855899810791
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.010875701904297
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 8.046895980834961
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.998785495758057
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.9326558113098145
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.833475589752197
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.767355442047119
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.668176174163818
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.60204553604126
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.502866268157959
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.436746120452881
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.337565898895264
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.2714362144470215
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.172255992889404
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.106135845184326
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 7.006955623626709
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.940825939178467
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.84164571762085
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.7755255699157715
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.676346302032471
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.610215663909912
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.511035442352295
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.444916248321533
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.345736026763916
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.279609203338623
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.180426120758057
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.114304065704346
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 6.015120983123779
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.948998928070068
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.849815845489502
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.783693790435791
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.684510707855225
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.618388652801514
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.519205570220947
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.453083515167236
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.35390043258667
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.287778377532959
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.188595294952393
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.122473239898682
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 5.023290157318115
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.957168102264404
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.857985019683838
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.791862964630127
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.6926798820495605
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.62655782699585
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.560435771942139
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.461252689361572
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.395130634307861
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.295948028564453
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.229825973510742
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.130642890930176
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 4.064520835876465
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.9983978271484375
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.899214744567871
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.8000316619873047
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.733910083770752
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.6347270011901855
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.5686049461364746
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.469421863555908
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.4032998085021973
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.304116725921631
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.23799467086792
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.1388120651245117
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 3.072690010070801
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.9735069274902344
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.9073848724365234
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.8082008361816406
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.7420787811279297
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.6428956985473633
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.5767736434936523
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.477591037750244
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.411468982696533
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.312285900115967
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.246163845062256
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.1469807624816895
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.0808587074279785
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 2.0147366523742676
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.9155540466308594
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.8494319915771484
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.750248908996582
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.6510658264160156
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.5849428176879883
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.4857597351074219
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.419637680053711
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.3204550743103027
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.2543330192565918
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.1551499366760254
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 1.0890278816223145
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.989844799041748
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.9237227439880371
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.8576006889343262
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.758418083190918
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.6592350006103516
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.5931129455566406
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.4939298629760742
+
+[ Allan Ariel Bot ] nearUid = -110578 e Distance = 0.4278068542480469
+
