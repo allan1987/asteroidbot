@@ -2,7 +2,6 @@ package impl;
 
 import java.io.IOException;
 import java.util.Iterator;
-import java.util.Set;
 
 import com.fuzzylite.Engine;
 import com.fuzzylite.rule.Rule;
@@ -20,28 +19,37 @@ import bot_interface.Rock;
 public class AllanArielBot extends BotBase {
 	
 	private Engine engine;
-	private InputVariable deltaXFromLeft, deltaXFromRight, deltaYFromTop, deltaYFromBottom;
-	private OutputVariable sideThrustFront, sideThrustBack;
+	private InputVariable posX;
+	private OutputVariable motorFrente, motorFundo;
 	
 	private Action action;
 	private double dPosx, dPosy, minDistance = 0;
 	private int nearUid;
 
 	public Action process(GameState gamestate) {
-		GameObject object = findNearRock(gamestate);
-		if(object != null) {
-//			action = new Action(0, 1, 1, 0);
-			if(gamestate != null) {
+//		GameObject object = findNearRock(gamestate);
+//		if(object != null) {
+//			if(gamestate != null) {
 //				gamestate.log("nearUid = " + nearUid + " e Distance = " + minDistance);
-				gamestate.log("radius = " + getRadius() + ", getAng = " + getAng() + ", getVelang = " + getVelang());
-			}
-			action = new Action(0, 1, 0, 0); 
-		}
-		else {
+				gamestate.log("x = " + getPosx() + ", y = " + getPosy());
+				gamestate.log("Velx = "  + getVelx() + ", Vely = " + getVely());
+//				gamestate.log("radius = " + getRadius() + ", getAng = " + getAng() + ", getVelang = " + getVelang());
+//			}
+//			action = new Action(0, 1, 0, 0); 
+//		}
+//		else {
 //			gamestate.log("ABC");
-			action = new Action(0, 0, 0, 0); 
-		}
-		return action;
+//			action = new Action(0, 0, 0, 0); 
+//		}
+				
+				
+		return process();
+	}
+	
+	private Action process() {
+		posX.setInputValue(getPosx());
+		engine.process();
+		return new Action(0, Math.round(motorFrente.getOutputValue()), Math.round(motorFundo.getOutputValue()), 0);
 	}
 	
 	private GameObject findNearRock(final GameState gamestate) {
@@ -76,55 +84,51 @@ public class AllanArielBot extends BotBase {
 		engine = new Engine();
         engine.setName("AllanArielBot");
         
-        deltaXFromLeft = new InputVariable();
-        deltaXFromLeft.setName("deltaXFromLeft");
-        deltaXFromLeft.setRange(-60.0, 0.0);
-        deltaXFromLeft.addTerm(new Triangle("LOW", -20.0, -10.0, 0.0));
-        deltaXFromLeft.addTerm(new Triangle("MEDIUM", -40.0, -30.0, -20.0));
-        deltaXFromLeft.addTerm(new Triangle("HIGHT", -60.0, -50.0, -40.0));
-        engine.addInputVariable(deltaXFromLeft);
+        posX = new InputVariable();
+        posX.setName("posX");
+        posX.setRange(-30.0, 30.0);
+        posX.addTerm(new Triangle("EXTREMO_ESQUERDA", -30.0, -20.0, -10.0));
+        posX.addTerm(new Triangle("ESQUERDA", -20.0, -10.0, 0.0));
+        posX.addTerm(new Triangle("MEIO", -10.0, 0.0, 10.0));
+        posX.addTerm(new Triangle("DIREITA", 0.0, 10.0, 20.0));
+        posX.addTerm(new Triangle("EXTREMO_DIREITA", 10.0, 20.0, 30.0));
+        engine.addInputVariable(posX);
         
-        deltaXFromRight = new InputVariable();
-        deltaXFromRight.setName("deltaXFromRight");
-        deltaXFromRight.setRange(0.0, 60.0);
-        deltaXFromRight.addTerm(new Triangle("LOW", 0.0, 10.0, 20.0));
-        deltaXFromRight.addTerm(new Triangle("MEDIUM", 20.0, 30.0, 40.0));
-        deltaXFromRight.addTerm(new Triangle("HIGHT", 40.0, 50.0, 60.0));
-        engine.addInputVariable(deltaXFromRight);
+        motorFrente = new OutputVariable();
+        motorFrente.setName("motorFrente");
+        motorFrente.setRange(-1.2, 1.2);
+        motorFrente.setDefaultValue(0.0);
+        motorFrente.addTerm(new Triangle("ESQUERDA", -1.2, -0.6, 0.0));
+        motorFrente.addTerm(new Triangle("NADA", -0.6, 0.0, 0.6));
+        motorFrente.addTerm(new Triangle("DIREITA", 0.0, 0.6, 1.2));
+        engine.addOutputVariable(motorFrente);
         
-        deltaYFromTop = new InputVariable();
-        deltaYFromTop.setName("deltaYFromTop");
-        deltaYFromTop.setRange(-60.0, 0.0);
-        deltaYFromTop.addTerm(new Triangle("LOW", -20.0, -10.0, 0.0));
-        deltaYFromTop.addTerm(new Triangle("MEDIUM", -40.0, -30.0, -20.0));
-        deltaYFromTop.addTerm(new Triangle("HIGHT", -60.0, -50.0, -40.0));
-        engine.addInputVariable(deltaYFromTop);
+        motorFundo = new OutputVariable();
+        motorFundo.setName("motorFundo");
+        motorFundo.setRange(-1.2, 1.2);
+        motorFundo.setDefaultValue(0.0);
+        motorFundo.addTerm(new Triangle("ESQUERDA", -1.2, -0.6, 0));
+        motorFundo.addTerm(new Triangle("NADA", -0.6, 0.0, 0.6));
+        motorFundo.addTerm(new Triangle("DIREITA", 0.0, 0.6, 1.2));
+        engine.addOutputVariable(motorFundo);
         
-        deltaYFromBottom = new InputVariable();
-        deltaYFromBottom.setName("deltaYFromBottom");
-        deltaYFromBottom.setRange(0.0, 60.0);
-        deltaYFromBottom.addTerm(new Triangle("LOW", 0.0, 10.0, 20.0));
-        deltaYFromBottom.addTerm(new Triangle("MEDIUM", 20.0, 30.0, 40.0));
-        deltaYFromBottom.addTerm(new Triangle("HIGHT", 40.0, 50.0, 60.0));
-        engine.addInputVariable(deltaYFromBottom);
+        RuleBlock ruleBlock = new RuleBlock();
+        ruleBlock.setEnabled(true);
+        ruleBlock.addRule(Rule.parse("if posX is EXTREMO_ESQUERDA then motorFrente is ESQUERDA and motorFundo is ESQUERDA", engine));
+        ruleBlock.addRule(Rule.parse("if posX is ESQUERDA then motorFrente is NADA and motorFundo is NADA", engine));
+        ruleBlock.addRule(Rule.parse("if posX is MEIO then motorFrente is DIREITA and motorFundo is DIREITA", engine));
+        ruleBlock.addRule(Rule.parse("if posX is DIREITA then motorFrente is NADA and motorFundo is NADA", engine));
+        ruleBlock.addRule(Rule.parse("if posX is EXTREMO_DIREITA then motorFrente is DIREITA and motorFundo is DIREITA", engine));
         
-        sideThrustFront = new OutputVariable();
-        sideThrustFront.setName("sideThrustFront");
-        sideThrustFront.setRange(-1.0, 1.0);
-        sideThrustFront.setDefaultValue(Double.NaN);
-        sideThrustFront.addTerm(new Triangle("LOW", -1.0, -1.0, 0));
-        sideThrustFront.addTerm(new Triangle("MEDIUM", -1.0, 0.0, 1.0));
-        sideThrustFront.addTerm(new Triangle("HIGH", 0.0, 1.0, 1.0));
-        engine.addOutputVariable(sideThrustFront);
+        engine.addRuleBlock(ruleBlock);
         
-        sideThrustBack = new OutputVariable();
-        sideThrustBack.setName("sideThrustBack");
-        sideThrustBack.setRange(-1.0, 1.0);
-        sideThrustBack.setDefaultValue(Double.NaN);
-        sideThrustBack.addTerm(new Triangle("LOW", -1.0, -1.0, 0));
-        sideThrustBack.addTerm(new Triangle("MEDIUM", -1.0, 0.0, 1.0));
-        sideThrustBack.addTerm(new Triangle("HIGH", 0.0, 1.0, 1.0));
-        engine.addOutputVariable(sideThrustBack);
+        engine.configure("Minimum", "", "Minimum", "Maximum", "Centroid");
+        
+        StringBuilder status = new StringBuilder();
+        if (!engine.isReady(status)) {
+            throw new RuntimeException("Engine not ready. "
+                    + "The following errors were encountered:\n" + status.toString());
+        }
 	}
 	
 	public static void main(String[] args) throws IOException {        

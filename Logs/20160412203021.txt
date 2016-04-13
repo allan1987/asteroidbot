@@ -1,0 +1,448 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 0.0, y = 27.0
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 0.0, y = 27.0
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.01799989, y = 27.00004
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.08997808, y = 27.00126
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.1678504, y = 27.00453
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.328838, y = 27.01775
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.4646684, y = 27.03576
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.7078855, y = 27.08413
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.8930454, y = 27.13545
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.092715, y = 27.2058
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.409171, y = 27.35271
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.728234, y = 27.5529
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.931282, y = 27.71444
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.191592, y = 27.84893
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.306875, y = 27.63425
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.435555, y = 27.30915
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.495268, y = 27.07847
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.540412, y = 26.82897
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.597687, y = 26.41161
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.667727, y = 25.94297
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.734042, y = 25.60843
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.822052, y = 25.2641
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.99842, y = 24.74746
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.221688, y = 24.25515
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.387488, y = 23.95116
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.641919, y = 23.53917
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.803028, y = 23.29282
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.01372, y = 22.95505
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.126679, y = 22.74072
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.252012, y = 22.4146
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.310004, y = 22.18232
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.373313, y = 21.7964
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.411347, y = 21.50985
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.483165, y = 21.0382
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.551437, y = 20.70235
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.695823, y = 20.18427
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.82152, y = 19.84163
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.04731, y = 19.35175
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.213922, y = 19.04997
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.468008, y = 18.64146
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.627888, y = 18.39712
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.83563, y = 18.06123
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.946256, y = 17.84719
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.06828, y = 17.51991
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.12461, y = 17.28597
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.186769, y = 16.89674
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.225076, y = 16.60786
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.298778, y = 16.13326
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.369052, y = 15.79619
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.516921, y = 15.27776
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.644825, y = 14.93592
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.873048, y = 14.44856
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.040391, y = 14.14902
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.294009, y = 13.74398
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.45259, y = 13.50159
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.657319, y = 13.16748
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.765603, y = 12.95363
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.884361, y = 12.62509
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.913732, y = 12.50949
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.000215, y = 11.99686
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.038878, y = 11.70565
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.114567, y = 11.22817
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.186885, y = 10.88994
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.338247, y = 10.37128
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.468327, y = 10.03033
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.698892, y = 9.545574
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.866887, y = 9.248287
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.119912, y = 8.846698
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.277125, y = 8.606223
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.416944, y = 8.381999
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.584716, y = 8.060047
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.700255, y = 7.730133
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.753442, y = 7.4927
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.813657, y = 7.096748
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.852758, y = 6.803231
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.930534, y = 6.322939
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.00494, y = 5.983621
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.1598, y = 5.464863
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.29202, y = 5.124878
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.52484, y = 4.642801
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.6934, y = 4.347794
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.94571, y = 3.949631
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.10149, y = 3.711017
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.30001, y = 3.380148
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.4036, y = 3.166432
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.51597, y = 2.835027
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.56768, y = 2.595767
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.62711, y = 2.196405
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.6462, y = 2.051414
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.74669, y = 1.417569
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.82321, y = 1.077239
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.98158, y = 0.5585049
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.11591, y = 0.2195608
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.35088, y = -0.2597506
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.51994, y = -0.5524567
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.77141, y = -0.9472147
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.92569, y = -1.184016
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.12102, y = -1.513433
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.22225, y = -1.727205
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.3315, y = -2.060215
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.3818, y = -2.301358
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.44055, y = -2.704162
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.48077, y = -3.002247
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.56302, y = -3.487935
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.6417, y = -3.829202
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.80357, y = -4.34779
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.93998, y = -4.685619
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.177, y = -5.162089
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.34647, y = -5.452477
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.59699, y = -5.843861
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.7497, y = -6.078904
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.94179, y = -6.406981
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.04067, y = -6.620894
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.14686, y = -6.955619
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.19581, y = -7.198693
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.25401, y = -7.604962
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.29492, y = -7.9053
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.37955, y = -8.393564
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.46042, y = -8.735692
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.62579, y = -9.254009
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.76423, y = -9.590652
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.0032, y = -10.06421
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.173, y = -10.35226
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.42244, y = -10.74031
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.57353, y = -10.97365
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.76233, y = -11.30051
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.85887, y = -11.51464
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.96206, y = -11.85119
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.00974, y = -12.09624
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.06751, y = -12.50599
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.10918, y = -12.80856
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.19627, y = -13.29932
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.27937, y = -13.64223
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.44822, y = -14.16015
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.58865, y = -14.49553
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.82948, y = -14.96611
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.99952, y = -15.25183
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.24777, y = -15.63657
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.39717, y = -15.86827
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.58264, y = -16.19402
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.67684, y = -16.40846
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.77711, y = -16.74694
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.82358, y = -16.99401
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.88105, y = -17.40726
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.92356, y = -17.71202
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.01321, y = -18.20518
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.09855, y = -18.54879
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.27087, y = -19.0662
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.41325, y = -19.40025
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.65581, y = -19.86779
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -19.44158, y = -19.76672
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.99963, y = -19.45933
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.68803, y = -19.23019
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -18.18126, y = -18.86606
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.81388, y = -18.62164
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -17.22241, y = -18.27326
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.80849, y = -18.06314
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -16.1769, y = -17.791
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.76107, y = -17.63868
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -15.16448, y = -17.44526
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.79283, y = -17.33024
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -14.27972, y = -17.15812
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.96473, y = -17.03152
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.52005, y = -16.80707
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -13.23107, y = -16.62883
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.93818, y = -16.4271
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -12.4743, y = -16.08758
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.96412, y = -15.72259
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.59444, y = -15.47863
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -11.00018, y = -15.13238
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -10.5852, y = -14.92437
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.953559, y = -14.65574
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -9.538724, y = -14.50555
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.944852, y = -14.31435
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.5755, y = -14.19987
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -8.065807, y = -14.02698
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.752664, y = -13.89892
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.309502, y = -13.67131
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -7.02052, y = -13.49071
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.575611, y = -13.17696
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -6.260357, y = -12.94485
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.746754, y = -12.57912
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -5.374787, y = -12.33572
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.777816, y = -11.9917
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -4.361852, y = -11.78582
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.73028, y = -11.5207
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -3.316515, y = -11.3726
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.72544, y = -11.18352
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -2.358396, y = -11.0695
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.852098, y = -10.89573
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.540745, y = -10.76614
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -1.098992, y = -10.53531
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.8099206, y = -10.35236
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.3633634, y = -10.03552
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = -0.04620758, y = -9.802024
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 0.470847, y = -9.435664
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 0.845081, y = -9.192898
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 1.44468, y = -8.8512
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 1.861551, y = -8.647495
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 2.492927, y = -8.385873
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 2.905549, y = -8.239839
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 3.493754, y = -8.05277
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 3.858474, y = -7.939127
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 4.361412, y = -7.764355
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 4.671029, y = -7.633177
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 5.111488, y = -7.39909
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 5.400732, y = -7.213793
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 5.849047, y = -6.893915
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 6.168152, y = -6.659099
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 6.688678, y = -6.292238
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 7.065155, y = -6.050185
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 7.667297, y = -5.710903
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 8.084998, y = -5.509401
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 8.716054, y = -5.251272
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 9.12746, y = -5.107254
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 9.712726, y = -4.922097
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 10.07511, y = -4.808749
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 10.57472, y = -4.632854
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 10.88266, y = -4.500025
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 11.32194, y = -4.262634
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 11.61145, y = -4.074996
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 12.06162, y = -3.752147
+
+[ Allan Ariel Bot ] arenaRadius = 30.0; x = 12.38273, y = -3.516083
+

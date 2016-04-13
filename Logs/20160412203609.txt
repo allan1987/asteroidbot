@@ -1,0 +1,1175 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] x = 0.0, y = 27.0
+Velx = 0.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = 0.0, y = 27.0
+Velx = 0.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = 0.0, y = 27.0
+Velx = 0.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -0.036, y = 27.0
+Velx = -1.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -0.18, y = 27.0
+Velx = -3.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -0.336, y = 27.0
+Velx = -4.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -0.66, y = 27.0
+Velx = -6.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -0.7919999, y = 27.0
+Velx = -6.599999, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -1.44, y = 27.0
+Velx = -9.0, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -1.836, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -2.448, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -2.856, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -3.468, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -3.876, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -4.488, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -4.896, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -5.508, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -5.916, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -6.528, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -6.936, y = 27.0
+Velx = -10.2, Vely = 0.0
+
+[ Allan Ariel Bot ] x = -7.531659, y = 26.94613
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -7.870899, y = 26.71946
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -8.379758, y = 26.37945
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -8.718997, y = 26.15278
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -9.227856, y = 25.81277
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -9.567095, y = 25.58609
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -10.07595, y = 25.24608
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -10.41519, y = 25.01941
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -10.92405, y = 24.6794
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -11.26329, y = 24.45273
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -11.77215, y = 24.11272
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -12.11139, y = 23.88605
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -12.62025, y = 23.54604
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -12.95949, y = 23.31936
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -13.46834, y = 22.97935
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -13.80758, y = 22.75268
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -14.31644, y = 22.41267
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -14.65568, y = 22.186
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -15.16454, y = 21.84599
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -15.50378, y = 21.61931
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -16.01264, y = 21.2793
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -16.35188, y = 21.05263
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -16.86074, y = 20.71262
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -17.19998, y = 20.48595
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -17.70884, y = 20.14594
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -18.04808, y = 19.91927
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -18.55695, y = 19.57926
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -18.89619, y = 19.35258
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -19.40505, y = 19.01257
+Velx = -8.480991, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -19.78029, y = 18.7859
+Velx = -9.680992, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -20.43315, y = 18.44589
+Velx = -11.48099, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -20.92839, y = 18.21922
+Velx = -12.68099, Vely = -5.666816
+
+[ Allan Ariel Bot ] x = -21.52234, y = 17.68314
+Velx = -3.449882, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -21.69633, y = 17.09435
+Velx = -4.649882, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -22.04733, y = 16.21116
+Velx = -6.449882, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -22.34132, y = 15.62237
+Velx = -7.649882, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -22.87231, y = 14.73918
+Velx = -9.449883, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -23.28631, y = 14.15039
+Velx = -10.64988, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -23.9973, y = 13.2672
+Velx = -12.44988, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -24.5313, y = 12.67841
+Velx = -13.64989, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -25.42229, y = 11.79522
+Velx = -15.44989, Vely = -14.71982
+
+[ Allan Ariel Bot ] x = -25.39667, y = 10.92492
+Velx = 0.3405003, Vely = -21.75747
+
+[ Allan Ariel Bot ] x = -25.44824, y = 9.619473
+Velx = -1.4595, Vely = -21.75747
+
+[ Allan Ariel Bot ] x = -25.54262, y = 8.749174
+Velx = -2.659499, Vely = -21.75747
+
+[ Allan Ariel Bot ] x = -25.77419, y = 7.443727
+Velx = -4.459499, Vely = -21.75747
+
+[ Allan Ariel Bot ] x = -25.98857, y = 6.573427
+Velx = -5.659499, Vely = -21.75747
+
+[ Allan Ariel Bot ] x = -26.40014, y = 5.267978
+Velx = -7.459499, Vely = -21.75748
+
+[ Allan Ariel Bot ] x = -26.73452, y = 4.397679
+Velx = -8.659499, Vely = -21.75748
+
+[ Allan Ariel Bot ] x = -27.32609, y = 3.09223
+Velx = -10.4595, Vely = -21.75749
+
+[ Allan Ariel Bot ] x = -27.78047, y = 2.22193
+Velx = -11.6595, Vely = -21.7575
+
+[ Allan Ariel Bot ] x = -27.61959, y = 0.8246415
+Velx = 6.579266, Vely = -23.73115
+
+[ Allan Ariel Bot ] x = -27.39242, y = -0.1246047
+Velx = 5.379266, Vely = -23.73116
+
+[ Allan Ariel Bot ] x = -27.14167, y = -1.548475
+Velx = 3.579266, Vely = -23.73117
+
+[ Allan Ariel Bot ] x = -27.0345, y = -2.497722
+Velx = 2.379266, Vely = -23.73118
+
+[ Allan Ariel Bot ] x = -26.96374, y = -3.921593
+Velx = 0.5792665, Vely = -23.73119
+
+[ Allan Ariel Bot ] x = -26.97657, y = -4.870841
+Velx = -0.6207334, Vely = -23.7312
+
+[ Allan Ariel Bot ] x = -27.08581, y = -6.294714
+Velx = -2.420733, Vely = -23.73122
+
+[ Allan Ariel Bot ] x = -26.9328, y = -7.157255
+Velx = 16.19489, Vely = -17.72023
+
+[ Allan Ariel Bot ] x = -26.03311, y = -8.220469
+Velx = 14.39489, Vely = -17.72025
+
+[ Allan Ariel Bot ] x = -25.49332, y = -8.92928
+Velx = 13.19489, Vely = -17.72026
+
+[ Allan Ariel Bot ] x = -24.77362, y = -9.992496
+Velx = 11.39489, Vely = -17.72028
+
+[ Allan Ariel Bot ] x = -24.35383, y = -10.70131
+Velx = 10.19489, Vely = -17.72029
+
+[ Allan Ariel Bot ] x = -23.81413, y = -11.76453
+Velx = 8.394888, Vely = -17.72032
+
+[ Allan Ariel Bot ] x = -23.51434, y = -12.47334
+Velx = 7.194888, Vely = -17.72033
+
+[ Allan Ariel Bot ] x = -23.15464, y = -13.53656
+Velx = 5.394888, Vely = -17.72035
+
+[ Allan Ariel Bot ] x = -22.97485, y = -14.24537
+Velx = 4.194889, Vely = -17.72037
+
+[ Allan Ariel Bot ] x = -22.79515, y = -15.3086
+Velx = 2.394889, Vely = -17.7204
+
+[ Allan Ariel Bot ] x = -22.73536, y = -16.01741
+Velx = 1.194889, Vely = -17.72042
+
+[ Allan Ariel Bot ] x = -22.098, y = -16.65457
+Velx = 15.77351, Vely = -6.776593
+
+[ Allan Ariel Bot ] x = -21.50306, y = -16.92563
+Velx = 14.57351, Vely = -6.776613
+
+[ Allan Ariel Bot ] x = -20.70065, y = -17.33223
+Velx = 12.77351, Vely = -6.776644
+
+[ Allan Ariel Bot ] x = -20.22571, y = -17.60329
+Velx = 11.57351, Vely = -6.776666
+
+[ Allan Ariel Bot ] x = -19.6033, y = -18.0099
+Velx = 9.773506, Vely = -6.776699
+
+[ Allan Ariel Bot ] x = -19.24836, y = -18.28097
+Velx = 8.573505, Vely = -6.776721
+
+[ Allan Ariel Bot ] x = -18.80595, y = -18.68757
+Velx = 6.773506, Vely = -6.776757
+
+[ Allan Ariel Bot ] x = -18.57101, y = -18.95864
+Velx = 5.573506, Vely = -6.776781
+
+[ Allan Ariel Bot ] x = -18.3086, y = -19.36525
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -18.15766, y = -19.63632
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.93125, y = -20.04293
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.78031, y = -20.314
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.5539, y = -20.72061
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.40296, y = -20.99168
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.17655, y = -21.39829
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -17.02561, y = -21.66936
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -16.7992, y = -22.07597
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -16.64826, y = -22.34705
+Velx = 3.773506, Vely = -6.776818
+
+[ Allan Ariel Bot ] x = -16.37475, y = -22.68317
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -16.06655, y = -22.71889
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -15.60425, y = -22.77246
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -15.29605, y = -22.80818
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -14.83375, y = -22.86176
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -14.52555, y = -22.89747
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -14.06325, y = -22.95105
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -13.75505, y = -22.98676
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -13.29275, y = -23.04034
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -12.98454, y = -23.07606
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -12.52224, y = -23.12963
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -12.21404, y = -23.16535
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -11.75174, y = -23.21893
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -11.44354, y = -23.25464
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -10.98124, y = -23.30822
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -10.67304, y = -23.34394
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -10.21074, y = -23.39751
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -9.902536, y = -23.43323
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -9.440235, y = -23.4868
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -9.132034, y = -23.52252
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -8.669733, y = -23.5761
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -8.361532, y = -23.61181
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -7.899231, y = -23.66539
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -7.59103, y = -23.70111
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -7.128729, y = -23.75468
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -6.820528, y = -23.7904
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -6.358227, y = -23.84397
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -6.050026, y = -23.87969
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -5.587725, y = -23.93327
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -5.279524, y = -23.96898
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -4.817223, y = -24.02256
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -4.509022, y = -24.05828
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -4.046721, y = -24.11185
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -3.73852, y = -24.14757
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -3.276218, y = -24.20114
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -2.968018, y = -24.23686
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -2.505716, y = -24.29044
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -2.197515, y = -24.32615
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -1.735214, y = -24.37973
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -1.427013, y = -24.41545
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -0.9647121, y = -24.46902
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -0.6565113, y = -24.50474
+Velx = 7.705021, Vely = -0.8928931
+
+[ Allan Ariel Bot ] x = -0.26621, y = -24.55831
+Velx = 5.905022, Vely = -0.8929416
+
+[ Allan Ariel Bot ] x = -0.06600911, y = -24.59403
+Velx = 4.705022, Vely = -0.8929739
+
+[ Allan Ariel Bot ] x = 0.1442922, y = -24.64761
+Velx = 2.905022, Vely = -0.8930224
+
+[ Allan Ariel Bot ] x = 0.2244931, y = -24.68333
+Velx = 1.705022, Vely = -0.8930547
+
+[ Allan Ariel Bot ] x = 0.2547944, y = -24.73692
+Velx = -0.0949775, Vely = -0.8931031
+
+[ Allan Ariel Bot ] x = 0.2149954, y = -24.77265
+Velx = -1.294977, Vely = -0.8931354
+
+[ Allan Ariel Bot ] x = 0.06529671, y = -24.82624
+Velx = -3.094977, Vely = -0.8931839
+
+[ Allan Ariel Bot ] x = -0.09450237, y = -24.86197
+Velx = -4.294977, Vely = -0.8932162
+
+[ Allan Ariel Bot ] x = -0.424201, y = -24.91556
+Velx = -6.094977, Vely = -0.8932647
+
+[ Allan Ariel Bot ] x = -0.7040001, y = -24.95129
+Velx = -7.294977, Vely = -0.893297
+
+[ Allan Ariel Bot ] x = -1.213699, y = -25.00489
+Velx = -9.094977, Vely = -0.8933454
+
+[ Allan Ariel Bot ] x = -1.613498, y = -25.04063
+Velx = -10.29498, Vely = -0.8933777
+
+[ Allan Ariel Bot ] x = -2.303196, y = -25.09423
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -2.786995, y = -25.12997
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -3.512694, y = -25.18357
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -3.996493, y = -25.21931
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -4.722191, y = -25.27291
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -5.20599, y = -25.30865
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -5.931689, y = -25.36225
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -6.415488, y = -25.39799
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -7.141186, y = -25.45159
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -7.624985, y = -25.48733
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -8.350684, y = -25.54093
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -8.834483, y = -25.57667
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -9.560182, y = -25.63027
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -10.04398, y = -25.66601
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -10.76968, y = -25.71961
+Velx = -12.09498, Vely = -0.8934262
+
+[ Allan Ariel Bot ] x = -11.16999, y = -25.5538
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -11.64523, y = -25.00275
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -11.96206, y = -24.63538
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -12.4373, y = -24.08433
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -12.75413, y = -23.71696
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -13.22937, y = -23.16591
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -13.5462, y = -22.79855
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -14.02144, y = -22.2475
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -14.33827, y = -21.88013
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -14.81351, y = -21.32908
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -15.13034, y = -20.96171
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -15.60558, y = -20.41066
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -15.92241, y = -20.04329
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -16.39765, y = -19.49224
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -16.71447, y = -19.12488
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -17.18971, y = -18.57383
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -17.50654, y = -18.20646
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -17.98178, y = -17.65541
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -18.2986, y = -17.28804
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -18.77384, y = -16.73699
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -19.09067, y = -16.36963
+Velx = -7.920686, Vely = 9.184197
+
+[ Allan Ariel Bot ] x = -19.63791, y = -15.81858
+Velx = -9.720687, Vely = 9.184126
+
+[ Allan Ariel Bot ] x = -20.06274, y = -15.45121
+Velx = -10.92069, Vely = 9.184078
+
+[ Allan Ariel Bot ] x = -20.78998, y = -14.90017
+Velx = -12.72069, Vely = 9.184006
+
+[ Allan Ariel Bot ] x = -21.33481, y = -14.53281
+Velx = -13.92069, Vely = 9.183956
+
+[ Allan Ariel Bot ] x = -22.24205, y = -13.98178
+Velx = -15.72069, Vely = 9.183882
+
+[ Allan Ariel Bot ] x = -22.90687, y = -13.61442
+Velx = -16.92069, Vely = 9.18383
+
+[ Allan Ariel Bot ] x = -23.99412, y = -13.0634
+Velx = -18.72069, Vely = 9.183753
+
+[ Allan Ariel Bot ] x = -24.77894, y = -12.69605
+Velx = -19.92069, Vely = 9.183702
+
+[ Allan Ariel Bot ] x = -24.87502, y = -11.51903
+Velx = 2.564763, Vely = 22.16445
+
+[ Allan Ariel Bot ] x = -24.80843, y = -10.63246
+Velx = 1.364763, Vely = 22.1644
+
+[ Allan Ariel Bot ] x = -24.79855, y = -9.302595
+Velx = -0.4352364, Vely = 22.16432
+
+[ Allan Ariel Bot ] x = -24.85196, y = -8.416024
+Velx = -1.635236, Vely = 22.16426
+
+[ Allan Ariel Bot ] x = -25.02207, y = -7.086172
+Velx = -3.435236, Vely = 22.16418
+
+[ Allan Ariel Bot ] x = -25.19548, y = -6.199606
+Velx = -4.635236, Vely = 22.16413
+
+[ Allan Ariel Bot ] x = -25.5456, y = -4.869761
+Velx = -6.435236, Vely = 22.16405
+
+[ Allan Ariel Bot ] x = -25.839, y = -3.9832
+Velx = -7.635235, Vely = 22.164
+
+[ Allan Ariel Bot ] x = -26.36912, y = -2.653364
+Velx = -9.435236, Vely = 22.16392
+
+[ Allan Ariel Bot ] x = -26.78253, y = -1.766809
+Velx = -10.63524, Vely = 22.16386
+
+[ Allan Ariel Bot ] x = -27.49264, y = -0.43698
+Velx = -12.43524, Vely = 22.16378
+
+[ Allan Ariel Bot ] x = -27.97457, y = 0.4495697
+Velx = 13.63524, Vely = 22.16373
+
+[ Allan Ariel Bot ] x = -27.22845, y = 1.77939
+Velx = 11.83524, Vely = 22.16365
+
+[ Allan Ariel Bot ] x = -26.79104, y = 2.665935
+Velx = 10.63524, Vely = 22.1636
+
+[ Allan Ariel Bot ] x = -26.22493, y = 3.995748
+Velx = 8.835236, Vely = 22.16352
+
+[ Allan Ariel Bot ] x = -25.90752, y = 4.882287
+Velx = 7.635235, Vely = 22.16346
+
+[ Allan Ariel Bot ] x = -25.52141, y = 6.212091
+Velx = 5.835236, Vely = 22.16338
+
+[ Allan Ariel Bot ] x = -25.324, y = 7.098625
+Velx = 4.635236, Vely = 22.16333
+
+[ Allan Ariel Bot ] x = -25.11788, y = 8.428422
+Velx = 2.835236, Vely = 22.16325
+
+[ Allan Ariel Bot ] x = -25.04047, y = 9.31495
+Velx = 1.635236, Vely = 22.1632
+
+[ Allan Ariel Bot ] x = -25.01436, y = 10.64474
+Velx = -0.1647636, Vely = 22.16312
+
+[ Allan Ariel Bot ] x = -25.05695, y = 11.53126
+Velx = -1.364763, Vely = 22.16306
+
+[ Allan Ariel Bot ] x = -24.70685, y = 12.59166
+Velx = 19.25276, Vely = 10.18058
+
+[ Allan Ariel Bot ] x = -23.97274, y = 12.99888
+Velx = 18.05276, Vely = 10.18053
+
+[ Allan Ariel Bot ] x = -22.96158, y = 13.60971
+Velx = 16.25276, Vely = 10.18045
+
+[ Allan Ariel Bot ] x = -22.34747, y = 14.01693
+Velx = 15.05276, Vely = 10.1804
+
+[ Allan Ariel Bot ] x = -21.5163, y = 14.62775
+Velx = 13.25276, Vely = 10.18032
+
+[ Allan Ariel Bot ] x = -21.02219, y = 15.03496
+Velx = 12.05276, Vely = 10.18027
+
+[ Allan Ariel Bot ] x = -20.37103, y = 15.64577
+Velx = 10.25276, Vely = 10.1802
+
+[ Allan Ariel Bot ] x = -19.99692, y = 16.05298
+Velx = 9.052757, Vely = 10.18015
+
+[ Allan Ariel Bot ] x = -19.52575, y = 16.66378
+Velx = 7.252757, Vely = 10.18008
+
+[ Allan Ariel Bot ] x = -19.27164, y = 17.07099
+Velx = 6.052757, Vely = 10.18003
+
+[ Allan Ariel Bot ] x = -18.98047, y = 17.68179
+Velx = 4.252758, Vely = 10.17997
+
+[ Allan Ariel Bot ] x = -18.84636, y = 18.08898
+Velx = 3.052758, Vely = 10.17992
+
+[ Allan Ariel Bot ] x = -18.7352, y = 18.69978
+Velx = 1.252758, Vely = 10.17985
+
+[ Allan Ariel Bot ] x = -18.72109, y = 19.10697
+Velx = 0.0527581, Vely = 10.17981
+
+[ Allan Ariel Bot ] x = -18.78992, y = 19.71775
+Velx = -1.747242, Vely = 10.17974
+
+[ Allan Ariel Bot ] x = -18.89581, y = 20.12494
+Velx = -2.947242, Vely = 10.1797
+
+[ Allan Ariel Bot ] x = -18.86237, y = 20.45344
+Velx = 10.17964, Vely = -4.74724
+
+[ Allan Ariel Bot ] x = -18.49118, y = 20.26355
+Velx = 8.979639, Vely = -4.747281
+
+[ Allan Ariel Bot ] x = -18.0244, y = 19.97871
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -17.73722, y = 19.78882
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -17.30644, y = 19.50398
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -17.01925, y = 19.31409
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -16.58848, y = 19.02925
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -16.30129, y = 18.83936
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -15.87051, y = 18.55453
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -15.58333, y = 18.36463
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -15.15255, y = 18.0798
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -14.86536, y = 17.8899
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -14.43458, y = 17.60507
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -14.1474, y = 17.41517
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -13.71662, y = 17.13034
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -13.42943, y = 16.94044
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -12.99866, y = 16.65561
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -12.71147, y = 16.46572
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -12.28069, y = 16.18088
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -11.99351, y = 15.99098
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -11.56273, y = 15.70614
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -11.27554, y = 15.51625
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -10.84476, y = 15.23141
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -10.55758, y = 15.04152
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -10.1268, y = 14.75668
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -9.839613, y = 14.56678
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -9.408834, y = 14.28194
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -9.121649, y = 14.09205
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -8.69087, y = 13.80721
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -8.403685, y = 13.61731
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -7.972906, y = 13.33247
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -7.68572, y = 13.14258
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -7.254942, y = 12.85774
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -6.967756, y = 12.66784
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -6.536978, y = 12.383
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -6.249792, y = 12.19311
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -5.819014, y = 11.90827
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -5.531828, y = 11.71838
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -5.101049, y = 11.43354
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -4.813864, y = 11.24364
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -4.383085, y = 10.9588
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -4.0959, y = 10.76891
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -3.665121, y = 10.48407
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -3.377935, y = 10.29417
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -2.947157, y = 10.00933
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -2.659971, y = 9.819439
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -2.229193, y = 9.534598
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -1.942007, y = 9.344705
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -1.511229, y = 9.059864
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -1.224043, y = 8.86997
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -0.7932645, y = 8.58513
+Velx = 7.179639, Vely = -4.747342
+
+[ Allan Ariel Bot ] x = -0.542079, y = 8.395236
+Velx = 5.979639, Vely = -4.747347
+
+[ Allan Ariel Bot ] x = -0.2553006, y = 8.110395
+Velx = 4.179639, Vely = -4.747354
+
+[ Allan Ariel Bot ] x = -0.1241151, y = 7.920501
+Velx = 2.97964, Vely = -4.747357
+
+[ Allan Ariel Bot ] x = -0.01733669, y = 7.635659
+Velx = 1.17964, Vely = -4.747362
+
+[ Allan Ariel Bot ] x = -0.00615109, y = 7.445765
+Velx = -0.02036011, Vely = -4.747365
+
+[ Allan Ariel Bot ] x = -0.07937269, y = 7.160923
+Velx = -1.82036, Vely = -4.747367
+
+[ Allan Ariel Bot ] x = -0.1881871, y = 6.971028
+Velx = -3.02036, Vely = -4.747368
+
+[ Allan Ariel Bot ] x = -0.4414086, y = 6.686186
+Velx = -4.82036, Vely = -4.747368
+
+[ Allan Ariel Bot ] x = -0.670223, y = 6.496291
+Velx = -6.02036, Vely = -4.747368
+
+[ Allan Ariel Bot ] x = -1.103445, y = 6.211449
+Velx = -7.820359, Vely = -4.747366
+
+[ Allan Ariel Bot ] x = -1.452259, y = 6.021554
+Velx = -9.02036, Vely = -4.747364
+
+[ Allan Ariel Bot ] x = -2.065481, y = 5.736712
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -2.498295, y = 5.546818
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -3.147517, y = 5.261976
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -3.580332, y = 5.072081
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -4.229554, y = 4.787239
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -4.662368, y = 4.597344
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -5.31159, y = 4.312502
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -5.960812, y = 4.02766
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -6.393627, y = 3.837766
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -6.826441, y = 3.647872
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -7.475663, y = 3.363031
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -8.124885, y = 3.078189
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -8.557698, y = 2.888295
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -8.990512, y = 2.698401
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -9.639732, y = 2.41356
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -10.28895, y = 2.128718
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -10.93817, y = 1.843877
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -11.15458, y = 1.74893
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -12.02021, y = 1.369141
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -12.45302, y = 1.179246
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -13.10224, y = 0.8944046
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -13.53506, y = 0.7045102
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -13.96787, y = 0.5146158
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -14.61709, y = 0.2297741
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -15.0499, y = 0.03987972
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -15.69912, y = -0.2449619
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -16.13194, y = -0.4348563
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -16.78116, y = -0.719698
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -17.43038, y = -1.00454
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -17.8632, y = -1.194434
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -18.51242, y = -1.479276
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -18.94524, y = -1.66917
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -19.59446, y = -1.954012
+Velx = -10.82036, Vely = -4.74736
+
+[ Allan Ariel Bot ] x = -20.06328, y = -2.143905
+Velx = -12.02036, Vely = -4.747334
+
+[ Allan Ariel Bot ] x = -20.58009, y = -2.333798
+Velx = -13.22036, Vely = -4.747306
+
+[ Allan Ariel Bot ] x = -21.44531, y = -2.618635
+Velx = -15.02036, Vely = -4.747265
+
+[ Allan Ariel Bot ] x = -22.08213, y = -2.808524
+Velx = -16.22036, Vely = -4.747236
+
+[ Allan Ariel Bot ] x = -23.12735, y = -3.093357
+Velx = -18.02036, Vely = -4.747192
+
+[ Allan Ariel Bot ] x = -24.28057, y = -3.378187
+Velx = -19.82037, Vely = -4.747147
+
+[ Allan Ariel Bot ] x = -24.68898, y = -3.473129
+Velx = -20.42037, Vely = -4.747132
+
+[ Allan Ariel Bot ] x = -26.44261, y = -3.852897
+Velx = -22.82037, Vely = -4.747069
+
+[ Allan Ariel Bot ] x = -27.39142, y = -4.042778
+Velx = -24.02037, Vely = -4.747037
+
+[ Allan Ariel Bot ] x = -27.07582, y = -4.094266
+Velx = 24.85908, Vely = 0.5305675
+
+[ Allan Ariel Bot ] x = -25.65628, y = -4.06243
+Velx = 23.05908, Vely = 0.5306169
+
+[ Allan Ariel Bot ] x = -24.34474, y = -4.030591
+Velx = 21.25908, Vely = 0.5306662
+
+[ Allan Ariel Bot ] x = -23.53037, y = -4.009364
+Velx = 20.05907, Vely = 0.5306991
+
+[ Allan Ariel Bot ] x = -22.39883, y = -3.97752
+Velx = 18.25907, Vely = 0.5307485
+
+[ Allan Ariel Bot ] x = -22.04565, y = -3.966905
+Velx = 17.65907, Vely = 0.5307649
+
+[ Allan Ariel Bot ] x = -20.75292, y = -3.92444
+Velx = 15.25907, Vely = 0.5308307
+
+[ Allan Ariel Bot ] x = -20.17856, y = -3.903206
+Velx = 14.05907, Vely = 0.5308636
+
+[ Allan Ariel Bot ] x = -19.40701, y = -3.871352
+Velx = 12.25907, Vely = 0.530913
+
+[ Allan Ariel Bot ] x = -18.95265, y = -3.850115
+Velx = 11.05907, Vely = 0.5309459
+
+[ Allan Ariel Bot ] x = -18.54629, y = -3.828876
+Velx = 9.859068, Vely = 0.5309788
+
+[ Allan Ariel Bot ] x = -18.02674, y = -3.797015
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -17.5432, y = -3.765154
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -17.22084, y = -3.743912
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -16.89848, y = -3.722671
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -16.41494, y = -3.690809
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -16.09258, y = -3.669568
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -15.60903, y = -3.637707
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -15.28667, y = -3.616465
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -14.80313, y = -3.584604
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -14.31958, y = -3.552742
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -13.99722, y = -3.531501
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -13.67486, y = -3.510259
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -13.19131, y = -3.478398
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -12.70777, y = -3.446536
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -12.38541, y = -3.425295
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -11.90186, y = -3.393433
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -11.5795, y = -3.372192
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -11.25714, y = -3.35095
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -10.77359, y = -3.319089
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -10.29005, y = -3.287227
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -9.967684, y = -3.265986
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -9.645321, y = -3.244745
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -9.161777, y = -3.212883
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -8.678232, y = -3.181021
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -8.355869, y = -3.15978
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -8.033506, y = -3.138539
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -7.549962, y = -3.106677
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -7.227599, y = -3.085436
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -6.744055, y = -3.053574
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -6.421692, y = -3.032333
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -5.938148, y = -3.000471
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -5.615785, y = -2.97923
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -5.13224, y = -2.947368
+Velx = 8.059067, Vely = 0.5310282
+
+[ Allan Ariel Bot ] x = -4.809877, y = -2.926127
+Velx = 8.059067, Vely = 0.5310282
+
