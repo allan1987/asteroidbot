@@ -153,7 +153,7 @@ public class FuzzyTest {
         
         RuleBlock ruleBlock = new RuleBlock();
         ruleBlock.setEnabled(true);
-        ruleBlock.addRule(Rule.parse("if posX is EXTREMO_ESQUERDA then motorFrente is DIREITA and motorFundo is DIREITA", engine));
+        ruleBlock.addRule(Rule.parse("if posX is EXTREMO_ESQUERDA and (posX is EXTREMO_ESQUERDA or posX is EXTREMO_ESQUERDA or posX is EXTREMO_ESQUERDA) then motorFrente is DIREITA and motorFundo is DIREITA", engine));
         ruleBlock.addRule(Rule.parse("if posX is ESQUERDA then motorFrente is NADA and motorFundo is NADA", engine));
         ruleBlock.addRule(Rule.parse("if posX is MEIO then motorFrente is DIREITA and motorFundo is DIREITA", engine));
         ruleBlock.addRule(Rule.parse("if posX is DIREITA then motorFrente is NADA and motorFundo is NADA", engine));

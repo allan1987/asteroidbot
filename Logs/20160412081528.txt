@@ -1,8 +1,0 @@
-[ Allan Ariel Bot ] Exception in thread "main" java.lang.RuntimeException: [parsing error] mismatching parentheses in: deltaXFromLeft is LOW and (deltaYFromTop is LOW or deltaYFromBottom is LOW 
-	at com.fuzzylite.term.Function.toPostfix(Function.java:511)
-	at com.fuzzylite.rule.Antecedent.load(Antecedent.java:173)
-	at com.fuzzylite.rule.Rule.load(Rule.java:203)
-	at com.fuzzylite.rule.Rule.parse(Rule.java:219)
-	at impl.AllanArielBot.<init>(AllanArielBot.java:128)
-	at impl.AllanArielBot.main(AllanArielBot.java:135)
-
