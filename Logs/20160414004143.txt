@@ -1,0 +1,1234 @@
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -39.86443, y = 34.05222
+nearUid = -88664 e Distance = 1037.6935839890393
+menor x = -39.86443, y = 34.05222
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -32.207576751708984, diffY = -0.6046352386474609, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -39.61907, y = 33.87961
+nearUid = -88664 e Distance = 1022.1873268668314
+menor x = -39.61907, y = 33.87961
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -31.962215423583984, diffY = -0.7772464752197266, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -39.45549, y = 33.76453
+nearUid = -88664 e Distance = 1011.9495827892424
+menor x = -39.45549, y = 33.76453
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -31.79863739013672, diffY = -0.8923244476318359, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -39.21013, y = 33.59192
+nearUid = -88664 e Distance = 996.743318257013
+menor x = -39.21013, y = 33.59192
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -31.55327606201172, diffY = -1.0649356842041016, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -39.04656, y = 33.47685
+nearUid = -88664 e Distance = 986.7060355175818
+menor x = -39.04656, y = 33.47685
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -31.389705657958984, diffY = -1.1800060272216797, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -38.8012, y = 33.30424
+nearUid = -88664 e Distance = 971.7999844904443
+menor x = -38.8012, y = 33.30424
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -31.14434814453125, diffY = -1.3526134490966797, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -38.63762, y = 33.18916
+nearUid = -88664 e Distance = 961.9620096177132
+menor x = -38.63762, y = 33.18916
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -30.98076629638672, diffY = -1.4676952362060547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -38.39226, y = 33.01655
+nearUid = -88664 e Distance = 947.3559583802307
+menor x = -38.39226, y = 33.01655
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -30.735408782958984, diffY = -1.6403064727783203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -38.22869, y = 32.90148
+nearUid = -88664 e Distance = 937.7186362389511
+menor x = -38.22869, y = 32.90148
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -30.57183837890625, diffY = -1.7553730010986328, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.98333, y = 32.72887
+nearUid = -88664 e Distance = 923.4123335322693
+menor x = -37.98333, y = 32.72887
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -30.32647705078125, diffY = -1.9279842376708984, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.81975, y = 32.61379
+nearUid = -88664 e Distance = 913.9745959114989
+menor x = -37.81975, y = 32.61379
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -30.162899017333984, diffY = -2.0430660247802734, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.57439, y = 32.44118
+nearUid = -88664 e Distance = 899.9681560811077
+menor x = -37.57439, y = 32.44118
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -29.91753578186035, diffY = -2.2156734466552734, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.41082, y = 32.32611
+nearUid = -88664 e Distance = 890.730822316873
+menor x = -37.41082, y = 32.32611
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -29.753965377807617, diffY = -2.3307437896728516, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.16545, y = 32.1535
+nearUid = -88664 e Distance = 877.0240490828655
+menor x = -37.16545, y = 32.1535
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -29.508596420288086, diffY = -2.503355026245117, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -37.00188, y = 32.03842
+nearUid = -88664 e Distance = 867.9867432619867
+menor x = -37.00188, y = 32.03842
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -29.34502601623535, diffY = -2.6184329986572266, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -36.75652, y = 31.8658
+nearUid = -88664 e Distance = 854.5804661184993
+menor x = -36.75652, y = 31.8658
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -29.09966468811035, diffY = -2.7910537719726562, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -36.59295, y = 31.75073
+nearUid = -88664 e Distance = 845.7431097875997
+menor x = -36.59295, y = 31.75073
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -28.936094284057617, diffY = -2.9061241149902344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -36.34758, y = 31.57811
+nearUid = -88664 e Distance = 832.6363898501222
+menor x = -36.34758, y = 31.57811
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -28.690725326538086, diffY = -3.078744888305664, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -36.18401, y = 31.46303
+nearUid = -88664 e Distance = 823.9990846205947
+menor x = -36.18401, y = 31.46303
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -28.52715492248535, diffY = -3.1938247680664062, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.93865, y = 31.29041
+nearUid = -88664 e Distance = 811.1928044970919
+menor x = -35.93865, y = 31.29041
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -28.28179359436035, diffY = -3.366445541381836, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.77507, y = 31.17534
+nearUid = -88664 e Distance = 802.7549859023748
+menor x = -35.77507, y = 31.17534
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -28.118215560913086, diffY = -3.4815139770507812, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.52971, y = 31.00272
+nearUid = -88664 e Distance = 790.2487038560866
+menor x = -35.52971, y = 31.00272
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -27.872854232788086, diffY = -3.654134750366211, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.36614, y = 30.88764
+nearUid = -88664 e Distance = 782.0113892293775
+menor x = -35.36614, y = 30.88764
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -27.70928382873535, diffY = -3.769214630126953, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.12078, y = 30.71502
+nearUid = -88664 e Distance = 769.805315000478
+menor x = -35.12078, y = 30.71502
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -27.463926315307617, diffY = -3.941835403442383, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -35.03899, y = 30.65749
+nearUid = -88664 e Distance = 765.7762578105976
+menor x = -35.03899, y = 30.65749
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -27.38213539123535, diffY = -3.9993648529052734, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -34.79363, y = 30.48487
+nearUid = -88664 e Distance = 753.8099547028323
+menor x = -34.79363, y = 30.48487
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -27.13677406311035, diffY = -4.17198371887207, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -34.63005, y = 30.36979
+nearUid = -88664 e Distance = 745.9322347072084
+menor x = -34.63005, y = 30.36979
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -26.973196029663086, diffY = -4.287065505981445, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -34.38469, y = 30.19717
+nearUid = -88664 e Distance = 734.2659325301429
+menor x = -34.38469, y = 30.19717
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -26.727834701538086, diffY = -4.459684371948242, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -34.22112, y = 30.0821
+nearUid = -88664 e Distance = 726.5885183687569
+menor x = -34.22112, y = 30.0821
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -26.56426429748535, diffY = -4.57475471496582, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -33.97576, y = 29.90948
+nearUid = -88664 e Distance = 715.2224283346477
+menor x = -33.97576, y = 29.90948
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -26.318906784057617, diffY = -4.74737548828125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -33.81218, y = 29.7944
+nearUid = -88664 e Distance = 707.7444947093973
+menor x = -33.81218, y = 29.7944
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -26.155324935913086, diffY = -4.862455368041992, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -33.56682, y = 29.62178
+nearUid = -88664 e Distance = 696.6781866988822
+menor x = -33.56682, y = 29.62178
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -25.909963607788086, diffY = -5.035074234008789, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -33.40325, y = 29.50671
+nearUid = -88664 e Distance = 689.4009485950301
+menor x = -33.40325, y = 29.50671
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -25.746397018432617, diffY = -5.150144577026367, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -33.15789, y = 29.33409
+nearUid = -88664 e Distance = 678.6346522531421
+menor x = -33.15789, y = 29.33409
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -25.501035690307617, diffY = -5.322765350341797, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -32.99431, y = 29.21901
+nearUid = -88664 e Distance = 671.5567279502939
+menor x = -32.99431, y = 29.21901
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -25.337453842163086, diffY = -5.437845230102539, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -32.74895, y = 29.04639
+nearUid = -88664 e Distance = 661.0906055438172
+menor x = -32.74895, y = 29.04639
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -25.09209632873535, diffY = -5.610464096069336, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -32.58538, y = 28.93132
+nearUid = -88664 e Distance = 654.2131493907436
+menor x = -32.58538, y = 28.93132
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -24.928525924682617, diffY = -5.725534439086914, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -32.34002, y = 28.7587
+nearUid = -88664 e Distance = 644.0468494103443
+menor x = -32.34002, y = 28.7587
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -24.683164596557617, diffY = -5.898155212402344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -32.17644, y = 28.64362
+nearUid = -88664 e Distance = 637.3691214994833
+menor x = -32.17644, y = 28.64362
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -24.51958656311035, diffY = -6.013235092163086, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -31.93108, y = 28.471
+nearUid = -88664 e Distance = 627.5027999501108
+menor x = -31.93108, y = 28.471
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -24.27422523498535, diffY = -6.185853958129883, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -31.7675, y = 28.35593
+nearUid = -88664 e Distance = 621.0248635510106
+menor x = -31.7675, y = 28.35593
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -24.110645294189453, diffY = -6.300924301147461, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -31.52213, y = 28.18331
+nearUid = -88664 e Distance = 611.4581094179193
+menor x = -31.52213, y = 28.18331
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -23.86527442932129, diffY = -6.473545074462891, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -31.35855, y = 28.06823
+nearUid = -88664 e Distance = 605.1803004148132
+menor x = -31.35855, y = 28.06823
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -23.70169448852539, diffY = -6.588624954223633, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -31.11319, y = 27.89561
+nearUid = -88664 e Distance = 595.9140728065759
+menor x = -31.11319, y = 27.89561
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -23.456335067749023, diffY = -6.76124382019043, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -30.94961, y = 27.78054
+nearUid = -88664 e Distance = 589.8361378753361
+menor x = -30.94961, y = 27.78054
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -23.292755126953125, diffY = -6.876314163208008, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -30.70424, y = 27.60792
+nearUid = -88664 e Distance = 580.8694929823396
+menor x = -30.70424, y = 27.60792
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -23.047386169433594, diffY = -7.0489349365234375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -30.54066, y = 27.49284
+nearUid = -88664 e Distance = 574.9916957977766
+menor x = -30.54066, y = 27.49284
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -22.883806228637695, diffY = -7.16401481628418, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -30.2953, y = 27.32022
+nearUid = -88664 e Distance = 566.3253813010888
+menor x = -30.2953, y = 27.32022
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -22.638444900512695, diffY = -7.336633682250977, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -30.13172, y = 27.20515
+nearUid = -88664 e Distance = 560.6474478377095
+menor x = -30.13172, y = 27.20515
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -22.474864959716797, diffY = -7.451704025268555, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -29.88635, y = 27.03253
+nearUid = -88664 e Distance = 552.2808211460069
+menor x = -29.88635, y = 27.03253
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -22.229496002197266, diffY = -7.624324798583984, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -29.72277, y = 26.91745
+nearUid = -88664 e Distance = 544.2747126161739
+menor x = -29.72277, y = 26.91745
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -22.065916061401367, diffY = 7.574302673339844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -29.47741, y = 26.74483
+nearUid = -88664 e Distance = 530.921532052238
+menor x = -29.47741, y = 26.74483
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -21.820554733276367, diffY = 7.401683807373047, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -29.31383, y = 26.62976
+nearUid = -88664 e Distance = 522.1192929410608
+menor x = -29.31383, y = 26.62976
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -21.65697479248047, diffY = 7.286613464355469, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -29.06846, y = 26.45714
+nearUid = -88664 e Distance = 509.06578357763647
+menor x = -29.06846, y = 26.45714
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -21.411605834960938, diffY = 7.113994598388672, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -28.90488, y = 26.34206
+nearUid = -88664 e Distance = 500.4634116377347
+menor x = -28.90488, y = 26.34206
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -21.24802589416504, diffY = 6.99891471862793, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -28.65952, y = 26.16945
+nearUid = -88664 e Distance = 487.71036414300397
+menor x = -28.65952, y = 26.16945
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -21.00266456604004, diffY = 6.826305389404297, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -28.49594, y = 26.05437
+nearUid = -88664 e Distance = 479.3079958593771
+menor x = -28.49594, y = 26.05437
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -20.83908462524414, diffY = 6.711225509643555, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -28.25057, y = 25.88175
+nearUid = -88664 e Distance = 466.85447690101864
+menor x = -28.25057, y = 25.88175
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -20.59371566772461, diffY = 6.538604736328125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -28.08699, y = 25.76667
+nearUid = -88664 e Distance = 458.65211740366794
+menor x = -28.08699, y = 25.76667
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -20.43013572692871, diffY = 6.423524856567383, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -27.84163, y = 25.59406
+nearUid = -88664 e Distance = 446.49913945939625
+menor x = -27.84163, y = 25.59406
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -20.184776306152344, diffY = 6.25091552734375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -27.67805, y = 25.47898
+nearUid = -88664 e Distance = 438.4966832131613
+menor x = -27.67805, y = 25.47898
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -20.021194458007812, diffY = 6.135833740234375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -27.43268, y = 25.30636
+nearUid = -88664 e Distance = 426.64320586244867
+menor x = -27.43268, y = 25.30636
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -19.77582550048828, diffY = 5.963214874267578, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -27.2691, y = 25.19128
+nearUid = -88664 e Distance = 418.84085880764906
+menor x = -27.2691, y = 25.19128
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -19.612245559692383, diffY = 5.848134994506836, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -27.02374, y = 25.01867
+nearUid = -88664 e Distance = 407.28784864461704
+menor x = -27.02374, y = 25.01867
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -19.366886138916016, diffY = 5.67552375793457, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -26.86016, y = 24.90359
+nearUid = -88664 e Distance = 399.6855050610793
+menor x = -26.86016, y = 24.90359
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -19.203306198120117, diffY = 5.560443878173828, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -26.61479, y = 24.73097
+nearUid = -88664 e Distance = 388.43197046192654
+menor x = -26.61479, y = 24.73097
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -18.957935333251953, diffY = 5.387825012207031, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -26.45121, y = 24.61589
+nearUid = -88664 e Distance = 381.029635849678
+menor x = -26.45121, y = 24.61589
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -18.794355392456055, diffY = 5.272745132446289, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -26.20585, y = 24.44328
+nearUid = -88664 e Distance = 370.0766173132324
+menor x = -26.20585, y = 24.44328
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -18.548995971679688, diffY = 5.100133895874023, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -26.04227, y = 24.3282
+nearUid = -88664 e Distance = 362.8742861722458
+menor x = -26.04227, y = 24.3282
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -18.38541603088379, diffY = 4.985054016113281, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -25.7969, y = 24.15558
+nearUid = -88664 e Distance = 352.22077069945226
+menor x = -25.7969, y = 24.15558
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -18.140045166015625, diffY = 4.812435150146484, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -25.63332, y = 24.0405
+nearUid = -88664 e Distance = 345.2184485297548
+menor x = -25.63332, y = 24.0405
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -17.976465225219727, diffY = 4.697355270385742, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -25.38796, y = 23.86789
+nearUid = -88664 e Distance = 334.86542161989564
+menor x = -25.38796, y = 23.86789
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -17.73110580444336, diffY = 4.524744033813477, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -25.22438, y = 23.75281
+nearUid = -88664 e Distance = 328.0631029214601
+menor x = -25.22438, y = 23.75281
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -17.56752586364746, diffY = 4.409664154052734, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -24.97901, y = 23.58019
+nearUid = -88664 e Distance = 318.0096065750258
+menor x = -24.97901, y = 23.58019
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -17.322154998779297, diffY = 4.2370452880859375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -24.81543, y = 23.46511
+nearUid = -88664 e Distance = 311.4072968478795
+menor x = -24.81543, y = 23.46511
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -17.1585750579834, diffY = 4.121965408325195, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -24.57007, y = 23.2925
+nearUid = -88664 e Distance = 301.6542615646067
+menor x = -24.57007, y = 23.2925
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -16.91321563720703, diffY = 3.9493541717529297, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -24.40649, y = 23.17742
+nearUid = -88664 e Distance = 295.25195530872224
+menor x = -24.40649, y = 23.17742
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -16.749635696411133, diffY = 3.8342742919921875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -24.16112, y = 23.0048
+nearUid = -88664 e Distance = 285.79847808864724
+menor x = -24.16112, y = 23.0048
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -16.50426483154297, diffY = 3.6616554260253906, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -23.99754, y = 22.88972
+nearUid = -88664 e Distance = 279.596180804052
+menor x = -23.99754, y = 22.88972
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -16.34068489074707, diffY = 3.5465755462646484, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -23.75218, y = 22.71711
+nearUid = -88664 e Distance = 270.44313714736563
+menor x = -23.75218, y = 22.71711
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -16.095325469970703, diffY = 3.373964309692383, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -23.5886, y = 22.60203
+rock uid = -88844, x = 52.24955, y = -5.39723
+nearUid = -88664 e Distance = 264.44084333403225
+menor x = -23.5886, y = 22.60203
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -15.931745529174805, diffY = 3.2588844299316406, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -23.34323, y = 22.42941
+rock uid = -88844, x = 51.95322, y = -5.350395
+nearUid = -88664 e Distance = 255.5873852403165
+menor x = -23.34323, y = 22.42941
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -15.68637466430664, diffY = 3.0862655639648438, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -23.17965, y = 22.31433
+rock uid = -88844, x = 51.75568, y = -5.319171
+nearUid = -88664 e Distance = 249.78508906410207
+menor x = -23.17965, y = 22.31433
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -15.522794723510742, diffY = 2.9711837768554688, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -22.93429, y = 22.14172
+rock uid = -88844, x = 51.45935, y = -5.272336
+nearUid = -88664 e Distance = 241.2320483681724
+menor x = -22.93429, y = 22.14172
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -15.277435302734375, diffY = 2.798574447631836, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -22.77071, y = 22.02664
+rock uid = -88844, x = 51.26181, y = -5.241113
+nearUid = -88664 e Distance = 235.6297669973901
+menor x = -22.77071, y = 22.02664
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -15.113855361938477, diffY = 2.6834945678710938, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -22.52534, y = 21.85402
+rock uid = -88844, x = 50.96548, y = -5.194278
+nearUid = -88664 e Distance = 227.37631845180658
+menor x = -22.52534, y = 21.85402
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -14.868484497070312, diffY = 2.510873794555664, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -22.36176, y = 21.73894
+rock uid = -88844, x = 50.76794, y = -5.163055
+nearUid = -88664 e Distance = 221.9740464913084
+menor x = -22.36176, y = 21.73894
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -14.704904556274414, diffY = 2.395793914794922, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -22.1164, y = 21.56633
+rock uid = -88844, x = 50.47161, y = -5.11622
+nearUid = -88664 e Distance = 214.02099522702702
+menor x = -22.1164, y = 21.56633
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -14.459545135498047, diffY = 2.223184585571289, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -21.95282, y = 21.45125
+rock uid = -88844, x = 50.27407, y = -5.084997
+nearUid = -88664 e Distance = 208.8187262987958
+menor x = -21.95282, y = 21.45125
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -14.295965194702148, diffY = 2.108104705810547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -21.70745, y = 21.27863
+rock uid = -88844, x = 49.97775, y = -5.038162
+nearUid = -88664 e Distance = 201.16535267327708
+menor x = -21.70745, y = 21.27863
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -14.050596237182617, diffY = 1.9354839324951172, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -21.54387, y = 21.16355
+rock uid = -88844, x = 49.7802, y = -5.006938
+nearUid = -88664 e Distance = 196.16309253132204
+menor x = -21.54387, y = 21.16355
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -13.887016296386719, diffY = 1.820404052734375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -21.29851, y = 20.99094
+rock uid = -88844, x = 49.48388, y = -4.960104
+nearUid = -88664 e Distance = 188.80997772392948
+menor x = -21.29851, y = 20.99094
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -13.641654968261719, diffY = 1.6477947235107422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -21.13493, y = 20.87586
+rock uid = -88844, x = 49.28633, y = -4.92888
+nearUid = -88664 e Distance = 184.00772123824936
+menor x = -21.13493, y = 20.87586
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -13.47807502746582, diffY = 1.53271484375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -20.88956, y = 20.70324
+rock uid = -88844, x = 48.99001, y = -4.882045
+nearUid = -88664 e Distance = 176.95436581402464
+menor x = -20.88956, y = 20.70324
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -13.232706069946289, diffY = 1.3600940704345703, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -20.72598, y = 20.58816
+rock uid = -88844, x = 48.79246, y = -4.850822
+nearUid = -88664 e Distance = 172.35211811462068
+menor x = -20.72598, y = 20.58816
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -13.06912612915039, diffY = 1.2450141906738281, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -20.48062, y = 20.41555
+rock uid = -88844, x = 48.49614, y = -4.803987
+nearUid = -88664 e Distance = 165.5989958588798
+menor x = -20.48062, y = 20.41555
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -12.82376480102539, diffY = 1.0724048614501953, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -20.31704, y = 20.30047
+rock uid = -88844, x = 48.29859, y = -4.772764
+nearUid = -88664 e Distance = 161.19675181575076
+menor x = -20.31704, y = 20.30047
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -12.660184860229492, diffY = 0.9573249816894531, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -20.07167, y = 20.12785
+rock uid = -88844, x = 48.00227, y = -4.725929
+nearUid = -88664 e Distance = 154.74341459282005
+menor x = -20.07167, y = 20.12785
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -12.414815902709961, diffY = 0.7847042083740234, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -19.90809, y = 20.01277
+rock uid = -88844, x = 47.80472, y = -4.694705
+nearUid = -88664 e Distance = 150.54117933596717
+menor x = -19.90809, y = 20.01277
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -12.251235961914062, diffY = 0.6696243286132812, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -19.66273, y = 19.84016
+rock uid = -88844, x = 47.5084, y = -4.647871
+nearUid = -88664 e Distance = 144.38804963187795
+menor x = -19.66273, y = 19.84016
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -12.005874633789062, diffY = 0.49701499938964844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -19.49915, y = 19.72508
+rock uid = -88844, x = 47.31085, y = -4.616647
+nearUid = -88664 e Distance = 140.3858180313
+menor x = -19.49915, y = 19.72508
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -11.842294692993164, diffY = 0.38193511962890625, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -19.25378, y = 19.55246
+rock uid = -88844, x = 47.01453, y = -4.569812
+nearUid = -88664 e Distance = 134.5324990096633
+menor x = -19.25378, y = 19.55246
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -11.596925735473633, diffY = 0.20931434631347656, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -19.0902, y = 19.43738
+rock uid = -88844, x = 46.81698, y = -4.538589
+nearUid = -88664 e Distance = 130.7302761953615
+menor x = -19.0902, y = 19.43738
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -11.433345794677734, diffY = 0.09423446655273438, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -18.84484, y = 19.26477
+rock uid = -88844, x = 46.52066, y = -4.491754
+nearUid = -88664 e Distance = 125.17713904292395
+menor x = -18.84484, y = 19.26477
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -11.187984466552734, diffY = -0.07837486267089844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -18.68126, y = 19.14969
+rock uid = -88844, x = 46.32311, y = -4.460531
+nearUid = -88664 e Distance = 121.5749198848971
+menor x = -18.68126, y = 19.14969
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -11.024404525756836, diffY = -0.19345474243164062, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -18.43589, y = 18.97707
+rock uid = -88844, x = 46.02679, y = -4.413696
+nearUid = -88664 e Distance = 116.3216190645544
+menor x = -18.43589, y = 18.97707
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -10.779035568237305, diffY = -0.3660755157470703, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -18.27231, y = 18.86199
+rock uid = -88844, x = 45.82924, y = -4.382473
+nearUid = -88664 e Distance = 112.9194086928037
+menor x = -18.27231, y = 18.86199
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -10.615455627441406, diffY = -0.4811553955078125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -18.02695, y = 18.68938
+rock uid = -88844, x = 45.53292, y = -4.335638
+nearUid = -88664 e Distance = 107.96630365079182
+menor x = -18.02695, y = 18.68938
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -10.370096206665039, diffY = -0.6537647247314453, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -17.86337, y = 18.5743
+rock uid = -88844, x = 45.33537, y = -4.304414
+nearUid = -88664 e Distance = 104.7640963113081
+menor x = -17.86337, y = 18.5743
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -10.20651626586914, diffY = -0.7688446044921875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -17.69979, y = 18.45922
+rock uid = -88844, x = 45.13782, y = -4.273191
+nearUid = -88664 e Distance = 101.64185421257935
+menor x = -17.69979, y = 18.45922
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -10.04293441772461, diffY = -0.8839244842529297, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -17.45442, y = 18.2866
+rock uid = -88844, x = 44.8415, y = -4.226356
+nearUid = -88664 e Distance = 97.10857682829374
+menor x = -17.45442, y = 18.2866
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -9.797565460205078, diffY = -1.0565452575683594, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -17.20905, y = 18.11399
+rock uid = -88844, x = 44.54518, y = -4.179521
+nearUid = -88664 e Distance = 92.75524258541554
+menor x = -17.20905, y = 18.11399
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -9.552194595336914, diffY = -1.2291545867919922, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -17.04548, y = 17.99891
+rock uid = -88844, x = 44.34763, y = -4.148298
+nearUid = -88664 e Distance = 89.9532663209975
+menor x = -17.04548, y = 17.99891
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -9.388626098632812, diffY = -1.3442344665527344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -16.80011, y = 17.82629
+rock uid = -88844, x = 44.05131, y = -4.101463
+nearUid = -88664 e Distance = 85.89996608848014
+menor x = -16.80011, y = 17.82629
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -9.143255233764648, diffY = -1.516855239868164, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -16.63653, y = 17.71121
+rock uid = -88844, x = 43.85376, y = -4.07024
+nearUid = -88664 e Distance = 83.29778060183162
+menor x = -16.63653, y = 17.71121
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -8.97967529296875, diffY = -1.6319351196289062, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -16.47295, y = 17.59614
+rock uid = -88844, x = 43.65621, y = -4.039016
+nearUid = -88664 e Distance = 80.77556534512041
+menor x = -16.47295, y = 17.59614
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -8.816095352172852, diffY = -1.7470054626464844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -16.30938, y = 17.48106
+rock uid = -88844, x = 43.45866, y = -4.007793
+nearUid = -88664 e Distance = 78.33354980024887
+menor x = -16.30938, y = 17.48106
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -8.652524948120117, diffY = -1.8620853424072266, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -16.06401, y = 17.30844
+rock uid = -88844, x = 43.16234, y = -3.960957
+nearUid = -88664 e Distance = 74.8203008276505
+menor x = -16.06401, y = 17.30844
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -8.407155990600586, diffY = -2.0347061157226562, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -15.90043, y = 17.19336
+rock uid = -88844, x = 42.96479, y = -3.929734
+nearUid = -88664 e Distance = 72.57812591529
+menor x = -15.90043, y = 17.19336
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -8.243576049804688, diffY = -2.1497859954833984, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -15.65507, y = 17.02075
+rock uid = -88844, x = 42.66847, y = -3.882898
+nearUid = -88664 e Distance = 69.36498928908622
+menor x = -15.65507, y = 17.02075
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.99821662902832, diffY = -2.3223953247070312, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -15.49149, y = 16.90567
+rock uid = -88844, x = 42.47092, y = -3.851674
+nearUid = -88664 e Distance = 67.3228174089927
+menor x = -15.49149, y = 16.90567
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.834636688232422, diffY = -2.4374752044677734, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -15.24613, y = 16.73305
+rock uid = -88844, x = 42.1746, y = -3.804838
+nearUid = -88664 e Distance = 64.4097015047737
+menor x = -15.24613, y = 16.73305
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.589275360107422, diffY = -2.610095977783203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -15.08255, y = 16.61797
+rock uid = -88844, x = 41.97705, y = -3.773615
+nearUid = -88664 e Distance = 62.56753591492452
+menor x = -15.08255, y = 16.61797
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.425695419311523, diffY = -2.7251758575439453, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -14.83719, y = 16.44536
+rock uid = -88844, x = 41.68073, y = -3.726779
+nearUid = -88664 e Distance = 59.95438404050947
+menor x = -14.83719, y = 16.44536
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.180335998535156, diffY = -2.897785186767578, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -14.67361, y = 16.33028
+rock uid = -88844, x = 41.48318, y = -3.695555
+nearUid = -88664 e Distance = 58.31222148292727
+menor x = -14.67361, y = 16.33028
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -7.016756057739258, diffY = -3.0128650665283203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -14.42825, y = 16.15766
+rock uid = -88844, x = 41.18686, y = -3.64872
+nearUid = -88664 e Distance = 55.99913245091739
+menor x = -14.42825, y = 16.15766
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -6.771396636962891, diffY = -3.18548583984375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -14.26467, y = 16.04258
+rock uid = -88844, x = 40.98932, y = -3.617496
+nearUid = -88664 e Distance = 54.55697555957158
+menor x = -14.26467, y = 16.04258
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -6.607816696166992, diffY = -3.300565719604492, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -14.01931, y = 15.86997
+rock uid = -88844, x = 40.69299, y = -3.57066
+nearUid = -88664 e Distance = 52.54378323012861
+menor x = -14.01931, y = 15.86997
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -6.362455368041992, diffY = -3.473175048828125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -13.85573, y = 15.75489
+rock uid = -88844, x = 40.49545, y = -3.539436
+nearUid = -88664 e Distance = 51.30162999505774
+menor x = -13.85573, y = 15.75489
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -6.198875427246094, diffY = -3.588254928588867, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -13.61037, y = 15.58227
+rock uid = -88844, x = 40.19912, y = -3.492601
+nearUid = -88664 e Distance = 49.5885332067503
+menor x = -13.61037, y = 15.58227
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -5.953515529632568, diffY = -3.760875701904297, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -13.44679, y = 15.46719
+rock uid = -88844, x = 40.00158, y = -3.461377
+nearUid = -88664 e Distance = 48.54638579391781
+menor x = -13.44679, y = 15.46719
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -5.78993558883667, diffY = -3.875955581665039, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -13.20143, y = 15.29458
+rock uid = -88844, x = 39.70525, y = -3.414541
+nearUid = -88664 e Distance = 47.13320272110127
+menor x = -13.20143, y = 15.29458
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -5.544576168060303, diffY = -4.048564910888672, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -13.03785, y = 15.1795
+rock uid = -88844, x = 39.50771, y = -3.383317
+nearUid = -88664 e Distance = 46.29107422358379
+menor x = -13.03785, y = 15.1795
+ship x = 0.0, y = 27.0
+RESULT: velX = 0.0, velY = 0.0, diffX = -5.380996227264404, diffY = -4.163646697998047, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -12.79249, y = 15.00688
+rock uid = -88844, x = 39.21138, y = -3.336482
+nearUid = -88664 e Distance = 45.92267049485599
+menor x = -12.79249, y = 15.00688
+ship x = 0.072, y = 27.0
+RESULT: velX = 1.7999999523162842, velY = 0.0, diffX = -5.207635879516602, diffY = -4.336265563964844, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -12.62891, y = 14.8918
+rock uid = -88844, x = 39.01384, y = -3.305258
+nearUid = -88664 e Distance = 46.35815461111633
+menor x = -12.62891, y = 14.8918
+ship x = 0.18, y = 27.0
+RESULT: velX = 3.0, velY = 0.0, diffX = -5.152055740356445, diffY = -4.451345443725586, mPrincipal = 1, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -12.38355, y = 14.71919
+rock uid = -88844, x = 38.71751, y = -3.258422
+nearUid = -88664 e Distance = 47.99311668361065
+menor x = -12.38355, y = 14.71919
+ship x = 0.432, y = 27.0
+RESULT: velX = 4.800000190734863, velY = 0.0, diffX = -5.158695697784424, diffY = -4.623956680297852, mPrincipal = 1, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -12.21997, y = 14.60411
+rock uid = -88844, x = 38.51997, y = -3.227199
+nearUid = -88664 e Distance = 49.39949941182931
+menor x = -12.21997, y = 14.60411
+ship x = 0.66, y = 26.964
+RESULT: velX = 6.0, velY = -1.2000000476837158, diffX = -5.223115921020508, diffY = -4.703037261962891, mPrincipal = 1, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -11.97461, y = 14.43149
+rock uid = -88844, x = 38.22364, y = -3.180363
+nearUid = -88664 e Distance = 51.65402214892333
+menor x = -11.97461, y = 14.43149
+ship x = 1.092, y = 26.82
+RESULT: velX = 7.799999237060547, velY = -3.0, diffX = -5.409756183624268, diffY = -4.731655120849609, mPrincipal = 1, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -11.81103, y = 14.31641
+rock uid = -88844, x = 38.0261, y = -3.149139
+nearUid = -88664 e Distance = 53.29780194826981
+menor x = -11.81103, y = 14.31641
+ship x = 1.44, y = 26.664
+RESULT: velX = 9.0, velY = -4.199999809265137, diffX = -5.594176292419434, diffY = -4.69073486328125, mPrincipal = 1, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -11.56567, y = 14.1438
+rock uid = -88844, x = 37.72977, y = -3.102304
+nearUid = -88664 e Distance = 56.13699468839718
+menor x = -11.56567, y = 14.1438
+ship x = 2.052, y = 26.34
+RESULT: velX = 10.800000190734863, velY = -6.0, diffX = -5.960815906524658, diffY = -4.539346694946289, mPrincipal = 1, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -11.40209, y = 14.02872
+rock uid = -88844, x = 37.53223, y = -3.07108
+nearUid = -88664 e Distance = 58.423791612149216
+menor x = -11.40209, y = 14.02872
+ship x = 2.52, y = 26.064
+RESULT: velX = 12.0, velY = -7.19999885559082, diffX = -6.265235900878906, diffY = -4.378425598144531, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -11.15672, y = 13.8561
+rock uid = -88844, x = 37.2359, y = -3.024244
+nearUid = -88664 e Distance = 61.804368399498344
+menor x = -11.15672, y = 13.8561
+ship x = 3.24, y = 25.56
+RESULT: velX = 12.0, velY = -9.0, diffX = -6.739866256713867, diffY = -4.04704475402832, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -10.99315, y = 13.74102
+rock uid = -88844, x = 37.03836, y = -2.99302
+nearUid = -88664 e Distance = 64.24746629360743
+menor x = -10.99315, y = 13.74102
+ship x = 3.72, y = 25.2
+RESULT: velX = 12.0, velY = -9.0, diffX = -7.056295394897461, diffY = -3.802125930786133, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -10.74778, y = 13.56841
+rock uid = -88844, x = 36.74203, y = -2.946185
+nearUid = -88664 e Distance = 68.51225578268713
+menor x = -10.74778, y = 13.56841
+ship x = 4.44, y = 24.66
+RESULT: velX = 12.0, velY = -9.0, diffX = -7.530925750732422, diffY = -3.4347362518310547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -10.58421, y = 13.45333
+rock uid = -88844, x = 36.54449, y = -2.914961
+nearUid = -88664 e Distance = 71.75593923124893
+menor x = -10.58421, y = 13.45333
+ship x = 4.920001, y = 24.3
+RESULT: velX = 12.0, velY = -9.0, diffX = -7.847357273101807, diffY = -3.1898155212402344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -10.33884, y = 13.28071
+rock uid = -88844, x = 36.24817, y = -2.868125
+nearUid = -88664 e Distance = 77.2215957555718
+menor x = -10.33884, y = 13.28071
+ship x = 5.640001, y = 23.76
+RESULT: velX = 12.0, velY = -9.0, diffX = -8.321986198425293, diffY = -2.8224353790283203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -10.17527, y = 13.16563
+rock uid = -88844, x = 36.05062, y = -2.836901
+nearUid = -88664 e Distance = 81.26585072008675
+menor x = -10.17527, y = 13.16563
+ship x = 6.120002, y = 23.4
+RESULT: velX = 12.0, velY = -9.0, diffX = -8.638418197631836, diffY = -2.5775146484375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -9.929904, y = 12.99302
+rock uid = -88844, x = 35.7543, y = -2.790066
+nearUid = -88664 e Distance = 87.93238427659162
+menor x = -9.929904, y = 12.99302
+ship x = 6.840003, y = 22.86
+RESULT: velX = 12.0, velY = -9.0, diffX = -9.113052368164062, diffY = -2.2101268768310547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -9.766328, y = 12.87794
+rock uid = -88844, x = 35.55675, y = -2.758842
+nearUid = -88664 e Distance = 92.7770667492523
+menor x = -9.766328, y = 12.87794
+ship x = 7.320003, y = 22.5
+RESULT: velX = 12.0, velY = -9.0, diffX = -9.429476737976074, diffY = -1.9652061462402344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -9.520964, y = 12.70532
+rock uid = -88844, x = 35.26043, y = -2.712006
+nearUid = -88664 e Distance = 100.64451140374877
+menor x = -9.520964, y = 12.70532
+ship x = 8.040004, y = 21.96
+RESULT: velX = 12.0, velY = -9.0, diffX = -9.90411376953125, diffY = -1.5978240966796875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -9.357388, y = 12.59024
+rock uid = -88844, x = 35.06288, y = -2.680783
+nearUid = -88664 e Distance = 106.2897123988987
+menor x = -9.357388, y = 12.59024
+ship x = 8.520003, y = 21.59999
+RESULT: velX = 12.0, velY = -9.0, diffX = -10.220537185668945, diffY = -1.3528976440429688, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -9.112023, y = 12.41763
+rock uid = -88844, x = 34.76656, y = -2.633947
+nearUid = -88664 e Distance = 115.35791252834679
+menor x = -9.112023, y = 12.41763
+ship x = 9.240003, y = 21.05999
+RESULT: velX = 12.0, velY = -9.0, diffX = -10.695171356201172, diffY = -0.9855060577392578, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -8.948447, y = 12.30255
+rock uid = -88844, x = 34.56901, y = -2.602723
+nearUid = -88664 e Distance = 121.80368605698823
+menor x = -8.948447, y = 12.30255
+ship x = 9.720002, y = 20.69999
+RESULT: velX = 12.0, velY = -9.0, diffX = -11.011594772338867, diffY = -0.7405853271484375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -8.703083, y = 12.12993
+rock uid = -88844, x = 34.27269, y = -2.555887
+nearUid = -88664 e Distance = 132.07273886178154
+menor x = -8.703083, y = 12.12993
+ship x = 10.44, y = 20.15999
+RESULT: velX = 12.0, velY = -9.0, diffX = -11.486228942871094, diffY = -0.37320709228515625, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -8.539507, y = 12.01485
+rock uid = -88844, x = 34.07514, y = -2.524664
+nearUid = -88664 e Distance = 139.3190600982125
+menor x = -8.539507, y = 12.01485
+ship x = 10.92, y = 19.79999
+RESULT: velX = 12.0, velY = -9.0, diffX = -11.802652359008789, diffY = -0.12828636169433594, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -8.294143, y = 11.84224
+rock uid = -88844, x = 33.77882, y = -2.477828
+nearUid = -88664 e Distance = 150.78898175890936
+menor x = -8.294143, y = 11.84224
+ship x = 11.64, y = 19.25999
+RESULT: velX = 12.0, velY = -9.0, diffX = -12.277288436889648, diffY = 0.2391033172607422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -8.130567, y = 11.72716
+rock uid = -88844, x = 33.58127, y = -2.446604
+nearUid = -88664 e Distance = 158.83585751598002
+menor x = -8.130567, y = 11.72716
+ship x = 12.12, y = 18.89999
+RESULT: velX = 12.0, velY = -9.0, diffX = -12.593711853027344, diffY = 0.4840240478515625, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -7.885202, y = 11.55454
+rock uid = -88844, x = 33.28495, y = -2.399769
+nearUid = -88664 e Distance = 171.50660673813036
+menor x = -7.885202, y = 11.55454
+ship x = 12.84, y = 18.35999
+RESULT: velX = 12.0, velY = -9.0, diffX = -13.068347930908203, diffY = 0.8514041900634766, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -7.721626, y = 11.43946
+rock uid = -88844, x = 33.0874, y = -2.368545
+nearUid = -88664 e Distance = 180.3540281622045
+menor x = -7.721626, y = 11.43946
+ship x = 13.32, y = 17.99999
+RESULT: velX = 12.0, velY = -9.0, diffX = -13.384771347045898, diffY = 1.096323013305664, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -88664, x = -7.476262, y = 11.26685
+rock uid = -88844, x = 32.79108, y = -2.321709
+nearUid = -88664 e Distance = 194.22563459922458
+menor x = -7.476262, y = 11.26685
+ship x = 14.04, y = 17.45999
+RESULT: velX = 12.0, velY = -9.0, diffX = -13.859407424926758, diffY = 1.463714599609375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.262318, y = -51.80593
+rock uid = -88664, x = -7.312686, y = 11.15177
+rock uid = -88844, x = 32.59353, y = -2.290485
+nearUid = -88664 e Distance = 203.87366228466635
+menor x = -7.312686, y = 11.15177
+ship x = 14.52, y = 17.09999
+RESULT: velX = 12.0, velY = -9.0, diffX = -14.175832748413086, diffY = 1.7086334228515625, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.279392, y = -51.50642
+rock uid = -88664, x = -7.067322, y = 10.97915
+rock uid = -88844, x = 32.29721, y = -2.24365
+nearUid = -88844 e Distance = 212.61753067633254
+menor x = 32.29721, y = -2.24365
+ship x = 15.24, y = 16.55999
+RESULT: velX = 12.0, velY = -9.0, diffX = 9.40035629272461, diffY = -11.146785736083984, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.290775, y = -51.30674
+rock uid = -88664, x = -6.903746, y = 10.86407
+rock uid = -88844, x = 32.09966, y = -2.212426
+nearUid = -88844 e Distance = 191.7693839323083
+menor x = 32.09966, y = -2.212426
+ship x = 15.72, y = 16.19999
+RESULT: velX = 12.0, velY = -9.0, diffX = 8.722803115844727, diffY = -10.755560874938965, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.30785, y = -51.00723
+rock uid = -88664, x = -6.658381, y = 10.69146
+rock uid = -88844, x = 31.80334, y = -2.16559
+nearUid = -88844 e Distance = 162.79269704058333
+menor x = 31.80334, y = -2.16559
+ship x = 16.44, y = 15.65998
+RESULT: velX = 12.0, velY = -9.0, diffX = 7.706485748291016, diffY = -10.168715476989746, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.319233, y = -50.80755
+rock uid = -88664, x = -6.494805, y = 10.57638
+rock uid = -88844, x = 31.60579, y = -2.134367
+nearUid = -88844 e Distance = 145.00527994779986
+menor x = 31.60579, y = -2.134367
+ship x = 16.92, y = 15.29998
+RESULT: velX = 12.0, velY = -9.0, diffX = 7.028934478759766, diffY = -9.77749252319336, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.336308, y = -50.50804
+rock uid = -88664, x = -6.249441, y = 10.40376
+rock uid = -88844, x = 31.30947, y = -2.087531
+nearUid = -88844 e Distance = 120.61971146818905
+menor x = 31.30947, y = -2.087531
+ship x = 17.64, y = 14.75998
+RESULT: velX = 12.0, velY = -9.0, diffX = 6.012615203857422, diffY = -9.190656661987305, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.347691, y = -50.30836
+rock uid = -88664, x = -6.085865, y = 10.28868
+rock uid = -88844, x = 31.11192, y = -2.056307
+nearUid = -88844 e Distance = 105.89292398460748
+menor x = 31.11192, y = -2.056307
+ship x = 18.12, y = 14.39998
+RESULT: velX = 12.0, velY = -9.0, diffX = 5.335063934326172, diffY = -8.799432754516602, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.364765, y = -50.00885
+rock uid = -88664, x = -5.840501, y = 10.11607
+rock uid = -88844, x = 30.8156, y = -2.009471
+nearUid = -88844 e Distance = 86.09838553892405
+menor x = 30.8156, y = -2.009471
+ship x = 18.83999, y = 13.85998
+RESULT: velX = 12.0, velY = -9.0, diffX = 4.318754196166992, diffY = -8.212596893310547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.376148, y = -49.80917
+rock uid = -88664, x = -5.676925, y = 10.00099
+rock uid = -88844, x = 30.61805, y = -1.978248
+nearUid = -88844 e Distance = 74.43226294474243
+menor x = 30.61805, y = -1.978248
+ship x = 19.31999, y = 13.49998
+RESULT: velX = 12.0, velY = -9.0, diffX = 3.641204833984375, diffY = -7.82137393951416, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.393223, y = -49.50965
+rock uid = -88664, x = -5.431561, y = 9.828373
+rock uid = -88844, x = 30.32173, y = -1.931413
+nearUid = -88844 e Distance = 59.228579203554546
+menor x = 30.32173, y = -1.931413
+ship x = 20.03999, y = 12.95998
+RESULT: velX = 12.0, velY = -9.0, diffX = 2.6248855590820312, diffY = -7.234539031982422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.404606, y = -49.30998
+rock uid = -88664, x = -5.267984, y = 9.713295
+rock uid = -88844, x = 30.12418, y = -1.900189
+nearUid = -88844 e Distance = 50.62307272863109
+menor x = 30.12418, y = -1.900189
+ship x = 20.51999, y = 12.59998
+RESULT: velX = 12.0, velY = -9.0, diffX = 1.9473342895507812, diffY = -6.843315124511719, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.42168, y = -49.01046
+rock uid = -88664, x = -5.02262, y = 9.540678
+rock uid = -88844, x = 29.82786, y = -1.853354
+nearUid = -88844 e Distance = 40.010333662962694
+menor x = 29.82786, y = -1.853354
+ship x = 21.23999, y = 12.05998
+RESULT: velX = 12.0, velY = -9.0, diffX = 0.9310150146484375, diffY = -6.2564802169799805, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.433064, y = -48.81079
+rock uid = -88664, x = -4.859044, y = 9.4256
+rock uid = -88844, x = 29.63031, y = -1.82213
+nearUid = -88844 e Distance = 34.46546522613062
+menor x = 29.63031, y = -1.82213
+ship x = 21.71999, y = 11.69998
+RESULT: velX = 12.0, velY = -9.0, diffX = 0.2534656524658203, diffY = -5.865255355834961, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.450138, y = -48.51127
+rock uid = -88664, x = -4.61368, y = 9.252983
+rock uid = -88844, x = 29.33399, y = -1.775295
+nearUid = -88844 e Distance = 28.44366807833012
+menor x = 29.33399, y = -1.775295
+ship x = 22.43999, y = 11.15998
+RESULT: velX = 12.0, velY = -9.0, diffX = -0.7628536224365234, diffY = -5.278420448303223, mPrincipal = 1, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.461521, y = -48.3116
+rock uid = -88664, x = -4.450104, y = 9.137905
+rock uid = -88844, x = 29.13644, y = -1.744071
+nearUid = -88844 e Distance = 25.959460942324085
+menor x = 29.13644, y = -1.744071
+ship x = 22.91999, y = 10.79998
+RESULT: velX = 12.0, velY = -9.0, diffX = -1.4404048919677734, diffY = -4.887197017669678, mPrincipal = 1, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.478596, y = -48.01208
+rock uid = -88664, x = -4.20474, y = 8.965288
+rock uid = -88844, x = 28.84012, y = -1.697236
+nearUid = -88844 e Distance = 23.91453550823485
+menor x = 28.84012, y = -1.697236
+ship x = 23.63999, y = 10.18798
+RESULT: velX = 12.0, velY = -10.800000190734863, diffX = -2.456724166870117, diffY = -4.2283616065979, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.489979, y = -47.8124
+rock uid = -88664, x = -4.041163, y = 8.85021
+rock uid = -88844, x = 28.64257, y = -1.666013
+nearUid = -88844 e Distance = 23.730120453327856
+menor x = 28.64257, y = -1.666013
+ship x = 24.11999, y = 9.719976
+RESULT: velX = 12.0, velY = -12.0, diffX = -3.1342735290527344, diffY = -3.729135274887085, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.507053, y = -47.51289
+rock uid = -88664, x = -3.795799, y = 8.677593
+rock uid = -88844, x = 28.34625, y = -1.619177
+nearUid = -88844 e Distance = 26.002656703356706
+menor x = 28.34625, y = -1.619177
+ship x = 24.83999, y = 8.999977
+RESULT: velX = 12.0, velY = -12.0, diffX = -4.150594711303711, diffY = -2.9622998237609863, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.518436, y = -47.31321
+rock uid = -88664, x = -3.632223, y = 8.562515
+rock uid = -88844, x = 28.1487, y = -1.587954
+nearUid = -88844 e Distance = 29.318755915352995
+menor x = 28.1487, y = -1.587954
+ship x = 25.31999, y = 8.519978
+RESULT: velX = 12.0, velY = -12.0, diffX = -4.828144073486328, diffY = -2.451077461242676, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = -1
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.535511, y = -47.0137
+rock uid = -88664, x = -3.386859, y = 8.389898
+rock uid = -88844, x = 27.85238, y = -1.541118
+nearUid = -88844 e Distance = 36.99442217619094
+menor x = 27.85238, y = -1.541118
+ship x = 26.03999, y = 7.799978
+RESULT: velX = 12.0, velY = -12.0, diffX = -5.844463348388672, diffY = -1.684241771697998, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.546894, y = -46.81402
+rock uid = -88664, x = -3.223283, y = 8.27482
+rock uid = -88844, x = 27.65483, y = -1.509895
+nearUid = -88844 e Distance = 44.38351658225656
+menor x = 27.65483, y = -1.509895
+ship x = 26.55599, y = 7.319977
+RESULT: velX = 13.199999809265137, velY = -12.0, diffX = -6.558013916015625, diffY = -1.1730175018310547, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.563969, y = -46.51451
+rock uid = -88664, x = -2.977919, y = 8.102203
+rock uid = -88844, x = 27.35851, y = -1.46306
+nearUid = -88844 e Distance = 55.33672481904159
+menor x = 27.35851, y = -1.46306
+ship x = 27.13165, y = 6.556943
+RESULT: velX = -7.603010177612305, velY = -16.13797950744629, diffX = -7.429996490478516, diffY = -0.36314868927001953, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.575352, y = -46.31483
+rock uid = -88664, x = -2.814342, y = 7.987126
+rock uid = -88844, x = 27.16096, y = -1.431836
+nearUid = -88844 e Distance = 53.73089913350941
+menor x = 27.16096, y = -1.431836
+ship x = 26.82753, y = 5.911424
+RESULT: velX = -7.603010177612305, velY = -16.13797950744629, diffX = -7.32342529296875, diffY = 0.31359386444091797, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] rock uid = -89028, x = -9.592426, y = -46.01532
+rock uid = -88664, x = -2.568978, y = 7.81451
+rock uid = -88844, x = 26.86464, y = -1.385001
+nearUid = -88844 e Distance = 53.08212562637709
+menor x = 26.86464, y = -1.385001
+ship x = 26.37135, y = 4.943145
+RESULT: velX = -7.603010177612305, velY = -16.13797950744629, diffX = -7.163564682006836, diffY = 1.3287086486816406, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
