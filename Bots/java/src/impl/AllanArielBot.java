@@ -105,9 +105,9 @@ public class AllanArielBot extends BotBase {
 //		double att = Math.toDegrees(Math.atan2(object.getPosy(), object.getPosx()));
 //		gamestate.log("att = " + att);
 		gamestate.log("atan = " + Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())));
-		gamestate.log("getAng() % 360 = " + Math.abs(getAng() % 360));
+		gamestate.log("getAng() % 360 = " + Math.abs(getAng()) % 360);
 		
-		angleToTarget.setInputValue(90 - Math.abs(Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx()))));
+		angleToTarget.setInputValue(90 - Math.abs(Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx()))) % 360);
 		
 		engine.process();
 		

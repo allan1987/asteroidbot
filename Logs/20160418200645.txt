@@ -1,0 +1,772 @@
+[ Stupid Java ] Bot Loaded
+
+[ Allan Ariel Bot ] Bot Loaded
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.9999974955219
+getAng() % 360 = 180.0
+ e angleToTarget = 2.5044781040151065E-6
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 3.1472200134885497E-6, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.9999974955219
+getAng() % 360 = 180.0
+ e angleToTarget = 2.5044781040151065E-6
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 3.1472200134885497E-6, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.9999974955219
+getAng() % 360 = 180.0
+ e angleToTarget = 2.5044781040151065E-6
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 3.1472200134885497E-6, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.94270174002337
+getAng() % 360 = 180.0
+ e angleToTarget = 0.0572982599766334
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 0.07200314104557037, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.85675837749812
+getAng() % 360 = 180.0
+ e angleToTarget = 0.14324162250187555
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 0.1800031065940857, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.65622697284326
+getAng() % 360 = 180.0
+ e angleToTarget = 0.3437730271567432
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 0.43200311064720154, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.4748009107167
+getAng() % 360 = 180.0
+ e angleToTarget = 0.5251990892833049
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 0.660003125667572, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -89.13107825471108
+getAng() % 360 = 180.0
+ e angleToTarget = 0.8689217452889153
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 1.0920029878616333, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -88.8542347456633
+getAng() % 360 = 180.0
+ e angleToTarget = 1.1457652543366947
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 1.4400030374526978, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -88.36750987297758
+getAng() % 360 = 180.0
+ e angleToTarget = 1.6324901270224217
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 2.0520029067993164, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -87.99546351961423
+getAng() % 360 = 180.0
+ e angleToTarget = 2.0045364803857666
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 2.520003080368042, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -87.36624846576261
+getAng() % 360 = 180.0
+ e angleToTarget = 2.6337515342373905
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 3.3120028972625732, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -86.89950620445397
+getAng() % 360 = 180.0
+ e angleToTarget = 3.100493795546029
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 3.900002956390381, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -86.12888351788037
+getAng() % 360 = 180.0
+ e angleToTarget = 3.871116482119632
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 4.87200403213501, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -85.56843194920936
+getAng() % 360 = 180.0
+ e angleToTarget = 4.431568050790645
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 5.5800042152404785, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -84.65837114824693
+getAng() % 360 = 180.0
+ e angleToTarget = 5.341628851753072
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 6.732004165649414, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -84.00590371807584
+getAng() % 360 = 180.0
+ e angleToTarget = 5.994096281924158
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 7.560004234313965, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -82.95961678079155
+getAng() % 360 = 180.0
+ e angleToTarget = 7.040383219208451
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 8.89200496673584, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -82.2177846868205
+getAng() % 360 = 180.0
+ e angleToTarget = 7.782215313179506
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 9.840005874633789, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -81.04011584559133
+getAng() % 360 = 180.0
+ e angleToTarget = 8.95988415440867
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 11.352009773254395, diffY = -72.0, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -80.22347202858089
+getAng() % 360 = 180.0
+ e angleToTarget = 9.776527971419114
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 12.388010025024414, diffY = -71.89451599121094, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -78.99451216453427
+getAng() % 360 = 180.0
+ e angleToTarget = 11.005487835465729
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 13.806989669799805, diffY = -70.99449920654297, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -78.11672913363167
+getAng() % 360 = 180.0
+ e angleToTarget = 11.883270866368335
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 14.812979698181152, diffY = -70.39448547363281, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -76.72225117545085
+getAng() % 360 = 180.0
+ e angleToTarget = 13.27774882454915
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 16.400789260864258, diffY = -69.50077056884766, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -75.77063893060985
+getAng() % 360 = 180.0
+ e angleToTarget = 14.229361069390151
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 17.478870391845703, diffY = -68.92727661132812, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -74.32159212386398
+getAng() % 360 = 180.0
+ e angleToTarget = 15.67840787613602
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 19.115449905395508, diffY = -68.10388946533203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -72.85183684182257
+getAng() % 360 = 180.0
+ e angleToTarget = 17.148163158177425
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 20.773279190063477, diffY = -67.32318115234375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -71.86339212105393
+getAng() % 360 = 180.0
+ e angleToTarget = 18.136607878946066
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 21.889230728149414, diffY = -66.82556915283203, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -70.49801932989931
+getAng() % 360 = 180.0
+ e angleToTarget = 19.501980670100693
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 23.28986930847168, diffY = -65.76133728027344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -69.6635589414039
+getAng() % 360 = 180.0
+ e angleToTarget = 20.336441058596094
+Bruto: motorPrincipal = 0, motorLadoFrente = -1, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 24.011579513549805, diffY = -64.78507232666016, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -68.79571769014244
+getAng() % 360 = 180.0
+ e angleToTarget = 21.20428230985756
+Bruto: motorPrincipal = 0, motorLadoFrente = -1, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 24.76413917541504, diffY = -63.83161163330078, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 180.0, getVelang = 0.0
+atan = -67.4357408531662
+getAng() % 360 = 180.0
+ e angleToTarget = 22.564259146833805
+Bruto: motorPrincipal = 0, motorLadoFrente = -1, motorLadoFundo = 0
+RESULT: velX = 0.0, velY = 0.0, diffX = 25.947650909423828, diffY = -62.44499206542969, mPrincipal = 0, mLadoFrente = -1, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 181.0313, getVelang = 34.37746
+atan = -66.50761201372771
+getAng() % 360 = 181.0313
+ e angleToTarget = 23.49238798627229
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 0.5999947190284729, velY = 0.0018000019481405616, diffX = 26.753000259399414, diffY = -61.550048828125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 185.1566, getVelang = 85.94366
+atan = -65.10364437011256
+getAng() % 360 = 185.1566
+ e angleToTarget = 24.896355629887438
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 27.964033126831055, diffY = -60.253387451171875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 188.5944, getVelang = 85.94366
+atan = -64.14924246850592
+getAng() % 360 = 188.5944
+ e angleToTarget = 25.850757531494082
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 28.789403915405273, diffY = -59.419349670410156, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 193.751, getVelang = 85.94366
+atan = -62.68192123632741
+getAng() % 360 = 193.751
+ e angleToTarget = 27.318078763672588
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 30.069150924682617, diffY = -58.21283721923828, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 197.1887, getVelang = 85.94366
+atan = -61.68372198187442
+getAng() % 360 = 197.1887
+ e angleToTarget = 28.31627801812558
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 30.948251724243164, diffY = -57.43804168701172, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 202.3453, getVelang = 85.94366
+atan = -60.50653707187718
+getAng() % 360 = 202.3453
+ e angleToTarget = 29.493462928122817
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 31.57769012451172, diffY = -55.82823944091797, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 205.7831, getVelang = 85.94366
+atan = -59.72593014747338
+getAng() % 360 = 205.7831
+ e angleToTarget = 30.274069852526623
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 31.926969528198242, diffY = -54.693267822265625, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 210.9397, getVelang = 85.94366
+atan = -58.46909646200194
+getAng() % 360 = 210.9397
+ e angleToTarget = 31.530903537998057
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 32.5299186706543, diffY = -53.01979064941406, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 214.3774, getVelang = 85.94366
+atan = -57.57645215383204
+getAng() % 360 = 214.3774
+ e angleToTarget = 32.42354784616796
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 32.982791900634766, diffY = -51.92538070678711, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 219.5341, getVelang = 85.94366
+atan = -56.16077905000747
+getAng() % 360 = 219.5341
+ e angleToTarget = 33.83922094999253
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 33.73517608642578, diffY = -50.318458557128906, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 222.9718, getVelang = 85.94366
+atan = -55.16967652347367
+getAng() % 360 = 222.9718
+ e angleToTarget = 34.83032347652633
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.28348922729492, diffY = -49.271812438964844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 228.1284, getVelang = 85.94366
+atan = -53.619560529394256
+getAng() % 360 = 228.1284
+ e angleToTarget = 36.380439470605744
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.1724967956543, diffY = -47.740928649902344, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 231.5662, getVelang = 85.94366
+atan = -52.80959999852303
+getAng() % 360 = 231.5662
+ e angleToTarget = 37.19040000147697
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.37031936645508, diffY = -46.614891052246094, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 236.7228, getVelang = 85.94366
+atan = -51.72302781893596
+getAng() % 360 = 236.7228
+ e angleToTarget = 38.27697218106404
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.365882873535156, diffY = -44.817996978759766, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 240.1606, getVelang = 85.94366
+atan = -50.92279452229695
+getAng() % 360 = 240.1606
+ e angleToTarget = 39.07720547770305
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.4227180480957, diffY = -43.62309265136719, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 245.3173, getVelang = 85.94366
+atan = -49.60933488355735
+getAng() % 360 = 245.3173
+ e angleToTarget = 40.39066511644265
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.59688186645508, diffY = -41.840003967285156, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 248.755, getVelang = 85.94366
+atan = -48.659671691454754
+getAng() % 360 = 248.755
+ e angleToTarget = 41.340328308545246
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.77154541015625, diffY = -40.66014099121094, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 253.9117, getVelang = 85.94366
+atan = -47.128369877122516
+getAng() % 360 = 253.9117
+ e angleToTarget = 42.871630122877484
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 36.11968231201172, diffY = -38.908023834228516, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 257.3495, getVelang = 85.94366
+atan = -46.039888867918755
+getAng() % 360 = 257.3495
+ e angleToTarget = 43.960111132081245
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 36.408016204833984, diffY = -37.75416946411133, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 264.225, getVelang = 85.94366
+atan = -44.57269894333767
+getAng() % 360 = 264.225
+ e angleToTarget = 45.42730105666233
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 36.016998291015625, diffY = -35.48374938964844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 267.6628, getVelang = 85.94366
+atan = -43.94689559619536
+getAng() % 360 = 267.6628
+ e angleToTarget = 46.05310440380464
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.640628814697266, diffY = -34.353973388671875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 271.1005, getVelang = 85.94366
+atan = -43.25493115288573
+getAng() % 360 = 271.1005
+ e angleToTarget = 46.74506884711427
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.312259674072266, diffY = -33.224185943603516, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 274.5383, getVelang = 85.94366
+atan = -42.494296125852415
+getAng() % 360 = 274.5383
+ e angleToTarget = 47.505703874147585
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 35.031890869140625, diffY = -32.094398498535156, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 279.695, getVelang = 85.94366
+atan = -41.219613328412635
+getAng() % 360 = 279.695
+ e angleToTarget = 48.780386671587365
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.70133972167969, diffY = -30.399715423583984, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 283.1328, getVelang = 85.94366
+atan = -40.27785825424017
+getAng() % 360 = 283.1328
+ e angleToTarget = 49.72214174575983
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.54096984863281, diffY = -29.26993179321289, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 288.2894, getVelang = 85.94366
+atan = -38.723679136283025
+getAng() % 360 = 288.2894
+ e angleToTarget = 51.276320863716975
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.390419006347656, diffY = -27.57526397705078, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 291.7272, getVelang = 85.94366
+atan = -37.59201899530168
+getAng() % 360 = 291.7272
+ e angleToTarget = 52.40798100469832
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.35004806518555, diffY = -26.445476531982422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 296.8838, getVelang = 85.94366
+atan = -36.03042843453283
+getAng() % 360 = 296.8838
+ e angleToTarget = 53.96957156546717
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 34.1318244934082, diffY = -24.825927734375, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 300.3216, getVelang = 85.94366
+atan = -35.642102907001366
+getAng() % 360 = 300.3216
+ e angleToTarget = 54.357897092998634
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 33.393245697021484, diffY = -23.944351196289062, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 305.4782, getVelang = 85.94366
+atan = -34.94356242906574
+getAng() % 360 = 305.4782
+ e angleToTarget = 55.05643757093426
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 32.3753776550293, diffY = -22.621990203857422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 308.916, getVelang = 85.94366
+atan = -34.395182101740325
+getAng() % 360 = 308.916
+ e angleToTarget = 55.604817898259675
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 31.75679588317871, diffY = -21.74040985107422, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 314.0727, getVelang = 85.94366
+atan = -33.439714150877215
+getAng() % 360 = 314.0727
+ e angleToTarget = 56.560285849122785
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 30.91892433166504, diffY = -20.41803741455078, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 317.5104, getVelang = 85.94366
+atan = -32.70927188223553
+getAng() % 360 = 317.5104
+ e angleToTarget = 57.29072811776447
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 30.42033576965332, diffY = -19.536460876464844, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 322.6671, getVelang = 85.94366
+atan = -31.465909869648033
+getAng() % 360 = 322.6671
+ e angleToTarget = 58.53409013035197
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 29.762462615966797, diffY = -18.214111328125, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 326.1049, getVelang = 85.94366
+atan = -30.534886553392525
+getAng() % 360 = 326.1049
+ e angleToTarget = 59.465113446607475
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 29.38388442993164, diffY = -17.332538604736328, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 331.2615, getVelang = 85.94366
+atan = -28.980746334467565
+getAng() % 360 = 331.2615
+ e angleToTarget = 61.01925366553243
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 28.9060115814209, diffY = -16.010168075561523, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 334.6993, getVelang = 85.94366
+atan = -27.83836088444758
+getAng() % 360 = 334.6993
+ e angleToTarget = 62.16163911555242
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 28.64743423461914, diffY = -15.128599166870117, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 339.856, getVelang = 85.94366
+atan = -26.748238389923813
+getAng() % 360 = 339.856
+ e angleToTarget = 63.25176161007619
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 27.938350677490234, diffY = -14.081010818481445, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 343.2937, getVelang = 85.94366
+atan = -26.61337397205705
+getAng() % 360 = 343.2937
+ e angleToTarget = 63.38662602794295
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 27.17563247680664, diffY = -13.616477966308594, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 348.4504, getVelang = 85.94366
+atan = -26.316934158452298
+getAng() % 360 = 348.4504
+ e angleToTarget = 63.6830658415477
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 26.121549606323242, diffY = -12.919681549072266, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 351.8882, getVelang = 85.94366
+atan = -26.051378210574324
+getAng() % 360 = 351.8882
+ e angleToTarget = 63.94862178942567
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 25.478830337524414, diffY = -12.455150604248047, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 357.0448, getVelang = 85.94366
+atan = -25.542663352042194
+getAng() % 360 = 357.0448
+ e angleToTarget = 64.4573366479578
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 24.604747772216797, diffY = -11.758359909057617, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 360.4826, getVelang = 85.94366
+atan = -25.125323718963877
+getAng() % 360 = 0.48260498
+ e angleToTarget = 64.87467628103613
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 24.082029342651367, diffY = -11.293828964233398, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 365.6393, getVelang = 85.94366
+atan = -24.37519675787706
+getAng() % 360 = 5.6393127
+ e angleToTarget = 65.62480324212294
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 23.387956619262695, diffY = -10.597042083740234, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 369.077, getVelang = 85.94366
+atan = -23.789170572131805
+getAng() % 360 = 9.076996
+ e angleToTarget = 66.21082942786819
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 22.985239028930664, diffY = -10.132509231567383, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 374.2337, getVelang = 85.94366
+atan = -22.77775505041458
+getAng() % 360 = 14.233704
+ e angleToTarget = 67.22224494958542
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 22.471155166625977, diffY = -9.435739517211914, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 377.6714, getVelang = 85.94366
+atan = -22.01442394577028
+getAng() % 360 = 17.671387
+ e angleToTarget = 67.98557605422972
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 22.18843650817871, diffY = -8.971208572387695, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 382.8281, getVelang = 85.94366
+atan = -20.737519845479394
+getAng() % 360 = 22.828094
+ e angleToTarget = 69.2624801545206
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 21.854354858398438, diffY = -8.274431228637695, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 386.2659, getVelang = 85.94366
+atan = -19.80103033134489
+getAng() % 360 = 26.2659
+ e angleToTarget = 70.19896966865511
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 21.691635131835938, diffY = -7.809909820556641, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 391.4225, getVelang = 85.94366
+atan = -20.077129803217783
+getAng() % 360 = 31.422485
+ e angleToTarget = 69.92287019678221
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 21.058563232421875, diffY = -7.696809768676758, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 394.8603, getVelang = 85.94366
+atan = -20.541354578291255
+getAng() % 360 = 34.86029
+ e angleToTarget = 69.45864542170875
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 20.61257553100586, diffY = -7.723688125610352, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 400.0169, getVelang = 85.94366
+atan = -21.183833158508303
+getAng() % 360 = 40.016907
+ e angleToTarget = 68.8161668414917
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 20.033580780029297, diffY = -7.764011383056641, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 403.4547, getVelang = 85.94366
+atan = -21.570098228337603
+getAng() % 360 = 43.454712
+ e angleToTarget = 68.4299017716624
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.707584381103516, diffY = -7.790889739990234, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 408.6114, getVelang = 85.94366
+atan = -22.07662172319279
+getAng() % 360 = 48.61139
+ e angleToTarget = 67.92337827680721
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.308591842651367, diffY = -7.831230163574219, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 412.0491, getVelang = 85.94366
+atan = -22.36048515999825
+getAng() % 360 = 52.049103
+ e angleToTarget = 67.63951484000175
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.10259246826172, diffY = -7.858112335205078, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 417.2058, getVelang = 85.94366
+atan = -22.698116338923114
+getAng() % 360 = 57.20581
+ e angleToTarget = 67.30188366107689
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 18.88359832763672, diffY = -7.89845085144043, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 420.6436, getVelang = 85.94366
+atan = -22.86098863288241
+getAng() % 360 = 60.643585
+ e angleToTarget = 67.13901136711759
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 18.79759979248047, diffY = -7.9253387451171875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 425.8002, getVelang = 85.94366
+atan = -23.008107616961404
+getAng() % 360 = 65.8002
+ e angleToTarget = 66.99189238303859
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 18.75860595703125, diffY = -7.965688705444336, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 429.238, getVelang = 85.94366
+atan = -23.0402857083401
+getAng() % 360 = 69.23801
+ e angleToTarget = 66.9597142916599
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 18.792617797851562, diffY = -7.992591857910156, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 434.3947, getVelang = 85.94366
+atan = -22.989981766597076
+getAng() % 360 = 74.394714
+ e angleToTarget = 67.01001823340292
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 18.933624267578125, diffY = -8.032939910888672, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 437.8324, getVelang = 85.94366
+atan = -22.8921300879304
+getAng() % 360 = 77.8324
+ e angleToTarget = 67.1078699120696
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.08762550354004, diffY = -8.059839248657227, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 442.9891, getVelang = 85.94366
+atan = -22.653261254659654
+getAng() % 360 = 82.989105
+ e angleToTarget = 67.34673874534035
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.408632278442383, diffY = -8.100210189819336, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 446.4268, getVelang = 85.94366
+atan = -22.436109661117186
+getAng() % 360 = 86.42679
+ e angleToTarget = 67.56389033888281
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 19.682632446289062, diffY = -8.127111434936523, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
+[ Allan Ariel Bot ] OPA uid = 0 e list.size() = 2
+getAng = 451.5835, getVelang = 85.94366
+atan = -22.031134096040415
+getAng() % 360 = 91.583496
+ e angleToTarget = 67.96886590395958
+Bruto: motorPrincipal = 0, motorLadoFrente = 0, motorLadoFundo = 0
+RESULT: velX = 1.4992120265960693, velY = 0.03598659858107567, diffX = 20.183639526367188, diffY = -8.16748046875, mPrincipal = 0, mLadoFrente = 0, mLadoFundo = 0
+
