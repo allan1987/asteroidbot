@@ -34,7 +34,7 @@ public class AllanArielBot extends BotBase {
 //				gamestate.log("adv x = " + nearShip.getPosx() + ", y = " + nearShip.getPosy() + ", r = " + nearShip.getRadius());
 //				gamestate.log("x = " + getPosx() + ", y = " + getPosy() + ", r = " + getRadius());
 //				gamestate.log("Velx = "  + getVelx() + ", Vely = " + getVely());
-				gamestate.log("getAng = " + getAng() + ", getVelang = " + getVelang());
+//				gamestate.log("getAng = " + getAng() + ", getVelang = " + getVelang());
 //				gamestate.log("Math.cos(" + getAng() + ") = "  + Math.cos(Math.toRadians(getAng())));
 			return process(gamestate, nearShip);
 		}
@@ -78,6 +78,10 @@ public class AllanArielBot extends BotBase {
 //	}
 	
 	private Action process(GameState gamestate, GameObject object) {
+		if(gamestate.getTick() % 2 == 0) {
+			return new Action(0, 0, 0, 1);
+		}
+		
 		posX.setInputValue(getPosx());
 		posY.setInputValue(getPosy());
 		velX.setInputValue(getVelx());
@@ -105,9 +109,9 @@ public class AllanArielBot extends BotBase {
 //		double att = Math.toDegrees(Math.atan2(object.getPosy(), object.getPosx()));
 //		gamestate.log("att = " + att);
 		gamestate.log("atan = " + Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())));
-		gamestate.log("getAng() % 360 = " + Math.abs(getAng()) % 360);
+		gamestate.log("getAng() % 360 = " + Math.abs(getAng()) % 360 + ", velAng = " + getVelang());
 		
-		angleToTarget.setInputValue(90 - Math.abs(Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx()))) % 360);
+		angleToTarget.setInputValue(90 - (Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())) % 360) - (Math.abs(getAng()) % 360));
 		
 		engine.process();
 		
@@ -120,7 +124,8 @@ public class AllanArielBot extends BotBase {
 		
 		gamestate.log("Bruto: motorPrincipal = " + Math.round(motorPrincipal.getOutputValue()) + ", motorLadoFrente = " + Math.round(motorLadoFrente.getOutputValue()) + ", motorLadoFundo = " + Math.round(motorLadoFundo.getOutputValue()));
 		
-		gamestate.log("RESULT: velX = " + velX.getInputValue() + ", velY = " + velY.getInputValue() + ", diffX = " + diffX.getInputValue() + ", diffY = " + diffY.getInputValue() + ", mPrincipal = " + mPrincipal + ", mLadoFrente = " + mLadoFrente + ", mLadoFundo = " + mLadoFundo);
+//		gamestate.log("RESULT: velX = " + velX.getInputValue() + ", velY = " + velY.getInputValue() + ", diffX = " + diffX.getInputValue() + ", diffY = " + diffY.getInputValue());
+		gamestate.log("mPrincipal = " + mPrincipal + ", mLadoFrente = " + mLadoFrente + ", mLadoFundo = " + mLadoFundo);
 //		return new Action(0, 0, 0, tiro);
 		return new Action(mPrincipal, mLadoFrente, mLadoFundo, tiro);
 	}
@@ -162,7 +167,7 @@ public class AllanArielBot extends BotBase {
 				}
 			}
 			
-			gamestate.log("OPA uid = " + nearUid + " e list.size() = " + list.size());
+//			gamestate.log("OPA uid = " + nearUid + " e list.size() = " + list.size());
 		}
 		return nearObject;
 	}
@@ -226,25 +231,23 @@ public class AllanArielBot extends BotBase {
         velAng = new InputVariable();
         velAng.setName("velAng");
         velAng.setRange(-500.0, 500.0);
-        velAng.addTerm(new Triangle("450_PARA_DIREITA",	-500.0, -450.0, -400.0));
-        velAng.addTerm(new Triangle("400_PARA_DIREITA",	-450.0, -400.0, -350.0));
-        velAng.addTerm(new Triangle("350_PARA_DIREITA",	-400.0, -350.0, -300.0));
-        velAng.addTerm(new Triangle("300_PARA_DIREITA",	-350.0, -300.0, -250.0));
-        velAng.addTerm(new Triangle("250_PARA_DIREITA",	-300.0, -250.0, -200.0));
-        velAng.addTerm(new Triangle("200_PARA_DIREITA",	-250.0, -200.0, -150.0));
-        velAng.addTerm(new Triangle("150_PARA_DIREITA", -200.0, -150.0, -100.0));
-        velAng.addTerm(new Triangle("100_PARA_DIREITA", -150.0, -100.0,  -50.0));
-        velAng.addTerm(new Triangle("50_PARA_DIREITA", 	-100.0,  -50.0,    0.0));
-        velAng.addTerm(new Triangle("INERCIA", 			 -50.0,    0.0,   50.0));
-        velAng.addTerm(new Triangle("50_PARA_ESQUERDA",    0.0,   50.0,  100.0));
-        velAng.addTerm(new Triangle("100_PARA_ESQUERDA",  50.0,  100.0,  150.0));
-        velAng.addTerm(new Triangle("150_PARA_ESQUERDA", 100.0,  150.0,  200.0));
-        velAng.addTerm(new Triangle("200_PARA_ESQUERDA", 150.0,  200.0,  250.0));
-        velAng.addTerm(new Triangle("250_PARA_ESQUERDA", 200.0,  250.0,  300.0));
-        velAng.addTerm(new Triangle("300_PARA_ESQUERDA", 250.0,  300.0,  350.0));
-        velAng.addTerm(new Triangle("350_PARA_ESQUERDA", 300.0,  350.0,  400.0));
-        velAng.addTerm(new Triangle("400_PARA_ESQUERDA", 350.0,  400.0,  450.0));
-        velAng.addTerm(new Triangle("450_PARA_ESQUERDA", 400.0,  450.0,  500.0));
+        velAng.addTerm(new Triangle("400_PARA_DIREITA",	-500.0, -400.0, -300.0));
+        velAng.addTerm(new Triangle("300_PARA_DIREITA",	-400.0, -300.0, -200.0));
+        velAng.addTerm(new Triangle("200_PARA_DIREITA",	-300.0, -200.0, -100.0));
+        velAng.addTerm(new Triangle("100_PARA_DIREITA",	-200.0, -100.0,  -80.0));
+        velAng.addTerm(new Triangle("80_PARA_DIREITA",	-100.0,  -80.0,  -60.0));
+        velAng.addTerm(new Triangle("60_PARA_DIREITA",  -80.0,  -60.0,  -40.0));
+        velAng.addTerm(new Triangle("40_PARA_DIREITA",  -60.0,  -40.0,  -20.0));
+        velAng.addTerm(new Triangle("20_PARA_DIREITA", 	 -40.0,  -20.0,    0.0));
+        velAng.addTerm(new Triangle("INERCIA", 			 -20.0,    0.0,   20.0));
+        velAng.addTerm(new Triangle("20_PARA_ESQUERDA",    0.0,   20.0,   40.0));
+        velAng.addTerm(new Triangle("40_PARA_ESQUERDA",  20.0,   40.0,   60.0));
+        velAng.addTerm(new Triangle("60_PARA_ESQUERDA",  40.0,   60.0,   80.0));
+        velAng.addTerm(new Triangle("80_PARA_ESQUERDA",  60.0,   80.0,  100.0));
+        velAng.addTerm(new Triangle("100_PARA_ESQUERDA",  80.0,  100.0,  200.0));
+        velAng.addTerm(new Triangle("200_PARA_ESQUERDA", 100.0,  200.0,  300.0));
+        velAng.addTerm(new Triangle("300_PARA_ESQUERDA", 200.0,  300.0,  400.0));
+        velAng.addTerm(new Triangle("400_PARA_ESQUERDA", 300.0,  400.0,  500.0));
         engine.addInputVariable(velAng);
         
         diffX = new InputVariable();
@@ -274,13 +277,15 @@ public class AllanArielBot extends BotBase {
         angleToTarget = new InputVariable();
         angleToTarget.setName("angleToTarget");
         angleToTarget.setRange(-90.0, 90.0);
-        angleToTarget.addTerm(new Triangle("MUITO_BAIXO",	   	   -90.0, -67.5, -45.0));
-        angleToTarget.addTerm(new Triangle("BAIXO", 			   -67.5, -45.0, -22.5));
-        angleToTarget.addTerm(new Triangle("POUCO_BAIXO", 	       -45.0, -22.5,   0.0));
-        angleToTarget.addTerm(new Triangle("INTERMEDIARIO", 	   -22.5,   0.0,  22.5));
-        angleToTarget.addTerm(new Triangle("POUCO_ALTO", 			 0.0,  22.5,  45.0));
-        angleToTarget.addTerm(new Triangle("ALTO", 	  				22.5,  45.0,  67.5));
-        angleToTarget.addTerm(new Triangle("MUITO_ALTO", 	   	    45.0,  67.5,  90.0));
+        angleToTarget.addTerm(new Triangle("MUITO_NEGATIVO", 	   -90.0, -50.0, -30.0));
+        angleToTarget.addTerm(new Triangle("NEGATIVO", 	  		   -50.0, -30.0, -10.0));
+        angleToTarget.addTerm(new Triangle("5_A_15_NEGATIVO", 	   -15.0, -10.0,  -5.0));
+        angleToTarget.addTerm(new Triangle("0_A_10_NEGATIVO", 	   -10.0,  -5.0,   0.0));
+        angleToTarget.addTerm(new Triangle("INTERMEDIARIO", 	    -5.0,   0.0,   5.0));
+        angleToTarget.addTerm(new Triangle("0_A_10_POSITIVO", 		 0.0,   5.0,  10.0));
+        angleToTarget.addTerm(new Triangle("5_A_15_POSITIVO", 	  	 5.0,  10.0,  15.0));
+        angleToTarget.addTerm(new Triangle("POSITIVO",        		10.0,  30.0,  50.0));
+        angleToTarget.addTerm(new Triangle("MUITO_POSITIVO",        30.0,  50.0,  90.0));
         engine.addInputVariable(angleToTarget);
         
         motorPrincipal = new OutputVariable();
@@ -315,124 +320,206 @@ public class AllanArielBot extends BotBase {
         
         String[] rules = {
         		
-//        		"if velX is MAXIMA_PARA_ESQUERDA "
-//        		+ "or velX is EXTREMA_PARA_ESQUERDA "
-//        		+ "or velX is ALTA_PARA_ESQUERDA "
-//        		+ "then motorLadoFrente is PARA_DIREITA "
-//        		+ "and motorLadoFundo is PARA_DIREITA",
+        		"if velX is MAXIMA_PARA_ESQUERDA "
+        		+ "or velX is EXTREMA_PARA_ESQUERDA "
+        		+ "or velX is ALTA_PARA_ESQUERDA "
+        		+ "then motorLadoFrente is PARA_DIREITA "
+        		+ "and motorLadoFundo is PARA_DIREITA",
         		
 
         		
-//        		"if (diffX is MUITO_PROXIMO_ESQUERDA "
-//        		+ "or diffX is COLADO) "
-//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
-////        		+ "or diffY is COLADO "
-//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorLadoFrente is PARA_DIREITA "
-//        		+ "and motorLadoFundo is PARA_DIREITA",
-        		
-        		
-        		
-//        		"if velX is MAXIMA_PARA_DIREITA "
-//                + "or velX is EXTREMA_PARA_DIREITA "
-//        		+ "or velX is ALTA_PARA_DIREITA "
-//        		+ "then motorLadoFrente is PARA_ESQUERDA "
-//        		+ "and motorLadoFundo is PARA_ESQUERDA",
-        		
-
-        		
-//				"if diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
+        		"if (diffX is MUITO_PROXIMO_ESQUERDA "
+        		+ "or diffX is COLADO) "
+        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
 //        		+ "or diffY is COLADO "
-//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorLadoFrente is PARA_ESQUERDA "
-//        		+ "and motorLadoFundo is PARA_ESQUERDA",
+        		+ "or diffY is MUITO_PROXIMO_CIMA) "
+        		+ "and (velAng is 60_PARA_ESQUERDA "
+        		+ "or velAng is 40_PARA_ESQUERDA "
+        		+ "or velAng is 20_PARA_ESQUERDA "
+        		+ "or velAng is INERCIA "
+        		+ "or velAng is 20_PARA_DIREITA "
+        		+ "or velAng is 40_PARA_DIREITA "
+        		+ "or velAng is 60_PARA_DIREITA) "
+        		+ "then motorLadoFrente is PARA_DIREITA "
+        		+ "and motorLadoFundo is PARA_DIREITA",
         		
         		
         		
-//        		"if velY is MAXIMA_PARA_BAIXO "
-//        		+ "or velY is EXTREMA_PARA_BAIXO "
-//				+ "or velY is ALTA_PARA_BAIXO "
-//				+ "then motorPrincipal is PARA_FRENTE",
-				
-
-				
-//				"if (diffY is MUITO_PROXIMO_BAIXO "
-//				+ "or diffY is COLADO)"
-//        		+ "and (diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "or diffX is COLADO "
-//        		+ "or diffX is MUITO_PROXIMO_ESQUERDA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorPrincipal is PARA_FRENTE",
-        		
-        		
-        		
-//        		"if velY is MAXIMA_PARA_CIMA "
-//                + "or velY is EXTREMA_PARA_CIMA "
-//        		+ "or velY is ALTA_PARA_CIMA "
-//        		+ "then motorPrincipal is PARA_TRAS",
-        		
-
-        		
-//                "if diffY is MUITO_PROXIMO_CIMA "
-//        		+ "and (diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "or diffX is COLADO "
-//        		+ "or diffX is MUITO_PROXIMO_ESQUERDA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorPrincipal is PARA_TRAS",
-        		
-        		
-        		
-        		"if angleToTarget is MUITO_BAIXO "
-        		+ "or angleToTarget is BAIXO "
-        		+ "or angleToTarget is POUCO_BAIXO "
+        		"if velX is MAXIMA_PARA_DIREITA "
+                + "or velX is EXTREMA_PARA_DIREITA "
+        		+ "or velX is ALTA_PARA_DIREITA "
         		+ "then motorLadoFrente is PARA_ESQUERDA "
+        		+ "and motorLadoFundo is PARA_ESQUERDA",
+        		
+
+        		
+				"if diffX is MUITO_PROXIMO_DIREITA "
+        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
+        		+ "or diffY is COLADO "
+        		+ "or diffY is MUITO_PROXIMO_CIMA) "
+        		+ "and (velAng is 60_PARA_ESQUERDA "
+        		+ "or velAng is 40_PARA_ESQUERDA "
+        		+ "or velAng is 20_PARA_ESQUERDA "
+        		+ "or velAng is INERCIA "
+        		+ "or velAng is 20_PARA_DIREITA "
+        		+ "or velAng is 40_PARA_DIREITA "
+        		+ "or velAng is 60_PARA_DIREITA) "
+        		+ "then motorLadoFrente is PARA_ESQUERDA "
+        		+ "and motorLadoFundo is PARA_ESQUERDA",
+        		
+        		
+        		
+        		"if velY is MAXIMA_PARA_BAIXO "
+        		+ "or velY is EXTREMA_PARA_BAIXO "
+				+ "or velY is ALTA_PARA_BAIXO "
+				+ "then motorPrincipal is PARA_FRENTE",
+				
+
+				
+//				"if (diffX is MUITO_PROXIMO_DIREITA "
+//        		+ "or diffX is COLADO "
+//        		+ "or diffX is MUITO_PROXIMO_ESQUERDA) "
+//				+ " and (velAng is 60_PARA_ESQUERDA "
+//        		+ "or velAng is 40_PARA_ESQUERDA "
+//        		+ "velAng is 20_PARA_ESQUERDA "
+//        		+ "or velAng is INERCIA "
+//        		+ "or velAng is 20_PARA_DIREITA "
+//        		+ "or velAng is 40_PARA_DIREITA "
+//        		+ "or velAng is 60_PARA_DIREITA) "
+//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
+//				+ "or diffY is COLADO) "
+//        		+ "then motorPrincipal is PARA_FRENTE",
+				
+        		
+        		"if diffY is MUITO_PROXIMO_BAIXO "
+                + "and (diffX is MUITO_PROXIMO_DIREITA "
+                + "or diffX is COLADO "
+                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
+                + "and (velAng is 60_PARA_ESQUERDA "
+                + "or velAng is 40_PARA_ESQUERDA "
+                + "or velAng is 20_PARA_ESQUERDA "
+                + "or velAng is INERCIA "
+                + "or velAng is 20_PARA_DIREITA "
+                + "or velAng is 40_PARA_DIREITA "
+                + "or velAng is 60_PARA_DIREITA) "
+                + "then motorPrincipal is PARA_FRENTE",
+        		
+        		
+        		
+        		"if velY is MAXIMA_PARA_CIMA "
+                + "or velY is EXTREMA_PARA_CIMA "
+        		+ "or velY is ALTA_PARA_CIMA "
+        		+ "then motorPrincipal is PARA_TRAS",
+        		
+
+        		
+                "if diffY is MUITO_PROXIMO_CIMA "
+                + "and (diffX is MUITO_PROXIMO_DIREITA "
+                + "or diffX is COLADO "
+                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
+                + "and (velAng is 60_PARA_ESQUERDA "
+        		+ "or velAng is 40_PARA_ESQUERDA "
+        		+ "or velAng is 20_PARA_ESQUERDA "
+        		+ "or velAng is INERCIA "
+        		+ "or velAng is 20_PARA_DIREITA "
+        		+ "or velAng is 40_PARA_DIREITA "
+        		+ "or velAng is 60_PARA_DIREITA) "
+        		+ "then motorPrincipal is PARA_TRAS",
+        		
+        		
+        		
+        		"if angleToTarget is MUITO_NEGATIVO "
+        		+ "or angleToTarget is NEGATIVO "
+        		+ "or angleToTarget is 5_A_15_NEGATIVO "
+//        		+ "or angleToTarget is 0_A_10_NEGATIVO "
+        		+ "then motorLadoFrente is PARA_DIREITA "
         		+ "and motorLadoFundo is PARADO",
         		
-        		"if angleToTarget is INTERMEDIARIO "
-        		+ "then motorLadoFrente is PARADO",
+        		"if angleToTarget is MUITO_POSITIVO "
+        		+ "or angleToTarget is POSITIVO "
+        		+ "or angleToTarget is 5_A_15_POSITIVO "
+//        		+ "or angleToTarget is 0_A_10_POSITIVO "
+              	+ "then motorLadoFrente is PARA_ESQUERDA "
+              	+ "and motorLadoFundo is PARADO",
         		
-        		"if angleToTarget is MUITO_ALTO "
-                + "or angleToTarget is ALTO "
-                + "or angleToTarget is POUCO_ALTO "
-                + "then motorLadoFrente is PARA_DIREITA "
-                + "and motorLadoFundo is PARADO",
-                
+//        		"if (velAng is 400_PARA_ESQUERDA "
+//                + "or velAng is 300_PARA_ESQUERDA "
+//                + "or velAng is 200_PARA_ESQUERDA "
+//                + "or velAng is 100_PARA_ESQUERDA "
+//                + "or velAng is 80_PARA_ESQUERDA "
+//                + "or velAng is 60_PARA_ESQUERDA "
+//                + "or velAng is 40_PARA_ESQUERDA) "
+//                + "and angleToTarget is INTERMEDIARIO "
+//                + "then motorLadoFrente is PARA_DIREITA",
+        		
+//        		"if angleToTarget is INTERMEDIARIO "
+//        		+ "and velAng is 20_PARA_ESQUERDA "
+//        		+ "then motorLadoFrente is PARA_ESQUERDA",
+        		
+//        		"if angleToTarget is INTERMEDIARIO "
+//        		+ "then motorLadoFrente is PARADO",
+//        		
+//        		"if angleToTarget is INTERMEDIARIO "
+//                + "and velAng is 20_PARA_DIREITA "
+//                + "then motorLadoFrente is PARA_DIREITA",
+        		
+//        		"if (velAng is 400_PARA_DIREITA "
+//         		+ "or velAng is 300_PARA_DIREITA "
+//         		+ "or velAng is 200_PARA_DIREITA "
+//        		+ "or velAng is 100_PARA_DIREITA "
+//        	    + "or velAng is 80_PARA_DIREITA "
+//        	    + "or velAng is 60_PARA_DIREITA "
+//        	    + "or velAng is 40_PARA_DIREITA) "
+//        	    + "and angleToTarget is INTERMEDIARIO "
+//        	    + "then motorLadoFrente is PARA_ESQUERDA",
+        		
+//        		"if (angleToTarget is MUITO_POSITIVO "
+//                + "or angleToTarget is POSITIVO) "
+//                + "and (velAng is INERCIA "
+//        		+ "or velAng is 100_PARA_DIREITA "
+//                + "or velAng is 80_PARA_DIREITA "
+//                + "or velAng is 60_PARA_DIREITA "
+//                + "or velAng is 40_PARA_DIREITA) "
+//        		+ "or angleToTarget is 5_A_15_POSITIVO "
+////                + "or angleToTarget is 0_A_10_POSITIVO "
+//                + "then motorLadoFrente is PARA_ESQUERDA "
+//                + "and motorLadoFundo is PARADO",
 
                 
-        		"if velAng is 450_PARA_ESQUERDA "
-        		+ "or velAng is 400_PARA_ESQUERDA "
-        		+ "or velAng is 350_PARA_ESQUERDA "
+        		"if velAng is 400_PARA_ESQUERDA "
         		+ "or velAng is 300_PARA_ESQUERDA "
-        		+ "or velAng is 250_PARA_ESQUERDA "
-        	    + "or velAng is 200_PARA_ESQUERDA "
-        	    + "or velAng is 150_PARA_ESQUERDA "
-        	    + "or velAng is 100_PARA_ESQUERDA "
-        	    + "or velAng is 50_PARA_ESQUERDA "
+        		+ "or velAng is 200_PARA_ESQUERDA "
+        		+ "or velAng is 100_PARA_ESQUERDA "
+        	    + "or velAng is 80_PARA_ESQUERDA "
+        	    + "or velAng is 60_PARA_ESQUERDA "
+//        	    + "or velAng is 40_PARA_ESQUERDA "
+//        	    + "or velAng is 20_PARA_ESQUERDA "
+//        	    + "and angleToTarget is 0_A_10_POSITIVO) "
         	    + "then motorLadoFrente is PARA_ESQUERDA "
         	    + "and motorLadoFundo is PARADO",
         	    
+        	    "if velAng is 20_PARA_ESQUERDA "
+                + "and angleToTarget is 0_A_10_POSITIVO "
+                + "or angleToTarget is 5_A_15_POSITIVO "
+                + "then motorLadoFrente is PARA_ESQUERDA "
+                + "and motorLadoFundo is PARADO",
         	    
+                "if velAng is 20_PARA_DIREITA "
+                + "and angleToTarget is 0_A_10_NEGATIVO "
+                + "or angleToTarget is 5_A_15_NEGATIVO "
+                + "then motorLadoFrente is PARA_DIREITA "
+                + "and motorLadoFundo is PARADO",
+                
          		 
-         		"if velAng is 450_PARA_DIREITA "
-         		+ "or velAng is 400_PARA_DIREITA "
-         		+ "or velAng is 350_PARA_DIREITA "
+         		"if velAng is 400_PARA_DIREITA "
          		+ "or velAng is 300_PARA_DIREITA "
-        		+ "or velAng is 250_PARA_DIREITA "
-        	    + "or velAng is 200_PARA_DIREITA "
-        	    + "or velAng is 150_PARA_DIREITA "
-        	    + "or velAng is 100_PARA_DIREITA "
-        	    + "or velAng is 50_PARA_DIREITA "
+         		+ "or velAng is 200_PARA_DIREITA "
+        		+ "or velAng is 100_PARA_DIREITA "
+        	    + "or velAng is 80_PARA_DIREITA "
+        	    + "or velAng is 60_PARA_DIREITA "
+//        	    + "or velAng is 40_PARA_DIREITA "
+//        	    + "or velAng is 20_PARA_DIREITA "
+//        	    + "and angleToTarget is 0_A_10_NEGATIVO) "
                	+ "then motorLadoFrente is PARA_DIREITA "
                	+ "and motorLadoFundo is PARADO"
         };
