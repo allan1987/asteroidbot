@@ -108,10 +108,13 @@ public class AllanArielBot extends BotBase {
 		
 //		double att = Math.toDegrees(Math.atan2(object.getPosy(), object.getPosx()));
 //		gamestate.log("att = " + att);
-		gamestate.log("atan = " + Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())));
-		gamestate.log("getAng() % 360 = " + Math.abs(getAng()) % 360 + ", velAng = " + getVelang());
+		gamestate.log("atan2 = " + Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())));
+		gamestate.log("getAng() % 360 = " + Math.abs(getAng() % 360) + ", velAng = " + getVelang());
 		
-		angleToTarget.setInputValue(90 - (Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())) % 360) - (Math.abs(getAng()) % 360));
+		double atan2Value = Math.abs(Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())) - 90) % 360;
+		double angleValue = Math.abs(getAng() % 360);
+		angleToTarget.setInputValue(atan2Value - angleValue);
+//		angleToTarget.setInputValue(Math.abs((Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())) % 360) - 90) - (getAng() % 360));
 		
 		engine.process();
 		
@@ -320,59 +323,59 @@ public class AllanArielBot extends BotBase {
         
         String[] rules = {
         		
-        		"if velX is MAXIMA_PARA_ESQUERDA "
-        		+ "or velX is EXTREMA_PARA_ESQUERDA "
-        		+ "or velX is ALTA_PARA_ESQUERDA "
-        		+ "then motorLadoFrente is PARA_DIREITA "
-        		+ "and motorLadoFundo is PARA_DIREITA",
+//        		"if velX is MAXIMA_PARA_ESQUERDA "
+//        		+ "or velX is EXTREMA_PARA_ESQUERDA "
+//        		+ "or velX is ALTA_PARA_ESQUERDA "
+//        		+ "then motorLadoFrente is PARA_DIREITA "
+//        		+ "and motorLadoFundo is PARA_DIREITA",
         		
 
         		
-        		"if (diffX is MUITO_PROXIMO_ESQUERDA "
-        		+ "or diffX is COLADO) "
-        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
+//        		"if (diffX is MUITO_PROXIMO_ESQUERDA "
+//        		+ "or diffX is COLADO) "
+//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
+////        		+ "or diffY is COLADO "
+//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
+//        		+ "and (velAng is 60_PARA_ESQUERDA "
+//        		+ "or velAng is 40_PARA_ESQUERDA "
+//        		+ "or velAng is 20_PARA_ESQUERDA "
+//        		+ "or velAng is INERCIA "
+//        		+ "or velAng is 20_PARA_DIREITA "
+//        		+ "or velAng is 40_PARA_DIREITA "
+//        		+ "or velAng is 60_PARA_DIREITA) "
+//        		+ "then motorLadoFrente is PARA_DIREITA "
+//        		+ "and motorLadoFundo is PARA_DIREITA",
+        		
+        		
+        		
+//        		"if velX is MAXIMA_PARA_DIREITA "
+//                + "or velX is EXTREMA_PARA_DIREITA "
+//        		+ "or velX is ALTA_PARA_DIREITA "
+//        		+ "then motorLadoFrente is PARA_ESQUERDA "
+//        		+ "and motorLadoFundo is PARA_ESQUERDA",
+        		
+
+        		
+//				"if diffX is MUITO_PROXIMO_DIREITA "
+//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
 //        		+ "or diffY is COLADO "
-        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-        		+ "and (velAng is 60_PARA_ESQUERDA "
-        		+ "or velAng is 40_PARA_ESQUERDA "
-        		+ "or velAng is 20_PARA_ESQUERDA "
-        		+ "or velAng is INERCIA "
-        		+ "or velAng is 20_PARA_DIREITA "
-        		+ "or velAng is 40_PARA_DIREITA "
-        		+ "or velAng is 60_PARA_DIREITA) "
-        		+ "then motorLadoFrente is PARA_DIREITA "
-        		+ "and motorLadoFundo is PARA_DIREITA",
+//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
+//        		+ "and (velAng is 60_PARA_ESQUERDA "
+//        		+ "or velAng is 40_PARA_ESQUERDA "
+//        		+ "or velAng is 20_PARA_ESQUERDA "
+//        		+ "or velAng is INERCIA "
+//        		+ "or velAng is 20_PARA_DIREITA "
+//        		+ "or velAng is 40_PARA_DIREITA "
+//        		+ "or velAng is 60_PARA_DIREITA) "
+//        		+ "then motorLadoFrente is PARA_ESQUERDA "
+//        		+ "and motorLadoFundo is PARA_ESQUERDA",
         		
         		
         		
-        		"if velX is MAXIMA_PARA_DIREITA "
-                + "or velX is EXTREMA_PARA_DIREITA "
-        		+ "or velX is ALTA_PARA_DIREITA "
-        		+ "then motorLadoFrente is PARA_ESQUERDA "
-        		+ "and motorLadoFundo is PARA_ESQUERDA",
-        		
-
-        		
-				"if diffX is MUITO_PROXIMO_DIREITA "
-        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
-        		+ "or diffY is COLADO "
-        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-        		+ "and (velAng is 60_PARA_ESQUERDA "
-        		+ "or velAng is 40_PARA_ESQUERDA "
-        		+ "or velAng is 20_PARA_ESQUERDA "
-        		+ "or velAng is INERCIA "
-        		+ "or velAng is 20_PARA_DIREITA "
-        		+ "or velAng is 40_PARA_DIREITA "
-        		+ "or velAng is 60_PARA_DIREITA) "
-        		+ "then motorLadoFrente is PARA_ESQUERDA "
-        		+ "and motorLadoFundo is PARA_ESQUERDA",
-        		
-        		
-        		
-        		"if velY is MAXIMA_PARA_BAIXO "
-        		+ "or velY is EXTREMA_PARA_BAIXO "
-				+ "or velY is ALTA_PARA_BAIXO "
-				+ "then motorPrincipal is PARA_FRENTE",
+//        		"if velY is MAXIMA_PARA_BAIXO "
+//        		+ "or velY is EXTREMA_PARA_BAIXO "
+//				+ "or velY is ALTA_PARA_BAIXO "
+//				+ "then motorPrincipal is PARA_FRENTE",
 				
 
 				
@@ -391,55 +394,55 @@ public class AllanArielBot extends BotBase {
 //        		+ "then motorPrincipal is PARA_FRENTE",
 				
         		
-        		"if diffY is MUITO_PROXIMO_BAIXO "
-                + "and (diffX is MUITO_PROXIMO_DIREITA "
-                + "or diffX is COLADO "
-                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
-                + "and (velAng is 60_PARA_ESQUERDA "
-                + "or velAng is 40_PARA_ESQUERDA "
-                + "or velAng is 20_PARA_ESQUERDA "
-                + "or velAng is INERCIA "
-                + "or velAng is 20_PARA_DIREITA "
-                + "or velAng is 40_PARA_DIREITA "
-                + "or velAng is 60_PARA_DIREITA) "
-                + "then motorPrincipal is PARA_FRENTE",
+//        		"if diffY is MUITO_PROXIMO_BAIXO "
+//                + "and (diffX is MUITO_PROXIMO_DIREITA "
+//                + "or diffX is COLADO "
+//                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
+//                + "and (velAng is 60_PARA_ESQUERDA "
+//                + "or velAng is 40_PARA_ESQUERDA "
+//                + "or velAng is 20_PARA_ESQUERDA "
+//                + "or velAng is INERCIA "
+//                + "or velAng is 20_PARA_DIREITA "
+//                + "or velAng is 40_PARA_DIREITA "
+//                + "or velAng is 60_PARA_DIREITA) "
+//                + "then motorPrincipal is PARA_FRENTE",
         		
         		
         		
-        		"if velY is MAXIMA_PARA_CIMA "
-                + "or velY is EXTREMA_PARA_CIMA "
-        		+ "or velY is ALTA_PARA_CIMA "
-        		+ "then motorPrincipal is PARA_TRAS",
+//        		"if velY is MAXIMA_PARA_CIMA "
+//                + "or velY is EXTREMA_PARA_CIMA "
+//        		+ "or velY is ALTA_PARA_CIMA "
+//        		+ "then motorPrincipal is PARA_TRAS",
         		
 
         		
-                "if diffY is MUITO_PROXIMO_CIMA "
-                + "and (diffX is MUITO_PROXIMO_DIREITA "
-                + "or diffX is COLADO "
-                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
-                + "and (velAng is 60_PARA_ESQUERDA "
-        		+ "or velAng is 40_PARA_ESQUERDA "
-        		+ "or velAng is 20_PARA_ESQUERDA "
-        		+ "or velAng is INERCIA "
-        		+ "or velAng is 20_PARA_DIREITA "
-        		+ "or velAng is 40_PARA_DIREITA "
-        		+ "or velAng is 60_PARA_DIREITA) "
-        		+ "then motorPrincipal is PARA_TRAS",
+//                "if diffY is MUITO_PROXIMO_CIMA "
+//                + "and (diffX is MUITO_PROXIMO_DIREITA "
+//                + "or diffX is COLADO "
+//                + "or diffX is MUITO_PROXIMO_ESQUERDA) "
+//                + "and (velAng is 60_PARA_ESQUERDA "
+//        		+ "or velAng is 40_PARA_ESQUERDA "
+//        		+ "or velAng is 20_PARA_ESQUERDA "
+//        		+ "or velAng is INERCIA "
+//        		+ "or velAng is 20_PARA_DIREITA "
+//        		+ "or velAng is 40_PARA_DIREITA "
+//        		+ "or velAng is 60_PARA_DIREITA) "
+//        		+ "then motorPrincipal is PARA_TRAS",
         		
         		
         		
         		"if angleToTarget is MUITO_NEGATIVO "
         		+ "or angleToTarget is NEGATIVO "
         		+ "or angleToTarget is 5_A_15_NEGATIVO "
-//        		+ "or angleToTarget is 0_A_10_NEGATIVO "
-        		+ "then motorLadoFrente is PARA_DIREITA "
+        		+ "or angleToTarget is 0_A_10_NEGATIVO "
+        		+ "then motorLadoFrente is PARA_ESQUERDA "
         		+ "and motorLadoFundo is PARADO",
         		
         		"if angleToTarget is MUITO_POSITIVO "
         		+ "or angleToTarget is POSITIVO "
         		+ "or angleToTarget is 5_A_15_POSITIVO "
-//        		+ "or angleToTarget is 0_A_10_POSITIVO "
-              	+ "then motorLadoFrente is PARA_ESQUERDA "
+        		+ "or angleToTarget is 0_A_10_POSITIVO "
+              	+ "then motorLadoFrente is PARA_DIREITA "
               	+ "and motorLadoFundo is PARADO",
         		
 //        		"if (velAng is 400_PARA_ESQUERDA "
@@ -486,42 +489,42 @@ public class AllanArielBot extends BotBase {
 //                + "and motorLadoFundo is PARADO",
 
                 
-        		"if velAng is 400_PARA_ESQUERDA "
-        		+ "or velAng is 300_PARA_ESQUERDA "
-        		+ "or velAng is 200_PARA_ESQUERDA "
-        		+ "or velAng is 100_PARA_ESQUERDA "
-        	    + "or velAng is 80_PARA_ESQUERDA "
-        	    + "or velAng is 60_PARA_ESQUERDA "
-//        	    + "or velAng is 40_PARA_ESQUERDA "
-//        	    + "or velAng is 20_PARA_ESQUERDA "
-//        	    + "and angleToTarget is 0_A_10_POSITIVO) "
-        	    + "then motorLadoFrente is PARA_ESQUERDA "
-        	    + "and motorLadoFundo is PARADO",
+//        		"if velAng is 400_PARA_ESQUERDA "
+//        		+ "or velAng is 300_PARA_ESQUERDA "
+//        		+ "or velAng is 200_PARA_ESQUERDA "
+//        		+ "or velAng is 100_PARA_ESQUERDA "
+//        	    + "or velAng is 80_PARA_ESQUERDA "
+//        	    + "or velAng is 60_PARA_ESQUERDA "
+////        	    + "or velAng is 40_PARA_ESQUERDA "
+////        	    + "or velAng is 20_PARA_ESQUERDA "
+////        	    + "and angleToTarget is 0_A_10_POSITIVO) "
+//        	    + "then motorLadoFrente is PARA_ESQUERDA "
+//        	    + "and motorLadoFundo is PARADO",
         	    
-        	    "if velAng is 20_PARA_ESQUERDA "
-                + "and angleToTarget is 0_A_10_POSITIVO "
-                + "or angleToTarget is 5_A_15_POSITIVO "
-                + "then motorLadoFrente is PARA_ESQUERDA "
-                + "and motorLadoFundo is PARADO",
+//        	    "if velAng is 20_PARA_ESQUERDA "
+//                + "and angleToTarget is 0_A_10_POSITIVO "
+//                + "or angleToTarget is 5_A_15_POSITIVO "
+//                + "then motorLadoFrente is PARA_ESQUERDA "
+//                + "and motorLadoFundo is PARADO",
         	    
-                "if velAng is 20_PARA_DIREITA "
-                + "and angleToTarget is 0_A_10_NEGATIVO "
-                + "or angleToTarget is 5_A_15_NEGATIVO "
-                + "then motorLadoFrente is PARA_DIREITA "
-                + "and motorLadoFundo is PARADO",
+//                "if velAng is 20_PARA_DIREITA "
+//                + "and angleToTarget is 0_A_10_NEGATIVO "
+//                + "or angleToTarget is 5_A_15_NEGATIVO "
+//                + "then motorLadoFrente is PARA_DIREITA "
+//                + "and motorLadoFundo is PARADO",
                 
          		 
-         		"if velAng is 400_PARA_DIREITA "
-         		+ "or velAng is 300_PARA_DIREITA "
-         		+ "or velAng is 200_PARA_DIREITA "
-        		+ "or velAng is 100_PARA_DIREITA "
-        	    + "or velAng is 80_PARA_DIREITA "
-        	    + "or velAng is 60_PARA_DIREITA "
-//        	    + "or velAng is 40_PARA_DIREITA "
-//        	    + "or velAng is 20_PARA_DIREITA "
-//        	    + "and angleToTarget is 0_A_10_NEGATIVO) "
-               	+ "then motorLadoFrente is PARA_DIREITA "
-               	+ "and motorLadoFundo is PARADO"
+//         		"if velAng is 400_PARA_DIREITA "
+//         		+ "or velAng is 300_PARA_DIREITA "
+//         		+ "or velAng is 200_PARA_DIREITA "
+//        		+ "or velAng is 100_PARA_DIREITA "
+//        	    + "or velAng is 80_PARA_DIREITA "
+//        	    + "or velAng is 60_PARA_DIREITA "
+////        	    + "or velAng is 40_PARA_DIREITA "
+////        	    + "or velAng is 20_PARA_DIREITA "
+////        	    + "and angleToTarget is 0_A_10_NEGATIVO) "
+//               	+ "then motorLadoFrente is PARA_DIREITA "
+//               	+ "and motorLadoFundo is PARADO"
         };
         
         for(String rule : rules) {
