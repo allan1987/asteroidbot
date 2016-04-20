@@ -5,56 +5,38 @@ import java.util.Iterator;
 import java.util.Map;
 
 import com.fuzzylite.Engine;
-import com.fuzzylite.rule.Rule;
-import com.fuzzylite.rule.RuleBlock;
-import com.fuzzylite.term.Triangle;
-import com.fuzzylite.variable.InputVariable;
-import com.fuzzylite.variable.OutputVariable;
 
 import bot_interface.Action;
 import bot_interface.BotBase;
 import bot_interface.GameObject;
 import bot_interface.GameState;
+import bot_interface.Laser;
+import bot_interface.Ship;
 
 public class DestroyerBot extends BotBase {
 	
 	private Engine engine;
-	private double posX, posY, velX, velY, diffX, diffY, velAng, shipAngle, angleToTarget, diffAngle;
+	private double posX, posY, diffVelX, diffVelY, diffX, diffY, velAng, shipAngle, angleToTarget, diffAngle;
 	private float motorPrincipal, motorLadoFrente, motorLadoFundo;
 	private int tiro;
 	
 	public Action process(GameState gamestate) {
-//		GameObject rock = findNearObject(gamestate.getRocks());
 		GameObject nearShip = findNearObject(gamestate, gamestate.getShips());
+		GameObject nearLaser = findNearObject(gamestate, gamestate.getLasers());
+		GameObject nearRock = null;//findNearObject(gamestate, gamestate.getRocks());
+		
+		gamestate.log("gamestate.getTick() = " + gamestate.getTick());
 		
 //		gamestate.log("nearShip null? " + (nearShip == null));
 		
 //		gamestate.log("meu uid = " + getUid() + " e arenaRadius = " + gamestate.getArenaRadius());
 		
-		if(nearShip != null) {
 //				gamestate.log("adv x = " + nearShip.getPosx() + ", y = " + nearShip.getPosy() + ", r = " + nearShip.getRadius());
 //				gamestate.log("x = " + getPosx() + ", y = " + getPosy() + ", r = " + getRadius());
 //				gamestate.log("Velx = "  + getVelx() + ", Vely = " + getVely());
 //				gamestate.log("getAng = " + getAng() + ", getVelang = " + getVelang());
 //				gamestate.log("Math.cos(" + getAng() + ") = "  + Math.cos(Math.toRadians(getAng())));
-			return process(gamestate, nearShip);
-		}
-		else {
-//			gamestate.log("ABC");
-//			gamestate.log("x = " + getPosx() + ", y = " + getPosy() + ", r = " + getRadius());
-//			gamestate.log("getAng = " + getAng() + ", getVelang = " + getVelang());
-//			gamestate.log("Math.cos(" + getAng() + ") = "  + Math.cos(Math.toRadians(getAng())));
-//			if(count < 5) {
-//				count++;
-//				return new Action(0, 1, 0, 1); 
-//			}
-//			else {
-				return new Action(0, 0, 0, 1); 
-//			}
-		}
-				
-//			return action;	
-		
+			return process(gamestate, nearShip, nearLaser, nearRock);
 	}
 	
 //	private void a(GameObject gameObject) {
@@ -78,44 +60,87 @@ public class DestroyerBot extends BotBase {
 //		y += Math.sin(angle) * moveSpeed;
 //	}
 	
-//	private void calcVelAngBalance() {
-//		if(getVelang() > 50) {
-//			motorLadoFrente = 1;
-//		}
-//		else if(getVelang() < -50) {
-//			motorLadoFrente = -1;
-//		}
-//	}
-	
-	private void calcDiffAngleBalance() {
-		if(diffAngle <= -5) {
-			motorLadoFrente = -1;
+	private void calcDiffXYLaserBalance(GameState gameState, Laser nearLaser) {
+		diffX = nearLaser.getPosx() - getPosx();
+		diffY = nearLaser.getPosy() - getPosy();
+		diffVelX = nearLaser.getVelx() - getVelx();
+		diffVelY = nearLaser.getVely() - getVely();
+		
+		//S = So + Vt
+		double expectedLaserPosX = nearLaser.getPosx();
+		double expectedLaserPosY = nearLaser.getPosy();
+		for(int i = 1; i <= nearLaser.getLifetime(); i++) {
+			expectedLaserPosX = nearLaser.getPosx() + nearLaser.getVelx() * i;
+			expectedLaserPosY = nearLaser.getPosy() + nearLaser.getVely() * i;
+			
+			gameState.log("expectedLaserPosX = " + expectedLaserPosX + ", expectedLaserPosY = " + expectedLaserPosY);
+			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
+			
+			//TODO problemão nesse iff... não funfa
+			if(expectedLaserPosX - getPosx() >= nearLaser.getVelx() 
+			&& expectedLaserPosY - getPosy() >= nearLaser.getVely()) {
+				
+				motorLadoFrente = 1;
+				motorLadoFundo = 1;
+				gameState.log("deu break");
+				break;
+			}
+			
 		}
-		else if(diffAngle >= 5) {
-			motorLadoFrente = 1;
-		}
-//		else {
-//			if(getVelang() < -50) {
-//				motorLadoFrente = 1;
-//			}
-//			else if(getVelang() > 50) {
-//				motorLadoFrente = -1;
-//			}
-//		}
+			
+		gameState.log("laser pertence a uid = " + nearLaser.getOwner() + ", nearLaser.getUid() = " + nearLaser.getUid());
+		gameState.log("nearLaser.getVelx() = " + nearLaser.getVelx() + ", getVelx() = " + getVelx());
+		gameState.log("diffVelX = " + diffVelX);
+		gameState.log("nearLaser.getVely() = " + nearLaser.getVely() + ", getVely() = " + getVely());
+		gameState.log("diffVelY = " + diffVelY);
+		gameState.log("nearLaser.getPosx() = " + nearLaser.getPosx() + ", getPosx() = " + getPosx());
+		gameState.log("nearLaser.getPosy() = " + nearLaser.getPosy() + ", getPosy() = " + getPosy());
+		gameState.log("diffX = " + diffX);
+		gameState.log("diffY = " + diffY);
 	}
 	
-	private Action process(GameState gamestate, GameObject object) {
+	private void calcDiffAngleBalance(GameState gameState, Ship nearShip) {
+		shipAngle = Math.abs(getAng()) % 360;
+		
+		if(nearShip != null) {
+			gameState.log("nearShip.getUid() = " + nearShip.getUid() + ", getUid() = " + getUid());
+			angleToTarget = (Math.toDegrees(Math.atan2(nearShip.getPosy() - getPosy(), nearShip.getPosx() - getPosx())) - 90) % 360;
+		}
+		
+		diffAngle = shipAngle - angleToTarget;
+		if(diffAngle > 180) {
+			diffAngle -= 360;
+		}
+		
+		if(diffAngle < -5) {
+			motorLadoFrente = -1;
+		}
+		else if(diffAngle > 5) {
+			motorLadoFrente = 1;
+		}
+		else {
+			if(getVelang() < -20) {
+				motorLadoFrente = -1;
+			}
+			else if(getVelang() > 20) {
+				motorLadoFrente = 1;
+			}
+		}
+	}
+	
+	private Action process(GameState gamestate, GameObject nearShip, GameObject nearLaser, GameObject nearRock) {
 		motorPrincipal = 0;
 		motorLadoFrente = 0;
 		motorLadoFundo = 0;
 		tiro = 0;
 		
-		shipAngle = Math.abs(getAng()) % 360;
-		angleToTarget = Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx()));
-		diffAngle = 90 - angleToTarget - shipAngle;
+//		if(nearShip != null) {
+//			calcDiffAngleBalance(gamestate, (Ship)nearShip);
+//		}
 		
-//		calcVelAngBalance();
-		calcDiffAngleBalance();
+		if(nearLaser != null) {
+			calcDiffXYLaserBalance(gamestate, (Laser)nearLaser);
+		}
 		
 		gamestate.log("shipAngle = " + shipAngle + ", velAng = " + getVelang());
 		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
@@ -170,16 +195,21 @@ public class DestroyerBot extends BotBase {
 	
 	private GameObject findNearObject(GameState gamestate, Map<Integer, ? extends GameObject> list) {
 		double dPosx, dPosy, minDistance = 0;
-		long nearUid = 0;
 		GameObject nearObject = null;
 		
 		if(list.size() > 0) {
+			
 			Iterator<Integer> it = list.keySet().iterator();
 			while(it.hasNext()) {
 				int key = it.next();
 				
+				GameObject gameObject = list.get(key);
+				
+				if(gameObject instanceof Laser) {
+					key = ((Laser)gameObject).getOwner();
+				}
+				
 				if(getUid() != key) {
-					GameObject gameObject = list.get(key);
 					
 					if(gameObject.getPosx() < getPosx()) {
 						dPosx =  (gameObject.getPosx() + gameObject.getRadius()) - (getPosx() - getRadius());
@@ -195,17 +225,12 @@ public class DestroyerBot extends BotBase {
 						dPosy = (gameObject.getPosy() - gameObject.getRadius()) - (getPosy() + getRadius());
 					}
 					
-//					gamestate.log("OPA uid = " + gameObject.getUid() + ", x = " + gameObject.getPosx() + ", y = " + gameObject.getPosy());
-//					gamestate.log("bot x = " + getPosx() + ", y = " + getPosy());
-					
 					if(minDistance == 0 || minDistance > dPosx * dPosx + dPosy * dPosy) {
 						minDistance = dPosx * dPosx + dPosy * dPosy;
 						nearObject = gameObject;
 					}
 				}
 			}
-			
-//			gamestate.log("OPA uid = " + nearUid + " e list.size() = " + list.size());
 		}
 		return nearObject;
 	}
