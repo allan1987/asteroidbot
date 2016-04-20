@@ -66,22 +66,46 @@ public class DestroyerBot extends BotBase {
 		diffVelX = nearLaser.getVelx() - getVelx();
 		diffVelY = nearLaser.getVely() - getVely();
 		
+		shipAngle = Math.abs(getAng()) % 360;
+		
+		if(nearLaser != null) {
+			angleToTarget = (Math.toDegrees(Math.atan2(nearLaser.getPosy() - getPosy(), nearLaser.getPosx() - getPosx())) - 90) % 360;
+		}
+		
+		diffAngle = shipAngle - angleToTarget;
+		if(diffAngle > 180) {
+			diffAngle -= 360;
+		}
+		
+		gameState.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
+		
 		//S = So + Vt
 		double expectedLaserPosX = nearLaser.getPosx();
 		double expectedLaserPosY = nearLaser.getPosy();
-		for(int i = 1; i <= nearLaser.getLifetime(); i++) {
+		double diffExpectedFromPosX = expectedLaserPosX - getPosx();
+		double diffExpectedFromPosY = expectedLaserPosY - getPosy();
+		
+		for(int i = 0; i <= nearLaser.getLifetime(); i++) {
 			expectedLaserPosX = nearLaser.getPosx() + nearLaser.getVelx() * i;
 			expectedLaserPosY = nearLaser.getPosy() + nearLaser.getVely() * i;
+			
+			diffExpectedFromPosX = expectedLaserPosX - getPosx();
+			diffExpectedFromPosY = expectedLaserPosY - getPosy();
 			
 			gameState.log("expectedLaserPosX = " + expectedLaserPosX + ", expectedLaserPosY = " + expectedLaserPosY);
 			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
 			
 			//TODO problemão nesse iff... não funfa
-			if(expectedLaserPosX - getPosx() >= nearLaser.getVelx() 
-			&& expectedLaserPosY - getPosy() >= nearLaser.getVely()) {
+			if(Math.abs(diffExpectedFromPosX) <= 5 && Math.abs(diffExpectedFromPosY) <= 5) {
+//				if(diffExpectedFromPosX > 0) {
+//					motorLadoFrente = 1;
+//					motorLadoFundo = 1;
+//				}
+//				else {
+					motorLadoFrente = -1;
+					motorLadoFundo = -1;
+//				}
 				
-				motorLadoFrente = 1;
-				motorLadoFundo = 1;
 				gameState.log("deu break");
 				break;
 			}
@@ -134,9 +158,9 @@ public class DestroyerBot extends BotBase {
 		motorLadoFundo = 0;
 		tiro = 0;
 		
-//		if(nearShip != null) {
-//			calcDiffAngleBalance(gamestate, (Ship)nearShip);
-//		}
+		if(nearShip != null) {
+			calcDiffAngleBalance(gamestate, (Ship)nearShip);
+		}
 		
 		if(nearLaser != null) {
 			calcDiffXYLaserBalance(gamestate, (Laser)nearLaser);
