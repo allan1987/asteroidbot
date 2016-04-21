@@ -62,55 +62,34 @@ public class DestroyerBot extends BotBase {
 //	}
 	
 	private void calcDiffXYLaserBalance(GameState gameState, Laser nearLaser) {
-		diffX = nearLaser.getPosx() - getPosx();
-		diffY = nearLaser.getPosy() - getPosy();
-		diffVelX = nearLaser.getVelx() - getVelx();
-		diffVelY = nearLaser.getVely() - getVely();
-		
-		shipAngle = Math.abs(getAng()) % 360;
-		
-		if(nearLaser != null) {
-			angleToTarget = (Math.toDegrees(Math.atan2(nearLaser.getPosy() - getPosy(), nearLaser.getPosx() - getPosx())) - 90) % 360;
-		}
-		
-		diffAngle = shipAngle - angleToTarget;
-		if(diffAngle > 180) {
-			diffAngle -= 360;
-		}
-		
-		gameState.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
-		
 		//S = So + Vt
-		double expectedLaserPosX = nearLaser.getPosx();
-		double expectedLaserPosY = nearLaser.getPosy();
-		double diffExpectedFromPosX = expectedLaserPosX - getPosx();
-		double diffExpectedFromPosY = expectedLaserPosY - getPosy();
-		
 		for(int i = 0; i <= nearLaser.getLifetime(); i++) {
-			expectedLaserPosX = nearLaser.getPosx() + nearLaser.getVelx() * i;
-			expectedLaserPosY = nearLaser.getPosy() + nearLaser.getVely() * i;
+			expectedObjectPosX = nearLaser.getPosx() + nearLaser.getVelx() * i;
+			expectedObjectPosY = nearLaser.getPosy() + nearLaser.getVely() * i;
 			
-			diffExpectedFromPosX = expectedLaserPosX - getPosx();
-			diffExpectedFromPosY = expectedLaserPosY - getPosy();
+			diffExpectedFromPosX = expectedObjectPosX - getPosx();
+			diffExpectedFromPosY = expectedObjectPosY - getPosy();
 			
-			gameState.log("expectedLaserPosX = " + expectedLaserPosX + ", expectedLaserPosY = " + expectedLaserPosY);
+			gameState.log("expectedLaserPosX = " + expectedObjectPosX + ", expectedLaserPosY = " + expectedObjectPosY);
 			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
 			
-			//TODO problemão nesse iff... não funfa
-			if(Math.abs(diffExpectedFromPosX) <= 5 && Math.abs(diffExpectedFromPosY) <= 5) {
-//				if(diffExpectedFromPosX > 0) {
-//					motorLadoFrente = 1;
-//					motorLadoFundo = 1;
-//				}
-//				else {
+			if(Math.abs(diffExpectedFromPosX) <= 10 && Math.abs(diffExpectedFromPosY) <= 10) {
+				if(diffExpectedFromPosX < 0 || diffExpectedFromPosY < 0) {
+					motorLadoFrente = 1;
+					motorLadoFundo = 1;
+				}
+				else {
 					motorLadoFrente = -1;
 					motorLadoFundo = -1;
-//				}
+				}
+				
+				gameState.log("cos(" + getAng() + ") = " + Math.round(Math.cos(Math.toRadians(getAng()))));
+				motorLadoFrente *= Math.round(Math.cos(Math.toRadians(getAng())));
+				motorLadoFundo *= Math.round(Math.cos(Math.toRadians(getAng())));
 				
 				gameState.log("deu break");
 				break;
 			}
-			
 		}
 			
 		gameState.log("laser pertence a uid = " + nearLaser.getOwner() + ", nearLaser.getUid() = " + nearLaser.getUid());
@@ -125,30 +104,69 @@ public class DestroyerBot extends BotBase {
 	}
 	
 	private void calcDiffAngleBalance(GameState gameState, Ship nearShip) {
-		shipAngle = Math.abs(getAng()) % 360;
+		shipAngle = getAng() % 360;
 		
 		if(nearShip != null) {
-			gameState.log("nearShip.getUid() = " + nearShip.getUid() + ", getUid() = " + getUid());
-			angleToTarget = (Math.toDegrees(Math.atan2(nearShip.getPosy() - getPosy(), nearShip.getPosx() - getPosx())) - 90) % 360;
+			expectedObjectPosX = nearShip.getPosx();
+			expectedObjectPosY = nearShip.getPosy();
+			
+			diffExpectedFromPosX = expectedObjectPosX - getPosx();
+			diffExpectedFromPosY = expectedObjectPosY - getPosy();
+			
+			if(Math.abs(diffExpectedFromPosX) > gameState.getArenaRadius()) {
+				expectedObjectPosY += nearShip.getVely() * 3;
+			}
+			if(Math.abs(diffExpectedFromPosY) > gameState.getArenaRadius()) {
+				expectedObjectPosX += nearShip.getVelx() * 3;
+			}
+			
+			angleToTarget = (Math.toDegrees(Math.atan2(expectedObjectPosY - getPosy(), expectedObjectPosX - getPosx())) - 90) % 360;
 		}
 		
-		diffAngle = shipAngle - angleToTarget;
-		if(diffAngle > 180) {
-			diffAngle -= 360;
-		}
+		diffAngle = (shipAngle - angleToTarget) % 360;
 		
-		if(diffAngle < -5) {
+		if(Math.sin(Math.toRadians(diffAngle)) < -senAng5) {
 			motorLadoFrente = -1;
 		}
-		else if(diffAngle > 5) {
+		else if(Math.sin(Math.toRadians(diffAngle)) > senAng5) {
 			motorLadoFrente = 1;
 		}
 		else {
-			if(getVelang() < -20) {
+			if(getVelang() < -30) {
 				motorLadoFrente = -1;
 			}
-			else if(getVelang() > 20) {
+			else if(getVelang() > 30) {
 				motorLadoFrente = 1;
+			}
+		}
+	}
+	
+	private void equilibrateVelAng() {
+		if(getVelang() < -50) {
+			motorLadoFrente = -1;
+		}
+		else if(getVelang() > 50) {
+			motorLadoFrente = 1;
+		}
+	}
+	
+	private void manageCharge(GameState gamestate, Ship nearShip) {
+		if(nearShip != null) {
+			expectedObjectPosX = nearShip.getPosx() + nearShip.getVelx();
+			expectedObjectPosY = nearShip.getPosy() + nearShip.getVely();
+			
+			diffExpectedFromPosX = expectedObjectPosX - getPosx();
+			diffExpectedFromPosY = expectedObjectPosY - getPosy();
+			
+			if(Math.abs(diffExpectedFromPosX) < gamestate.getArenaRadius()
+			&& Math.abs(diffExpectedFromPosY) < gamestate.getArenaRadius()) {
+				tiro = 1;
+			}
+			else {
+				gamestate.log("getCharge = " + getCharge());
+				if(getCharge() >= 3) {
+					tiro = getCharge();
+				}
 			}
 		}
 	}
@@ -160,6 +178,7 @@ public class DestroyerBot extends BotBase {
 		tiro = 0;
 		
 		if(nearShip != null) {
+			manageCharge(gamestate, (Ship)nearShip);
 			calcDiffAngleBalance(gamestate, (Ship)nearShip);
 		}
 		
@@ -167,9 +186,11 @@ public class DestroyerBot extends BotBase {
 			calcDiffXYLaserBalance(gamestate, (Laser)nearLaser);
 		}
 		
+		equilibrateVelAng();
+		
 		gamestate.log("shipAngle = " + shipAngle + ", velAng = " + getVelang());
 		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
-		gamestate.log("motorPrincipal = " + motorPrincipal + ", motorLadoFrente = " + motorLadoFrente + ", motorLadoFundo = " + motorLadoFundo);
+		gamestate.log("tiro = " + tiro + ", motorPrincipal = " + motorPrincipal + ", motorLadoFrente = " + motorLadoFrente + ", motorLadoFundo = " + motorLadoFundo);
 		
 //		posX.setInputValue(getPosx());
 //		posY.setInputValue(getPosy());
@@ -215,7 +236,7 @@ public class DestroyerBot extends BotBase {
 		
 //		gamestate.log("RESULT: velX = " + velX.getInputValue() + ", velY = " + velY.getInputValue() + ", diffX = " + diffX.getInputValue() + ", diffY = " + diffY.getInputValue() + ", mPrincipal = " + mPrincipal + ", mLadoFrente = " + mLadoFrente + ", mLadoFundo = " + mLadoFundo);
 //		return new Action(0, 0, 0, tiro);
-		return new Action(motorPrincipal, motorLadoFrente, motorLadoFundo, tiro);
+		return new Action(motorPrincipal, motorLadoFrente, motorLadoFundo, (int)tiro);
 	}
 	
 	private GameObject findNearObject(GameState gamestate, Map<Integer, ? extends GameObject> list) {
