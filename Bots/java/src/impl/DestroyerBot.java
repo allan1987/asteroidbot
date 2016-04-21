@@ -16,9 +16,10 @@ import bot_interface.Ship;
 public class DestroyerBot extends BotBase {
 	
 	private Engine engine;
-	private double posX, posY, diffVelX, diffVelY, diffX, diffY, velAng, shipAngle, angleToTarget, diffAngle;
-	private float motorPrincipal, motorLadoFrente, motorLadoFundo;
-	private int tiro;
+	private double posX, posY, diffVelX, diffVelY, diffX, diffY, velAng, shipAngle, angleToTarget, 
+	diffAngle, expectedObjectPosX, expectedObjectPosY, diffExpectedFromPosX, diffExpectedFromPosY,
+	senAng5 = 0.08715;
+	private float motorPrincipal, motorLadoFrente, motorLadoFundo, tiro;
 	
 	public Action process(GameState gamestate) {
 		GameObject nearShip = findNearObject(gamestate, gamestate.getShips());
