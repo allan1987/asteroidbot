@@ -112,29 +112,30 @@ public class DestroyerBot extends BotBase {
 			expectedObjectPosX = nearRock.getPosx() + nearRock.getVelx();
 			expectedObjectPosY = nearRock.getPosy() + nearRock.getVely();
 			
-			diffExpectedFromPosX = expectedObjectPosX - getPosx();
-			diffExpectedFromPosY = expectedObjectPosY - getPosy();
+			diffExpectedFromPosX = expectedObjectPosX - (getPosx() + getVelx());
+			diffExpectedFromPosY = expectedObjectPosY - (getPosy() + getVely());
 			
 			gameState.log("expectedRockPosX = " + expectedObjectPosX + ", expectedRockPosY = " + expectedObjectPosY);
 			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
-			
-			if(Math.abs(diffExpectedFromPosX) > gameState.getArenaRadius()) {
-				expectedObjectPosY += nearRock.getVely();// * 2;
-			}
-			if(Math.abs(diffExpectedFromPosY) > gameState.getArenaRadius()) {
-				expectedObjectPosX += nearRock.getVelx();// * 3;
-			}
+			gameState.log("getVelx() = " + getVelx() + ", getVely() = " + getVely());
 			
 			angleToTarget = (Math.toDegrees(Math.atan2(expectedObjectPosY - getPosy(), expectedObjectPosX - getPosx())) - 90) % 360;
 			
 			diffAngle = (shipAngle - angleToTarget) % 360;
 			
-			if(Math.abs(diffExpectedFromPosX) <= 20 && Math.abs(diffExpectedFromPosY) <= 20) {
+			gameState.log("shipAngle = " + shipAngle + ", angleToTarget = " + angleToTarget + " e diffAngle = " + diffAngle);
+			gameState.log("dEFPX = " + Math.abs(diffExpectedFromPosX) + ", dEFPY = " + Math.abs(diffExpectedFromPosY));
+			
+			if(Math.abs(diffExpectedFromPosX) <= 15 && Math.abs(diffExpectedFromPosY) <= 15) {
 				
-				if(Math.cos(Math.toRadians(diffAngle)) <= -cosAng5) {
+				gameState.log("cos(" + diffAngle + ") = " + Math.cos(Math.toRadians(diffAngle)));
+				gameState.log("diffExpectedFromPosX = " + diffExpectedFromPosX + ", diffExpectedFromPosY = " + diffExpectedFromPosY);
+				
+				
+				if(Math.cos(Math.toRadians(getAng())) <= -cosAng5) {
 					motorPrincipal = 1;
 				}
-				else if(Math.cos(Math.toRadians(diffAngle)) >= cosAng5) {
+				else if(Math.cos(Math.toRadians(getAng())) >= cosAng5) {
 					motorPrincipal = -1;
 				}
 				
@@ -150,8 +151,8 @@ public class DestroyerBot extends BotBase {
 				
 				
 //				gameState.log("cos(" + getAng() + ") = " + Math.round(Math.cos(Math.toRadians(getAng()))));
-				motorLadoFrente *= Math.round(Math.cos(Math.toRadians(diffAngle)));
-				motorLadoFundo *= Math.round(Math.cos(Math.toRadians(diffAngle)));
+				motorLadoFrente *= Math.round(Math.cos(Math.toRadians(getAng())));
+				motorLadoFundo *= Math.round(Math.cos(Math.toRadians(getAng())));
 			}
 		}
 		
@@ -258,8 +259,8 @@ public class DestroyerBot extends BotBase {
 		
 		equilibrateVelAng();
 		
-		gamestate.log("shipAngle = " + shipAngle + ", velAng = " + getVelang());
-		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
+//		gamestate.log("shipAngle = " + shipAngle + ", velAng = " + getVelang());
+//		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
 		gamestate.log("tiro = " + tiro + ", motorPrincipal = " + motorPrincipal + ", motorLadoFrente = " + motorLadoFrente + ", motorLadoFundo = " + motorLadoFundo);
 		
 //		posX.setInputValue(getPosx());

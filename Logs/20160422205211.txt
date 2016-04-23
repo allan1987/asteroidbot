@@ -1,0 +1,3073 @@
+[ Destroyer Bot ] Bot Loaded
+
+[ Destroyer Bot ] gamestate.getTick() = 0
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 2
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 3
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 4
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 5
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 6
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 7
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 8
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 9
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 10
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 11
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 12
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 13
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 14
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 15
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 16
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 17
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 18
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 19
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 20
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 21
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 22
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 23
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 24
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 25
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 26
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 27
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 28
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 29
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 30
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 31
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 32
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 33
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 34
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 35
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 36
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 37
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 38
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 39
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 40
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 41
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 42
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 43
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 44
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 45
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 46
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 47
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 48
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 49
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 50
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 51
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 52
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 53
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 54
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 55
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 56
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 57
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 58
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 59
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 60
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 61
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 62
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 63
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 64
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 65
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 66
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 67
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 68
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 69
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 70
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 71
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 72
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 73
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 74
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 75
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 76
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 77
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 78
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 79
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 80
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 81
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 82
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 83
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 84
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 85
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 86
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 87
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 88
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 89
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 90
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 91
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 92
+expectedRockPosX = -2.336097240447998, expectedRockPosY = -47.57780456542969
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.79416330426142 e diffAngle = 1.7941633042614171
+dEFPX = 2.336097240447998, dEFPY = 74.57780456542969
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 93
+expectedRockPosX = -2.31465220451355, expectedRockPosY = -47.378963470458984
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.7824531256835 e diffAngle = 1.782453125683503
+dEFPX = 2.31465220451355, dEFPY = 74.37896347045898
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 94
+expectedRockPosX = -2.282485246658325, expectedRockPosY = -47.080692291259766
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.7647703954426 e diffAngle = 1.7647703954426106
+dEFPX = 2.282485246658325, dEFPY = 74.08069229125977
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 95
+expectedRockPosX = -2.261040210723877, expectedRockPosY = -46.88184356689453
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.75290212252273 e diffAngle = 1.7529021225227552
+dEFPX = 2.261040210723877, dEFPY = 73.88184356689453
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 96
+expectedRockPosX = -2.2288732528686523, expectedRockPosY = -46.58358383178711
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.73497930639815 e diffAngle = 1.7349793063981451
+dEFPX = 2.2288732528686523, dEFPY = 73.58358383178711
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 97
+expectedRockPosX = -2.207428216934204, expectedRockPosY = -46.384735107421875
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.72294953247913 e diffAngle = 1.722949532479106
+dEFPX = 2.207428216934204, dEFPY = 73.38473510742188
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 98
+expectedRockPosX = -2.1752612590789795, expectedRockPosY = -46.086463928222656
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.70478226956646 e diffAngle = 1.704782269566465
+dEFPX = 2.1752612590789795, dEFPY = 73.08646392822266
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 99
+expectedRockPosX = -2.1538162231445312, expectedRockPosY = -45.88762283325195
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.69258750410938 e diffAngle = 1.6925875041093832
+dEFPX = 2.1538162231445312, dEFPY = 72.88762283325195
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 100
+expectedRockPosX = -2.1216492652893066, expectedRockPosY = -45.58935546875
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.6741704001132 e diffAngle = 1.674170400113212
+dEFPX = 2.1216492652893066, dEFPY = 72.58935546875
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 101
+expectedRockPosX = -2.1002042293548584, expectedRockPosY = -45.3905143737793
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.66180742004644 e diffAngle = 1.6618074200464434
+dEFPX = 2.1002042293548584, dEFPY = 72.3905143737793
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 102
+expectedRockPosX = -2.068037271499634, expectedRockPosY = -45.09224319458008
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.64313547646563 e diffAngle = 1.643135476465659
+dEFPX = 2.068037271499634, dEFPY = 72.09224319458008
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 103
+expectedRockPosX = -2.0465922355651855, expectedRockPosY = -44.893394470214844
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.63060095693282 e diffAngle = 1.630600956932824
+dEFPX = 2.0465922355651855, dEFPY = 71.89339447021484
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 104
+expectedRockPosX = -2.014425277709961, expectedRockPosY = -44.59513473510742
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.61166850781603 e diffAngle = 1.6116685078160344
+dEFPX = 2.014425277709961, dEFPY = 71.59513473510742
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 105
+expectedRockPosX = -1.9929802417755127, expectedRockPosY = -44.39628219604492
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.59895876469344 e diffAngle = 1.598958764693407
+dEFPX = 1.9929802417755127, dEFPY = 71.39628219604492
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 106
+expectedRockPosX = -1.960813283920288, expectedRockPosY = -44.09801483154297
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.57976077422 e diffAngle = 1.5797607742200057
+dEFPX = 1.960813283920288, dEFPY = 71.09801483154297
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 107
+expectedRockPosX = -1.9393682479858398, expectedRockPosY = -43.899173736572266
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.56687177113292 e diffAngle = 1.5668717711329236
+dEFPX = 1.9393682479858398, dEFPY = 70.89917373657227
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 108
+expectedRockPosX = -1.9072012901306152, expectedRockPosY = -43.60090255737305
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.54740253075238 e diffAngle = 1.5474025307523789
+dEFPX = 1.9072012901306152, dEFPY = 70.60090255737305
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 109
+expectedRockPosX = -1.8643112182617188, expectedRockPosY = -43.20321273803711
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.52118487452302 e diffAngle = 1.5211848745229872
+dEFPX = 1.8643112182617188, dEFPY = 70.20321273803711
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 110
+expectedRockPosX = -1.842867374420166, expectedRockPosY = -43.00437545776367
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.5079649093156 e diffAngle = 1.5079649093156036
+dEFPX = 1.842867374420166, dEFPY = 70.00437545776367
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 111
+expectedRockPosX = -1.810699224472046, expectedRockPosY = -42.70610427856445
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.48799161185548 e diffAngle = 1.4879916118554775
+dEFPX = 1.810699224472046, dEFPY = 69.70610427856445
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 112
+expectedRockPosX = -1.7785322666168213, expectedRockPosY = -42.407833099365234
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.46784726609673 e diffAngle = 1.4678472660967259
+dEFPX = 1.7785322666168213, dEFPY = 69.40783309936523
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 113
+expectedRockPosX = -1.7463653087615967, expectedRockPosY = -42.10957336425781
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.44752843039115 e diffAngle = 1.4475284303911167
+dEFPX = 1.7463653087615967, dEFPY = 69.10957336425781
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 114
+expectedRockPosX = -1.7249202728271484, expectedRockPosY = -41.91072463989258
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.4338844745555 e diffAngle = 1.433884474555498
+dEFPX = 1.7249202728271484, dEFPY = 68.91072463989258
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 115
+expectedRockPosX = -1.6927533149719238, expectedRockPosY = -41.61245346069336
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.4132704079072 e diffAngle = 1.4132704079071914
+dEFPX = 1.6927533149719238, dEFPY = 68.61245346069336
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 116
+expectedRockPosX = -1.6713082790374756, expectedRockPosY = -41.413612365722656
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.39942716887157 e diffAngle = 1.3994271688715685
+dEFPX = 1.6713082790374756, dEFPY = 68.41361236572266
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 117
+expectedRockPosX = -1.639141321182251, expectedRockPosY = -41.1153450012207
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.37851107668303 e diffAngle = 1.3785110766830257
+dEFPX = 1.639141321182251, dEFPY = 68.1153450012207
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 118
+expectedRockPosX = -1.6176962852478027, expectedRockPosY = -40.91650390625
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.36446433394454 e diffAngle = 1.364464333944511
+dEFPX = 1.6176962852478027, dEFPY = 67.91650390625
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 119
+expectedRockPosX = -1.5855293273925781, expectedRockPosY = -40.61823272705078
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.3432397041128 e diffAngle = 1.3432397041127615
+dEFPX = 1.5855293273925781, dEFPY = 67.61823272705078
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 120
+expectedRockPosX = -1.5533623695373535, expectedRockPosY = -40.31996536254883
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.3218265479734 e diffAngle = 1.3218265479733873
+dEFPX = 1.5533623695373535, dEFPY = 67.31996536254883
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 121
+expectedRockPosX = -1.521195411682129, expectedRockPosY = -40.02169418334961
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.30022250117827 e diffAngle = 1.3002225011782684
+dEFPX = 1.521195411682129, dEFPY = 67.02169418334961
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 122
+expectedRockPosX = -1.4890272617340088, expectedRockPosY = -39.72343444824219
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.2784236857976 e diffAngle = 1.2784236857976339
+dEFPX = 1.4890272617340088, dEFPY = 66.72343444824219
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 123
+expectedRockPosX = -1.467583417892456, expectedRockPosY = -39.52458572387695
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.26378387810777 e diffAngle = 1.2637838781078017
+dEFPX = 1.467583417892456, dEFPY = 66.52458572387695
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 124
+expectedRockPosX = -1.435415267944336, expectedRockPosY = -39.226314544677734
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.24165691795747 e diffAngle = 1.2416569179574708
+dEFPX = 1.435415267944336, dEFPY = 66.22631454467773
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 125
+expectedRockPosX = -1.4032483100891113, expectedRockPosY = -38.92805480957031
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.21933019303225 e diffAngle = 1.219330193032249
+dEFPX = 1.4032483100891113, dEFPY = 65.92805480957031
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 126
+expectedRockPosX = -1.3710813522338867, expectedRockPosY = -38.629783630371094
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.19680037023429 e diffAngle = 1.196800370234314
+dEFPX = 1.3710813522338867, dEFPY = 65.6297836303711
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 127
+expectedRockPosX = -1.3496363162994385, expectedRockPosY = -38.43093490600586
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.181665840069 e diffAngle = 1.1816658400690017
+dEFPX = 1.3496363162994385, dEFPY = 65.43093490600586
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 128
+expectedRockPosX = -1.3174693584442139, expectedRockPosY = -38.13267517089844
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.15879074879854 e diffAngle = 1.1587907487985376
+dEFPX = 1.3174693584442139, dEFPY = 65.13267517089844
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 129
+expectedRockPosX = -1.2960243225097656, expectedRockPosY = -37.93382263183594
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.14342360689716 e diffAngle = 1.1434236068971586
+dEFPX = 1.2960243225097656, dEFPY = 64.93382263183594
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 130
+expectedRockPosX = -1.2638572454452515, expectedRockPosY = -37.635562896728516
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.1201953845686 e diffAngle = 1.1201953845686035
+dEFPX = 1.2638572454452515, dEFPY = 64.63556289672852
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 131
+expectedRockPosX = -1.2316902875900269, expectedRockPosY = -37.33729553222656
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.09675165870084 e diffAngle = 1.096751658700839
+dEFPX = 1.2316902875900269, dEFPY = 64.33729553222656
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 132
+expectedRockPosX = -1.2102452516555786, expectedRockPosY = -37.13844299316406
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.0810009395958 e diffAngle = 1.0810009395958105
+dEFPX = 1.2102452516555786, dEFPY = 64.13844299316406
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 133
+expectedRockPosX = -1.178078293800354, expectedRockPosY = -36.84018325805664
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.0571907912405 e diffAngle = 1.0571907912404868
+dEFPX = 1.178078293800354, dEFPY = 63.84018325805664
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 134
+expectedRockPosX = -1.1566332578659058, expectedRockPosY = -36.641334533691406
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.04119295471997 e diffAngle = 1.0411929547199748
+dEFPX = 1.1566332578659058, dEFPY = 63.641334533691406
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 135
+expectedRockPosX = -1.1244663000106812, expectedRockPosY = -36.34306335449219
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -181.01700807223318 e diffAngle = 1.0170080722331818
+dEFPX = 1.1244663000106812, dEFPY = 63.34306335449219
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 136
+expectedRockPosX = -1.0922993421554565, expectedRockPosY = -36.044803619384766
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.99259379985307 e diffAngle = 0.9925937998530685
+dEFPX = 1.0922993421554565, dEFPY = 63.044803619384766
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 137
+expectedRockPosX = -1.060131311416626, expectedRockPosY = -35.74653244018555
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.96794625710865 e diffAngle = 0.9679462571086788
+dEFPX = 1.060131311416626, dEFPY = 62.74653244018555
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 138
+expectedRockPosX = -1.0386873483657837, expectedRockPosY = -35.54768371582031
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.9513850567115 e diffAngle = 0.9513850567115014
+dEFPX = 1.0386873483657837, dEFPY = 62.54768371582031
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 139
+expectedRockPosX = -1.0065193176269531, expectedRockPosY = -35.24942398071289
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.92634245095758 e diffAngle = 0.9263424509575771
+dEFPX = 1.0065193176269531, dEFPY = 62.24942398071289
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 140
+expectedRockPosX = -0.9850753545761108, expectedRockPosY = -35.050575256347656
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.9095148478079 e diffAngle = 0.9095148478079409
+dEFPX = 0.9850753545761108, dEFPY = 62.050575256347656
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 141
+expectedRockPosX = -0.9529082775115967, expectedRockPosY = -34.75230407714844
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.88406886842827 e diffAngle = 0.8840688684282441
+dEFPX = 0.9529082775115967, dEFPY = 61.75230407714844
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 142
+expectedRockPosX = -0.9314632415771484, expectedRockPosY = -34.553462982177734
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.8669672955147 e diffAngle = 0.8669672955147121
+dEFPX = 0.9314632415771484, dEFPY = 61.553462982177734
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 143
+expectedRockPosX = -0.8992962837219238, expectedRockPosY = -34.25519561767578
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.8411071037284 e diffAngle = 0.8411071037284046
+dEFPX = 0.8992962837219238, dEFPY = 61.25519561767578
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 144
+expectedRockPosX = -0.8778512477874756, expectedRockPosY = -34.05635452270508
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.8237259916679 e diffAngle = 0.8237259916679136
+dEFPX = 0.8778512477874756, dEFPY = 61.05635452270508
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 145
+expectedRockPosX = -0.845684289932251, expectedRockPosY = -33.75808334350586
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.7974414139025 e diffAngle = 0.7974414139025043
+dEFPX = 0.845684289932251, dEFPY = 60.75808334350586
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 146
+expectedRockPosX = -0.8242392539978027, expectedRockPosY = -33.559234619140625
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.779773970014 e diffAngle = 0.7797739700139914
+dEFPX = 0.8242392539978027, dEFPY = 60.559234619140625
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 147
+expectedRockPosX = -0.7813493013381958, expectedRockPosY = -33.16154479980469
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.74408828104012 e diffAngle = 0.744088281040149
+dEFPX = 0.7813493013381958, dEFPY = 60.16154479980469
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 148
+expectedRockPosX = -0.7599042654037476, expectedRockPosY = -32.962703704833984
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.72606760401632 e diffAngle = 0.7260676040162934
+dEFPX = 0.7599042654037476, dEFPY = 59.962703704833984
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 149
+expectedRockPosX = -0.727737307548523, expectedRockPosY = -32.664432525634766
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.6988117879323 e diffAngle = 0.6988117879322999
+dEFPX = 0.727737307548523, dEFPY = 59.664432525634766
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 150
+expectedRockPosX = -0.7062922716140747, expectedRockPosY = -32.46559524536133
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.6804886645562 e diffAngle = 0.6804886645562078
+dEFPX = 0.7062922716140747, dEFPY = 59.46559524536133
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 151
+expectedRockPosX = -0.6741253137588501, expectedRockPosY = -32.16732406616211
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.6527735496199 e diffAngle = 0.6527735496198943
+dEFPX = 0.6741253137588501, dEFPY = 59.16732406616211
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 152
+expectedRockPosX = -0.6419583559036255, expectedRockPosY = -31.86905288696289
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.62477727684114 e diffAngle = 0.6247772768411437
+dEFPX = 0.6419583559036255, dEFPY = 58.86905288696289
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 153
+expectedRockPosX = -0.6205133199691772, expectedRockPosY = -31.670215606689453
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.60595428986147 e diffAngle = 0.6059542898614723
+dEFPX = 0.6205133199691772, dEFPY = 58.67021560668945
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 154
+expectedRockPosX = -0.5883462429046631, expectedRockPosY = -31.371944427490234
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.5774797373756 e diffAngle = 0.5774797373755973
+dEFPX = 0.5883462429046631, dEFPY = 58.371944427490234
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 155
+expectedRockPosX = -0.5669013261795044, expectedRockPosY = -31.17310333251953
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.5583340647873 e diffAngle = 0.5583340647872888
+dEFPX = 0.5669013261795044, dEFPY = 58.17310333251953
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 156
+expectedRockPosX = -0.5240123271942139, expectedRockPosY = -30.775413513183594
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.5196478867196 e diffAngle = 0.5196478867196106
+dEFPX = 0.5240123271942139, dEFPY = 57.775413513183594
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 157
+expectedRockPosX = -0.5025672912597656, expectedRockPosY = -30.57656478881836
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.50010370633711 e diffAngle = 0.5001037063370859
+dEFPX = 0.5025672912597656, dEFPY = 57.57656478881836
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 158
+expectedRockPosX = -0.470400333404541, expectedRockPosY = -30.27829360961914
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.47053335878934 e diffAngle = 0.4705333587893392
+dEFPX = 0.470400333404541, dEFPY = 57.27829360961914
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 159
+expectedRockPosX = -0.4382327198982239, expectedRockPosY = -29.98003387451172
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.4406524273623 e diffAngle = 0.44065242736229493
+dEFPX = 0.4382327198982239, dEFPY = 56.98003387451172
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 160
+expectedRockPosX = -0.40606552362442017, expectedRockPosY = -29.6817626953125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.41045728991298 e diffAngle = 0.41045728991298347
+dEFPX = 0.40606552362442017, dEFPY = 56.6817626953125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 161
+expectedRockPosX = -0.384620726108551, expectedRockPosY = -29.482913970947266
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.39014990841187 e diffAngle = 0.39014990841189956
+dEFPX = 0.384620726108551, dEFPY = 56.482913970947266
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 162
+expectedRockPosX = -0.3524535298347473, expectedRockPosY = -29.184654235839844
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.3594190463798 e diffAngle = 0.3594190463797986
+dEFPX = 0.3524535298347473, dEFPY = 56.184654235839844
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 163
+expectedRockPosX = -0.3310086727142334, expectedRockPosY = -28.98580551147461
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.3387497737096 e diffAngle = 0.33874977370959414
+dEFPX = 0.3310086727142334, dEFPY = 55.98580551147461
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 164
+expectedRockPosX = -0.2988414764404297, expectedRockPosY = -28.68753433227539
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.30746900876727 e diffAngle = 0.3074690087672707
+dEFPX = 0.2988414764404297, dEFPY = 55.68753433227539
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 165
+expectedRockPosX = -0.27739667892456055, expectedRockPosY = -28.488693237304688
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.28642820051368 e diffAngle = 0.2864282005136829
+dEFPX = 0.27739667892456055, dEFPY = 55.48869323730469
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 166
+expectedRockPosX = -0.24522948265075684, expectedRockPosY = -28.19042205810547
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.2545826137415 e diffAngle = 0.2545826137414906
+dEFPX = 0.24522948265075684, dEFPY = 55.19042205810547
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 167
+expectedRockPosX = -0.21306228637695312, expectedRockPosY = -27.892154693603516
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.22239076869624 e diffAngle = 0.2223907686962434
+dEFPX = 0.21306228637695312, dEFPY = 54.892154693603516
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 168
+expectedRockPosX = -0.19161748886108398, expectedRockPosY = -27.693313598632812
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.20073438142146 e diffAngle = 0.20073438142145505
+dEFPX = 0.19161748886108398, dEFPY = 54.69331359863281
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 169
+expectedRockPosX = -0.15945029258728027, expectedRockPosY = -27.395042419433594
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.16795285441236 e diffAngle = 0.16795285441236274
+dEFPX = 0.15945029258728027, dEFPY = 54.395042419433594
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 170
+expectedRockPosX = -0.13800549507141113, expectedRockPosY = -27.196205139160156
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.14589795183164 e diffAngle = 0.14589795183167098
+dEFPX = 0.13800549507141113, dEFPY = 54.196205139160156
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 171
+expectedRockPosX = -0.09511590003967285, expectedRockPosY = -26.798503875732422
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.10129898725688 e diffAngle = 0.10129898725688236
+dEFPX = 0.09511590003967285, dEFPY = 53.79850387573242
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 172
+expectedRockPosX = -0.07367110252380371, expectedRockPosY = -26.599655151367188
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.07875126391554 e diffAngle = 0.07875126391553522
+dEFPX = 0.07367110252380371, dEFPY = 53.59965515136719
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 173
+expectedRockPosX = -0.04150390625, expectedRockPosY = -26.30138397216797
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.04461419204546 e diffAngle = 0.04461419204545791
+dEFPX = 0.04150390625, dEFPY = 53.30138397216797
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 174
+expectedRockPosX = -0.02005910873413086, expectedRockPosY = -26.102535247802734
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -180.02164307619648 e diffAngle = 0.02164307619648298
+dEFPX = 0.02005910873413086, dEFPY = 53.102535247802734
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 175
+expectedRockPosX = 0.022830486297607422, expectedRockPosY = -25.704833984375
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.97518082634215 e diffAngle = 359.9751808263421
+dEFPX = 0.022830486297607422, dEFPY = 52.704833984375
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 176
+expectedRockPosX = 0.04427531361579895, expectedRockPosY = -25.505996704101562
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.9516857470618 e diffAngle = 359.9516857470618
+dEFPX = 0.04427531361579895, dEFPY = 52.50599670410156
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 177
+expectedRockPosX = 0.07644250988960266, expectedRockPosY = -25.207714080810547
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.91610760709924 e diffAngle = 359.9161076070992
+dEFPX = 0.07644250988960266, dEFPY = 52.20771408081055
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 178
+expectedRockPosX = 0.0978873074054718, expectedRockPosY = -25.008865356445312
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.89216217425144 e diffAngle = 359.89216217425144
+dEFPX = 0.0978873074054718, dEFPY = 52.00886535644531
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 179
+expectedRockPosX = 0.1300545036792755, expectedRockPosY = -24.710594177246094
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.85589880420872 e diffAngle = 359.8558988042087
+dEFPX = 0.1300545036792755, dEFPY = 51.710594177246094
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 180
+expectedRockPosX = 0.15149930119514465, expectedRockPosY = -24.51174545288086
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.8314899746885 e diffAngle = 359.8314899746885
+dEFPX = 0.15149930119514465, dEFPY = 51.51174545288086
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 181
+expectedRockPosX = 0.18366649746894836, expectedRockPosY = -24.21347427368164
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.79452145793022 e diffAngle = 359.7945214579302
+dEFPX = 0.18366649746894836, dEFPY = 51.21347427368164
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 182
+expectedRockPosX = 0.21583369374275208, expectedRockPosY = -23.915203094482422
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.75711997785197 e diffAngle = 359.75711997785197
+dEFPX = 0.21583369374275208, dEFPY = 50.91520309448242
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 183
+expectedRockPosX = 0.23727849125862122, expectedRockPosY = -23.716354370117188
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.73194136101395 e diffAngle = 359.7319413610139
+dEFPX = 0.23727849125862122, dEFPY = 50.71635437011719
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 184
+expectedRockPosX = 0.2801680862903595, expectedRockPosY = -23.318653106689453
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.68098742655712 e diffAngle = 359.6809874265571
+dEFPX = 0.2801680862903595, dEFPY = 50.31865310668945
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 185
+expectedRockPosX = 0.301612913608551, expectedRockPosY = -23.11980438232422
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.65520738547954 e diffAngle = 359.65520738547957
+dEFPX = 0.301612913608551, dEFPY = 50.11980438232422
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 186
+expectedRockPosX = 0.33378010988235474, expectedRockPosY = -22.821533203125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.61615180746887 e diffAngle = 359.6161518074689
+dEFPX = 0.33378010988235474, dEFPY = 49.821533203125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 187
+expectedRockPosX = 0.3552247881889343, expectedRockPosY = -22.622684478759766
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.58985424288542 e diffAngle = 359.5898542428854
+dEFPX = 0.3552247881889343, dEFPY = 49.622684478759766
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 188
+expectedRockPosX = 0.38739198446273804, expectedRockPosY = -22.324413299560547
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.55001047400094 e diffAngle = 359.55001047400094
+dEFPX = 0.38739198446273804, dEFPY = 49.32441329956055
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 189
+expectedRockPosX = 0.4088367819786072, expectedRockPosY = -22.125564575195312
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.5231793966589 e diffAngle = 359.52317939665886
+dEFPX = 0.4088367819786072, dEFPY = 49.12556457519531
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 190
+expectedRockPosX = 0.45172640681266785, expectedRockPosY = -21.727863311767578
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.46886086421188 e diffAngle = 359.4688608642119
+dEFPX = 0.45172640681266785, dEFPY = 48.72786331176758
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 191
+expectedRockPosX = 0.4731711745262146, expectedRockPosY = -21.529014587402344
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.44136817019267 e diffAngle = 359.4413681701927
+dEFPX = 0.4731711745262146, dEFPY = 48.529014587402344
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 192
+expectedRockPosX = 0.5053383708000183, expectedRockPosY = -21.230743408203125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.39970453701648 e diffAngle = 359.3997045370165
+dEFPX = 0.5053383708000183, dEFPY = 48.230743408203125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 193
+expectedRockPosX = 0.5267831683158875, expectedRockPosY = -21.03189468383789
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.37164164762885 e diffAngle = 359.37164164762885
+dEFPX = 0.5267831683158875, dEFPY = 48.03189468383789
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 194
+expectedRockPosX = 0.5589503645896912, expectedRockPosY = -20.733623504638672
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.32910952805815 e diffAngle = 359.32910952805815
+dEFPX = 0.5589503645896912, dEFPY = 47.73362350463867
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 195
+expectedRockPosX = 0.5911175012588501, expectedRockPosY = -20.435344696044922
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.28604323948161 e diffAngle = 359.2860432394816
+dEFPX = 0.5911175012588501, dEFPY = 47.43534469604492
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 196
+expectedRockPosX = 0.6125622987747192, expectedRockPosY = -20.236495971679688
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.25703068217985 e diffAngle = 359.25703068217985
+dEFPX = 0.6125622987747192, dEFPY = 47.23649597167969
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 197
+expectedRockPosX = 0.644729495048523, expectedRockPosY = -19.93822479248047
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.2130517024911 e diffAngle = 359.2130517024911
+dEFPX = 0.644729495048523, dEFPY = 46.93822479248047
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 198
+expectedRockPosX = 0.6661742925643921, expectedRockPosY = -19.739376068115234
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.18342104077817 e diffAngle = 359.18342104077817
+dEFPX = 0.6661742925643921, dEFPY = 46.739376068115234
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 199
+expectedRockPosX = 0.6983414888381958, expectedRockPosY = -19.441104888916016
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.1385001564254 e diffAngle = 359.1385001564254
+dEFPX = 0.6983414888381958, dEFPY = 46.441104888916016
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 200
+expectedRockPosX = 0.7197862863540649, expectedRockPosY = -19.24225616455078
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.10823152728346 e diffAngle = 359.10823152728346
+dEFPX = 0.7197862863540649, dEFPY = 46.24225616455078
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 201
+expectedRockPosX = 0.7519534826278687, expectedRockPosY = -18.943984985351562
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.0623383099493 e diffAngle = 359.06233830994927
+dEFPX = 0.7519534826278687, dEFPY = 45.94398498535156
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 202
+expectedRockPosX = 0.7733982801437378, expectedRockPosY = -18.745136260986328
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -179.03141099465014 e diffAngle = 359.0314109946502
+dEFPX = 0.7733982801437378, dEFPY = 45.74513626098633
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 203
+expectedRockPosX = 0.805565357208252, expectedRockPosY = -18.44686508178711
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.98451384846817 e diffAngle = 358.98451384846817
+dEFPX = 0.805565357208252, dEFPY = 45.44686508178711
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 204
+expectedRockPosX = 0.8270102143287659, expectedRockPosY = -18.248016357421875
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.95290615145723 e diffAngle = 358.9529061514572
+dEFPX = 0.8270102143287659, dEFPY = 45.248016357421875
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 205
+expectedRockPosX = 0.8591774106025696, expectedRockPosY = -17.94973373413086
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.90497136210303 e diffAngle = 358.904971362103
+dEFPX = 0.8591774106025696, dEFPY = 44.94973373413086
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 206
+expectedRockPosX = 0.8806222081184387, expectedRockPosY = -17.750885009765625
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.8726608516626 e diffAngle = 358.8726608516626
+dEFPX = 0.8806222081184387, dEFPY = 44.750885009765625
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 207
+expectedRockPosX = 0.9127894043922424, expectedRockPosY = -17.452613830566406
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.82365451025748 e diffAngle = 358.8236545102575
+dEFPX = 0.9127894043922424, dEFPY = 44.452613830566406
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 208
+expectedRockPosX = 0.9342342019081116, expectedRockPosY = -17.253765106201172
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.7906175442314 e diffAngle = 358.7906175442314
+dEFPX = 0.9342342019081116, dEFPY = 44.25376510620117
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 209
+expectedRockPosX = 0.9664013981819153, expectedRockPosY = -16.955493927001953
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.74050323701795 e diffAngle = 358.74050323701795
+dEFPX = 0.9664013981819153, dEFPY = 43.95549392700195
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 210
+expectedRockPosX = 0.9878461956977844, expectedRockPosY = -16.75664520263672
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.70671517916102 e diffAngle = 358.70671517916105
+dEFPX = 0.9878461956977844, dEFPY = 43.75664520263672
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 211
+expectedRockPosX = 1.0200133323669434, expectedRockPosY = -16.4583740234375
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.6554552013221 e diffAngle = 358.65545520132207
+dEFPX = 1.0200133323669434, dEFPY = 43.4583740234375
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 212
+expectedRockPosX = 1.0414581298828125, expectedRockPosY = -16.259525299072266
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.62089029575714 e diffAngle = 358.62089029575714
+dEFPX = 1.0414581298828125, dEFPY = 43.259525299072266
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 213
+expectedRockPosX = 1.0736253261566162, expectedRockPosY = -15.961255073547363
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.56844501194948 e diffAngle = 358.5684450119495
+dEFPX = 1.0736253261566162, dEFPY = 42.96125507354736
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 214
+expectedRockPosX = 1.10579252243042, expectedRockPosY = -15.66297435760498
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.51526849079715 e diffAngle = 358.51526849079715
+dEFPX = 1.10579252243042, dEFPY = 42.66297435760498
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 215
+expectedRockPosX = 1.1379597187042236, expectedRockPosY = -15.364705085754395
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.46134618915215 e diffAngle = 358.46134618915215
+dEFPX = 1.1379597187042236, dEFPY = 42.364705085754395
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 216
+expectedRockPosX = 1.1594045162200928, expectedRockPosY = -15.165854454040527
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.42497554343316 e diffAngle = 358.42497554343316
+dEFPX = 1.1594045162200928, dEFPY = 42.16585445404053
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 217
+expectedRockPosX = 1.1915717124938965, expectedRockPosY = -14.867585182189941
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.36977448444804 e diffAngle = 358.36977448444804
+dEFPX = 1.1915717124938965, dEFPY = 41.86758518218994
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 218
+expectedRockPosX = 1.2130166292190552, expectedRockPosY = -14.668734550476074
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.33253610134994 e diffAngle = 358.33253610134994
+dEFPX = 1.2130166292190552, dEFPY = 41.668734550476074
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 219
+expectedRockPosX = 1.2451838254928589, expectedRockPosY = -14.370465278625488
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.27601054504072 e diffAngle = 358.2760105450407
+dEFPX = 1.2451838254928589, dEFPY = 41.37046527862549
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 220
+expectedRockPosX = 1.2773510217666626, expectedRockPosY = -14.072184562683105
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.2186669380573 e diffAngle = 358.2186669380573
+dEFPX = 1.2773510217666626, dEFPY = 41.072184562683105
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 221
+expectedRockPosX = 1.3095182180404663, expectedRockPosY = -13.77391529083252
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.1604885037271 e diffAngle = 358.1604885037271
+dEFPX = 1.3095182180404663, dEFPY = 40.77391529083252
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 222
+expectedRockPosX = 1.3309630155563354, expectedRockPosY = -13.575064659118652
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.12122962020788 e diffAngle = 358.1212296202079
+dEFPX = 1.3309630155563354, dEFPY = 40.57506465911865
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 223
+expectedRockPosX = 1.3631302118301392, expectedRockPosY = -13.276795387268066
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.06161815832482 e diffAngle = 358.0616181583248
+dEFPX = 1.3631302118301392, dEFPY = 40.276795387268066
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 224
+expectedRockPosX = 1.3845750093460083, expectedRockPosY = -13.0779447555542
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -178.02138639333788 e diffAngle = 358.0213863933379
+dEFPX = 1.3845750093460083, dEFPY = 40.0779447555542
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 225
+expectedRockPosX = 1.4167420864105225, expectedRockPosY = -12.779675483703613
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.96028884092698 e diffAngle = 357.960288840927
+dEFPX = 1.4167420864105225, dEFPY = 39.77967548370361
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 226
+expectedRockPosX = 1.4596316814422607, expectedRockPosY = -12.381974220275879
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.87739254594118 e diffAngle = 357.8773925459412
+dEFPX = 1.4596316814422607, dEFPY = 39.38197422027588
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 227
+expectedRockPosX = 1.4810764789581299, expectedRockPosY = -12.183125495910645
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.8353168472645 e diffAngle = 357.8353168472645
+dEFPX = 1.4810764789581299, dEFPY = 39.183125495910645
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 228
+expectedRockPosX = 1.5239660739898682, expectedRockPosY = -11.78542423248291
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.74987815901284 e diffAngle = 357.74987815901284
+dEFPX = 1.5239660739898682, dEFPY = 38.78542423248291
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 229
+expectedRockPosX = 1.5454107522964478, expectedRockPosY = -11.586575508117676
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.70650246797544 e diffAngle = 357.70650246797544
+dEFPX = 1.5454107522964478, dEFPY = 38.586575508117676
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 230
+expectedRockPosX = 1.5775777101516724, expectedRockPosY = -11.288304328918457
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.64059942674328 e diffAngle = 357.6405994267433
+dEFPX = 1.5775777101516724, dEFPY = 38.28830432891846
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 231
+expectedRockPosX = 1.5990227460861206, expectedRockPosY = -11.089455604553223
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.59609349656216 e diffAngle = 357.59609349656216
+dEFPX = 1.5990227460861206, dEFPY = 38.08945560455322
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 232
+expectedRockPosX = 1.6311897039413452, expectedRockPosY = -10.791184425354004
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.52846302695843 e diffAngle = 357.52846302695843
+dEFPX = 1.6311897039413452, dEFPY = 37.791184425354004
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 233
+expectedRockPosX = 1.6740796566009521, expectedRockPosY = -10.393494606018066
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.43662113894965 e diffAngle = 357.43662113894965
+dEFPX = 1.6740796566009521, dEFPY = 37.393494606018066
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 234
+expectedRockPosX = 1.6955246925354004, expectedRockPosY = -10.194644927978516
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.38996829955965 e diffAngle = 357.38996829955965
+dEFPX = 1.6955246925354004, dEFPY = 37.194644927978516
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 235
+expectedRockPosX = 1.738413691520691, expectedRockPosY = -9.796955108642578
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.2951630604266 e diffAngle = 357.2951630604266
+dEFPX = 1.738413691520691, dEFPY = 36.79695510864258
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 236
+expectedRockPosX = 1.7598587274551392, expectedRockPosY = -9.598104476928711
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.24699217559717 e diffAngle = 357.24699217559714
+dEFPX = 1.7598587274551392, dEFPY = 36.59810447692871
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 237
+expectedRockPosX = 1.7920256853103638, expectedRockPosY = -9.299835205078125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.17375524017973 e diffAngle = 357.17375524017973
+dEFPX = 1.7920256853103638, dEFPY = 36.299835205078125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 238
+expectedRockPosX = 1.8241937160491943, expectedRockPosY = -9.001564979553223
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.09931247801643 e diffAngle = 357.09931247801643
+dEFPX = 1.8241937160491943, dEFPY = 36.00156497955322
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 239
+expectedRockPosX = 1.8456376791000366, expectedRockPosY = -8.802714347839355
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -177.04900232479775 e diffAngle = 357.04900232479775
+dEFPX = 1.8456376791000366, dEFPY = 35.802714347839355
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 240
+expectedRockPosX = 1.8778057098388672, expectedRockPosY = -8.50444507598877
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.97248641278566 e diffAngle = 356.97248641278566
+dEFPX = 1.8778057098388672, dEFPY = 35.50444507598877
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 241
+expectedRockPosX = 1.8992496728897095, expectedRockPosY = -8.305604934692383
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.9207664397971 e diffAngle = 356.9207664397971
+dEFPX = 1.8992496728897095, dEFPY = 35.30560493469238
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 242
+expectedRockPosX = 1.942139744758606, expectedRockPosY = -7.907904624938965
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.81556912526884 e diffAngle = 356.81556912526884
+dEFPX = 1.942139744758606, dEFPY = 34.907904624938965
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 243
+expectedRockPosX = 1.9635846614837646, expectedRockPosY = -7.709064483642578
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.76207577327716 e diffAngle = 356.76207577327716
+dEFPX = 1.9635846614837646, dEFPY = 34.70906448364258
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 244
+expectedRockPosX = 1.9957517385482788, expectedRockPosY = -7.410795211791992
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.68068708727702 e diffAngle = 356.680687087277
+dEFPX = 1.9957517385482788, dEFPY = 34.41079521179199
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 245
+expectedRockPosX = 2.0171966552734375, expectedRockPosY = -7.211944580078125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.6256463649375 e diffAngle = 356.6256463649375
+dEFPX = 2.0171966552734375, dEFPY = 34.211944580078125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 246
+expectedRockPosX = 2.049363613128662, expectedRockPosY = -6.913674354553223
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.5418883354833 e diffAngle = 356.5418883354833
+dEFPX = 2.049363613128662, dEFPY = 33.91367435455322
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 247
+expectedRockPosX = 2.0708086490631104, expectedRockPosY = -6.714824676513672
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.48523371931248 e diffAngle = 356.4852337193125
+dEFPX = 2.0708086490631104, dEFPY = 33.71482467651367
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 248
+expectedRockPosX = 2.1136975288391113, expectedRockPosY = -6.317134857177734
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.36992012309614 e diffAngle = 356.3699201230961
+dEFPX = 2.1136975288391113, dEFPY = 33.317134857177734
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 249
+expectedRockPosX = 2.1351428031921387, expectedRockPosY = -6.118285179138184
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.31123407754706 e diffAngle = 356.31123407754706
+dEFPX = 2.1351428031921387, dEFPY = 33.118285179138184
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 250
+expectedRockPosX = 2.1673097610473633, expectedRockPosY = -5.820014953613281
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.22188870983535 e diffAngle = 356.22188870983535
+dEFPX = 2.1673097610473633, dEFPY = 32.82001495361328
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 251
+expectedRockPosX = 2.1887545585632324, expectedRockPosY = -5.6211748123168945
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.16142835495145 e diffAngle = 356.16142835495145
+dEFPX = 2.1887545585632324, dEFPY = 32.621174812316895
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 252
+expectedRockPosX = 2.220921754837036, expectedRockPosY = -5.322904586791992
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.06935835360431 e diffAngle = 356.06935835360434
+dEFPX = 2.220921754837036, dEFPY = 32.32290458679199
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 253
+expectedRockPosX = 2.2423667907714844, expectedRockPosY = -5.124054908752441
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -176.00703923460577 e diffAngle = 356.00703923460577
+dEFPX = 2.2423667907714844, dEFPY = 32.12405490875244
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 254
+expectedRockPosX = 2.274533748626709, expectedRockPosY = -4.825782775878906
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.9121200107719 e diffAngle = 355.9121200107719
+dEFPX = 2.274533748626709, dEFPY = 31.825782775878906
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 255
+expectedRockPosX = 2.295978546142578, expectedRockPosY = -4.626935958862305
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.84785849369854 e diffAngle = 355.84785849369854
+dEFPX = 2.295978546142578, dEFPY = 31.626935958862305
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 256
+expectedRockPosX = 2.328145742416382, expectedRockPosY = -4.328665733337402
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.7499568568354 e diffAngle = 355.7499568568354
+dEFPX = 2.328145742416382, dEFPY = 31.328665733337402
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 257
+expectedRockPosX = 2.3603127002716064, expectedRockPosY = -4.0303955078125
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.65019914019524 e diffAngle = 355.65019914019524
+dEFPX = 2.3603127002716064, dEFPY = 31.0303955078125
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 258
+expectedRockPosX = 2.3817577362060547, expectedRockPosY = -3.8315486907958984
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.5826359282329 e diffAngle = 355.5826359282329
+dEFPX = 2.3817577362060547, dEFPY = 30.8315486907959
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 259
+expectedRockPosX = 2.424647808074951, expectedRockPosY = -3.4338550567626953
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.44489919701203 e diffAngle = 355.44489919701203
+dEFPX = 2.424647808074951, dEFPY = 30.433855056762695
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 260
+expectedRockPosX = 2.4460926055908203, expectedRockPosY = -3.2350082397460938
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.3746927007238 e diffAngle = 355.3746927007238
+dEFPX = 2.4460926055908203, dEFPY = 30.235008239746094
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 261
+expectedRockPosX = 2.478259563446045, expectedRockPosY = -2.9367380142211914
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.2676615407147 e diffAngle = 355.2676615407147
+dEFPX = 2.478259563446045, dEFPY = 29.93673801422119
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 262
+expectedRockPosX = 2.4997048377990723, expectedRockPosY = -2.7378907203674316
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.19513211411504 e diffAngle = 355.19513211411504
+dEFPX = 2.4997048377990723, dEFPY = 29.73789072036743
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 263
+expectedRockPosX = 2.5425937175750732, expectedRockPosY = -2.340198040008545
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -175.0471756163971 e diffAngle = 355.0471756163971
+dEFPX = 2.5425937175750732, dEFPY = 29.340198040008545
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 264
+expectedRockPosX = 2.5640387535095215, expectedRockPosY = -2.141350746154785
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.97170704778011 e diffAngle = 354.9717070477801
+dEFPX = 2.5640387535095215, dEFPY = 29.141350746154785
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 265
+expectedRockPosX = 2.596205711364746, expectedRockPosY = -1.843080997467041
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.856588286641 e diffAngle = 354.856588286641
+dEFPX = 2.596205711364746, dEFPY = 28.84308099746704
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 266
+expectedRockPosX = 2.6176507472991943, expectedRockPosY = -1.6442337036132812
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.7785332349357 e diffAngle = 354.7785332349357
+dEFPX = 2.6176507472991943, dEFPY = 28.64423370361328
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 267
+expectedRockPosX = 2.649817705154419, expectedRockPosY = -1.345963954925537
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.65943629147353 e diffAngle = 354.6594362914735
+dEFPX = 2.649817705154419, dEFPY = 28.345963954925537
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 268
+expectedRockPosX = 2.671262741088867, expectedRockPosY = -1.1471166610717773
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.57866138082144 e diffAngle = 354.5786613808215
+dEFPX = 2.671262741088867, dEFPY = 28.147116661071777
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 269
+expectedRockPosX = 2.703429698944092, expectedRockPosY = -0.8488469123840332
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.45537943298268 e diffAngle = 354.4553794329827
+dEFPX = 2.703429698944092, dEFPY = 27.848846912384033
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 270
+expectedRockPosX = 2.7355966567993164, expectedRockPosY = -0.5505757331848145
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.329480999008 e diffAngle = 354.329480999008
+dEFPX = 2.7355966567993164, dEFPY = 27.550575733184814
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 271
+expectedRockPosX = 2.7677648067474365, expectedRockPosY = -0.2523059844970703
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.20088125747048 e diffAngle = 354.2008812574705
+dEFPX = 2.7677648067474365, dEFPY = 27.25230598449707
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 272
+expectedRockPosX = 2.799931764602661, expectedRockPosY = 0.04596424102783203
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -174.06949835544143 e diffAngle = 354.0694983554414
+dEFPX = 2.799931764602661, dEFPY = 26.954035758972168
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 273
+expectedRockPosX = 2.8213768005371094, expectedRockPosY = 0.2448110580444336
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.9803170811934 e diffAngle = 353.9803170811934
+dEFPX = 2.8213768005371094, dEFPY = 26.755188941955566
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 274
+expectedRockPosX = 2.853543758392334, expectedRockPosY = 0.5430812835693359
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.84408959150704 e diffAngle = 353.84408959150704
+dEFPX = 2.853543758392334, dEFPY = 26.456918716430664
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 275
+expectedRockPosX = 2.8749887943267822, expectedRockPosY = 0.7419281005859375
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.75159077763385 e diffAngle = 353.75159077763385
+dEFPX = 2.8749887943267822, dEFPY = 26.258071899414062
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 276
+expectedRockPosX = 2.907155752182007, expectedRockPosY = 1.0401980876922607
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.61025029722217 e diffAngle = 353.61025029722214
+dEFPX = 2.907155752182007, dEFPY = 25.95980191230774
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 277
+expectedRockPosX = 2.9393227100372314, expectedRockPosY = 1.338468074798584
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.46570495465284 e diffAngle = 353.46570495465284
+dEFPX = 2.9393227100372314, dEFPY = 25.661531925201416
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 278
+expectedRockPosX = 2.971489667892456, expectedRockPosY = 1.6367392539978027
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.3178460886134 e diffAngle = 353.3178460886134
+dEFPX = 2.971489667892456, dEFPY = 25.363260746002197
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 279
+expectedRockPosX = 2.9929347038269043, expectedRockPosY = 1.835585117340088
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.21737666548137 e diffAngle = 353.21737666548137
+dEFPX = 2.9929347038269043, dEFPY = 25.164414882659912
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 280
+expectedRockPosX = 3.025101661682129, expectedRockPosY = 2.1338562965393066
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -173.0637416807941 e diffAngle = 353.0637416807941
+dEFPX = 3.025101661682129, dEFPY = 24.866143703460693
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 281
+expectedRockPosX = 3.046546697616577, expectedRockPosY = 2.332702159881592
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.95931086659894 e diffAngle = 352.9593108665989
+dEFPX = 3.046546697616577, dEFPY = 24.667297840118408
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 282
+expectedRockPosX = 3.0787136554718018, expectedRockPosY = 2.6309731006622314
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.79956114215315 e diffAngle = 352.79956114215315
+dEFPX = 3.0787136554718018, dEFPY = 24.36902689933777
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 283
+expectedRockPosX = 3.1216037273406982, expectedRockPosY = 3.0286660194396973
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.58055956739798 e diffAngle = 352.580559567398
+dEFPX = 3.1216037273406982, dEFPY = 23.971333980560303
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 284
+expectedRockPosX = 3.1430487632751465, expectedRockPosY = 3.227513313293457
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.46839478238155 e diffAngle = 352.46839478238155
+dEFPX = 3.1430487632751465, dEFPY = 23.772486686706543
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 285
+expectedRockPosX = 3.175215721130371, expectedRockPosY = 3.5257840156555176
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.29669891282515 e diffAngle = 352.29669891282515
+dEFPX = 3.175215721130371, dEFPY = 23.474215984344482
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 286
+expectedRockPosX = 3.2073826789855957, expectedRockPosY = 3.8240551948547363
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -172.1207280054291 e diffAngle = 352.1207280054291
+dEFPX = 3.2073826789855957, dEFPY = 23.175944805145264
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 287
+expectedRockPosX = 3.2395496368408203, expectedRockPosY = 4.122325420379639
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.94032432155473 e diffAngle = 351.9403243215547
+dEFPX = 3.2395496368408203, dEFPY = 22.87767457962036
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 288
+expectedRockPosX = 3.2609946727752686, expectedRockPosY = 4.32117223739624
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.81750977610898 e diffAngle = 351.817509776109
+dEFPX = 3.2609946727752686, dEFPY = 22.67882776260376
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 289
+expectedRockPosX = 3.293161630630493, expectedRockPosY = 4.619442939758301
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.62934465127873 e diffAngle = 351.62934465127876
+dEFPX = 3.293161630630493, dEFPY = 22.3805570602417
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 290
+expectedRockPosX = 3.3253285884857178, expectedRockPosY = 4.917713165283203
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.43628566985421 e diffAngle = 351.4362856698542
+dEFPX = 3.3253285884857178, dEFPY = 22.082286834716797
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 291
+expectedRockPosX = 3.346773624420166, expectedRockPosY = 5.116559982299805
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.3047668712084 e diffAngle = 351.30476687120836
+dEFPX = 3.346773624420166, dEFPY = 21.883440017700195
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 292
+expectedRockPosX = 3.3789405822753906, expectedRockPosY = 5.414830684661865
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -171.10312650366373 e diffAngle = 351.1031265036637
+dEFPX = 3.3789405822753906, dEFPY = 21.585169315338135
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 293
+expectedRockPosX = 3.4111087322235107, expectedRockPosY = 5.713100910186768
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -170.89606385015878 e diffAngle = 350.8960638501588
+dEFPX = 3.4111087322235107, dEFPY = 21.286899089813232
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 294
+expectedRockPosX = 3.4432756900787354, expectedRockPosY = 6.01137113571167
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -170.68336911947986 e diffAngle = 350.68336911947983
+dEFPX = 3.4432756900787354, dEFPY = 20.98862886428833
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 295
+expectedRockPosX = 3.4647207260131836, expectedRockPosY = 6.21021842956543
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -170.53832904011446 e diffAngle = 350.5383290401145
+dEFPX = 3.4647207260131836, dEFPY = 20.78978157043457
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 296
+expectedRockPosX = 3.5076096057891846, expectedRockPosY = 6.607912063598633
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -170.24015349576854 e diffAngle = 350.24015349576854
+dEFPX = 3.5076096057891846, dEFPY = 20.392087936401367
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 297
+expectedRockPosX = 3.529054641723633, expectedRockPosY = 6.806760311126709
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -170.08686593488062 e diffAngle = 350.0868659348806
+dEFPX = 3.529054641723633, dEFPY = 20.19323968887329
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 298
+expectedRockPosX = 3.5612215995788574, expectedRockPosY = 7.105030059814453
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -169.85147225811193 e diffAngle = 349.8514722581119
+dEFPX = 3.5612215995788574, dEFPY = 19.894969940185547
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 299
+expectedRockPosX = 3.5826666355133057, expectedRockPosY = 7.303876876831055
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -169.69077954063016 e diffAngle = 349.69077954063016
+dEFPX = 3.5826666355133057, dEFPY = 19.696123123168945
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 300
+expectedRockPosX = 3.6148335933685303, expectedRockPosY = 7.602147102355957
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -169.44388556491782 e diffAngle = 349.4438855649178
+dEFPX = 3.6148335933685303, dEFPY = 19.397852897644043
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 301
+expectedRockPosX = 3.6362786293029785, expectedRockPosY = 7.800993919372559
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -169.2752540452687 e diffAngle = 349.2752540452687
+dEFPX = 3.6362786293029785, dEFPY = 19.19900608062744
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 302
+expectedRockPosX = 3.668445587158203, expectedRockPosY = 8.099264144897461
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -169.01602360994042 e diffAngle = 349.0160236099404
+dEFPX = 3.668445587158203, dEFPY = 18.90073585510254
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 303
+expectedRockPosX = 3.6898906230926514, expectedRockPosY = 8.298110961914062
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -168.83886978192646 e diffAngle = 348.83886978192646
+dEFPX = 3.6898906230926514, dEFPY = 18.701889038085938
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 304
+expectedRockPosX = 3.722057580947876, expectedRockPosY = 8.596381187438965
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -168.56638641474368 e diffAngle = 348.56638641474365
+dEFPX = 3.722057580947876, dEFPY = 18.403618812561035
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 305
+expectedRockPosX = 3.743502616882324, expectedRockPosY = 8.795228004455566
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -168.38007036125504 e diffAngle = 348.38007036125504
+dEFPX = 3.743502616882324, dEFPY = 18.204771995544434
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 306
+expectedRockPosX = 3.775669813156128, expectedRockPosY = 9.093498229980469
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -168.09332739251454 e diffAngle = 348.09332739251454
+dEFPX = 3.775669813156128, dEFPY = 17.90650177001953
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 307
+expectedRockPosX = 3.8078367710113525, expectedRockPosY = 9.391767501831055
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -167.79750645507914 e diffAngle = 347.79750645507914
+dEFPX = 3.8078367710113525, dEFPY = 17.608232498168945
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 308
+expectedRockPosX = 3.8400046825408936, expectedRockPosY = 9.690038681030273
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -167.49218028007752 e diffAngle = 347.4921802800775
+dEFPX = 3.8400046825408936, dEFPY = 17.309961318969727
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 309
+expectedRockPosX = 3.872171640396118, expectedRockPosY = 9.988309860229492
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -167.1769090893573 e diffAngle = 347.1769090893573
+dEFPX = 3.872171640396118, dEFPY = 17.011690139770508
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 310
+expectedRockPosX = 3.8936166763305664, expectedRockPosY = 10.187156677246094
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -166.9609678474152 e diffAngle = 346.9609678474152
+dEFPX = 3.8936166763305664, dEFPY = 16.812843322753906
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 311
+expectedRockPosX = 3.925783634185791, expectedRockPosY = 10.48542594909668
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -166.62805013104241 e diffAngle = 346.6280501310424
+dEFPX = 3.925783634185791, dEFPY = 16.51457405090332
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 312
+expectedRockPosX = 3.9579505920410156, expectedRockPosY = 10.783696174621582
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -166.28385342426444 e diffAngle = 346.2838534242644
+dEFPX = 3.9579505920410156, dEFPY = 16.216303825378418
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 313
+expectedRockPosX = 3.9901177883148193, expectedRockPosY = 11.081966400146484
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -165.92782080268879 e diffAngle = 345.92782080268876
+dEFPX = 3.9901177883148193, dEFPY = 15.918033599853516
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 314
+expectedRockPosX = 4.011562347412109, expectedRockPosY = 11.280813217163086
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -165.68360058540645 e diffAngle = 345.68360058540645
+dEFPX = 4.011562347412109, dEFPY = 15.719186782836914
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 315
+expectedRockPosX = 4.043729782104492, expectedRockPosY = 11.579082489013672
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -165.30650832784514 e diffAngle = 345.3065083278451
+dEFPX = 4.043729782104492, dEFPY = 15.420917510986328
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 316
+expectedRockPosX = 4.0651750564575195, expectedRockPosY = 11.77793025970459
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -165.047653255304 e diffAngle = 345.047653255304
+dEFPX = 4.0651750564575195, dEFPY = 15.22206974029541
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 317
+expectedRockPosX = 4.097341537475586, expectedRockPosY = 12.076200485229492
+getPosx() = 0.0, getPosy() = 27.0
+getVelx() = 0.0, getVely() = 0.0
+shipAngle = 180.0, angleToTarget = -164.6476776509194 e diffAngle = 344.6476776509194
+dEFPX = 4.097341537475586, dEFPY = 14.923799514770508
+cos(344.6476776509194) = 0.9643160481577706
+diffExpectedFromPosX = 4.097341537475586, diffExpectedFromPosY = -14.923799514770508
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 318
+expectedRockPosX = 4.129508972167969, expectedRockPosY = 12.374471664428711
+getPosx() = 0.072, getPosy() = 26.928
+getVelx() = 1.8, getVely() = -1.8
+shipAngle = 180.0, angleToTarget = -164.42158309446586 e diffAngle = 344.42158309446586
+dEFPX = 2.2575089931488037, dEFPY = 12.753528594970703
+cos(344.42158309446586) = 0.9632637994961203
+diffExpectedFromPosX = 2.2575089931488037, diffExpectedFromPosY = -12.753528594970703
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 319
+expectedRockPosX = 4.150953769683838, expectedRockPosY = 12.57331657409668
+getPosx() = 0.18, getPosy() = 26.82
+getVelx() = 3.0, getVely() = -3.0
+shipAngle = 180.0, angleToTarget = -164.42534172252925 e diffAngle = 344.42534172252925
+dEFPX = 0.9709537029266357, dEFPY = 11.246683120727539
+cos(344.42534172252925) = 0.9632814148783032
+diffExpectedFromPosX = 0.9709537029266357, diffExpectedFromPosY = -11.246683120727539
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 320
+expectedRockPosX = 4.1831207275390625, expectedRockPosY = 12.871587753295898
+getPosx() = 0.432, getPosy() = 26.568
+getVelx() = 4.8, getVely() = -4.8
+shipAngle = 180.0, angleToTarget = -164.68363114323614 e diffAngle = 344.68363114323614
+dEFPX = 1.048879623413086, dEFPY = 8.896413803100586
+cos(344.68363114323614) = 0.9644819930865514
+diffExpectedFromPosX = -1.048879623413086, diffExpectedFromPosY = -8.896413803100586
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 321
+expectedRockPosX = 4.20456600189209, expectedRockPosY = 13.0704345703125
+getPosx() = 0.66, getPosy() = 26.34
+getVelx() = 6.0, getVely() = -6.0
+shipAngle = 180.0, angleToTarget = -165.04433743614072 e diffAngle = 345.0443374361407
+dEFPX = 2.4554338455200195, dEFPY = 7.269565582275391
+cos(345.0443374361407) = 0.9661258201012392
+diffExpectedFromPosX = -2.4554338455200195, diffExpectedFromPosY = -7.269565582275391
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 322
+expectedRockPosX = 4.236732482910156, expectedRockPosY = 13.368704795837402
+getPosx() = 1.092, getPosy() = 25.908
+getVelx() = 7.799999, getVely() = -7.799999
+shipAngle = 180.0, angleToTarget = -165.92115306938803 e diffAngle = 345.921153069388
+dEFPX = 4.655266761779785, dEFPY = 4.739296913146973
+cos(345.921153069388) = 0.9699618895836774
+diffExpectedFromPosX = -4.655266761779785, diffExpectedFromPosY = -4.739296913146973
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 323
+expectedRockPosX = 4.258177757263184, expectedRockPosY = 13.567551612854004
+getPosx() = 1.44, getPosy() = 25.56
+getVelx() = 9.0, getVely() = -9.0
+shipAngle = 180.0, angleToTarget = -166.77566407550728 e diffAngle = 346.7756640755073
+dEFPX = 6.181822776794434, dEFPY = 2.992447853088379
+cos(346.7756640755073) = 0.9734818248491418
+diffExpectedFromPosX = -6.181822776794434, diffExpectedFromPosY = -2.992447853088379
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 324
+expectedRockPosX = 4.290344715118408, expectedRockPosY = 13.865821838378906
+getPosx() = 2.052, getPosy() = 24.948
+getVelx() = 10.8, getVely() = -10.8
+shipAngle = 180.0, angleToTarget = -168.58119406368624 e diffAngle = 348.5811940636862
+dEFPX = 8.561655521392822, dEFPY = 0.2821779251098633
+cos(348.5811940636862) = 0.9802062456387319
+diffExpectedFromPosX = -8.561655521392822, diffExpectedFromPosY = -0.2821779251098633
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 325
+expectedRockPosX = 4.311789512634277, expectedRockPosY = 14.064668655395508
+getPosx() = 2.52, getPosy() = 24.48
+getVelx() = 12.0, getVely() = -12.0
+shipAngle = 180.0, angleToTarget = -170.23873468746896 e diffAngle = 350.238734687469
+dEFPX = 10.208210945129395, dEFPY = 1.5846691131591797
+cos(350.238734687469) = 0.9855227430517282
+diffExpectedFromPosX = -10.208210945129395, diffExpectedFromPosY = 1.5846691131591797
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 326
+expectedRockPosX = 4.354679584503174, expectedRockPosY = 14.462362289428711
+getPosx() = 3.6, getPosy() = 23.4
+getVelx() = 14.4, getVely() = -14.4
+shipAngle = 180.0, angleToTarget = -175.17348582635742 e diffAngle = 355.1734858263574
+dEFPX = 13.645320415496826, dEFPY = 5.462362289428711
+cos(355.1734858263574) = 0.9964540298254775
+diffExpectedFromPosX = -13.645320415496826, diffExpectedFromPosY = 5.462362289428711
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 327
+expectedRockPosX = 4.376123428344727, expectedRockPosY = 14.661209106445312
+getPosx() = 4.212, getPosy() = 22.788
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -178.84304791780767 e diffAngle = 358.84304791780767
+dEFPX = 15.435876846313477, dEFPY = 7.473209381103516
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 328
+expectedRockPosX = 4.419013977050781, expectedRockPosY = 15.058905601501465
+getPosx() = 5.460001, getPosy() = 21.54
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -189.1248541076405 e diffAngle = 9.124854107640488
+dEFPX = 16.640987396240234, dEFPY = 9.118905067443848
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 329
+expectedRockPosX = 4.44045877456665, expectedRockPosY = 15.257744789123535
+getPosx() = 6.084002, getPosy() = 20.916
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -196.19690011188518 e diffAngle = 16.196900111885157
+dEFPX = 17.24354314804077, dEFPY = 9.941744804382324
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 330
+expectedRockPosX = 4.472625732421875, expectedRockPosY = 15.556015014648438
+getPosx() = 7.020003, getPosy() = 19.98
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -209.93379274377543 e diffAngle = 29.933792743775427
+dEFPX = 18.147377014160156, dEFPY = 11.176015853881836
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 331
+expectedRockPosX = 4.5155158042907715, expectedRockPosY = 15.953715324401855
+getPosx() = 8.268003, getPosy() = 18.732
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -233.48431331725254 e diffAngle = 53.48431331725254
+dEFPX = 19.352488040924072, dEFPY = 12.821715354919434
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 332
+expectedRockPosX = 4.536959648132324, expectedRockPosY = 16.152565002441406
+getPosx() = 8.892004, getPosy() = 18.108
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -245.81970206998972 e diffAngle = 65.81970206998972
+dEFPX = 19.955044746398926, dEFPY = 13.64456558227539
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 333
+expectedRockPosX = 4.569127082824707, expectedRockPosY = 16.450836181640625
+getPosx() = 9.828005, getPosy() = 17.172
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -262.19157236374247 e diffAngle = 82.19157236374247
+dEFPX = 20.858878135681152, dEFPY = 14.878835678100586
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 334
+expectedRockPosX = 4.590570449829102, expectedRockPosY = 16.649675369262695
+getPosx() = 10.45201, getPosy() = 16.54799
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 89.0061294400223 e diffAngle = 90.9938705599777
+dEFPX = 21.46143913269043, dEFPY = 15.701684951782227
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 335
+expectedRockPosX = 4.622736930847168, expectedRockPosY = 16.94794464111328
+getPosx() = 11.38801, getPosy() = 15.61199
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 78.82938614669274 e diffAngle = 101.17061385330726
+dEFPX = 22.365273475646973, dEFPY = 16.935955047607422
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 336
+expectedRockPosX = 4.654903411865234, expectedRockPosY = 17.2462158203125
+getPosx() = 12.32401, getPosy() = 14.67599
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 71.47192959505409 e diffAngle = 108.52807040494591
+dEFPX = 23.269107818603516, dEFPY = 18.170226097106934
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 337
+expectedRockPosX = 4.687069892883301, expectedRockPosY = 17.544485092163086
+getPosx() = 13.26001, getPosy() = 13.73999
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 66.069333723216 e diffAngle = 113.930666276784
+dEFPX = 24.172940254211426, dEFPY = 19.404495239257812
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 338
+expectedRockPosX = 4.708515167236328, expectedRockPosY = 17.743335723876953
+getPosx() = 13.88401, getPosy() = 13.11599
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 63.237474480043744 e diffAngle = 116.76252551995626
+dEFPX = 24.775495529174805, dEFPY = 20.227346420288086
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 339
+expectedRockPosX = 4.740680694580078, expectedRockPosY = 18.04160499572754
+getPosx() = 14.82001, getPosy() = 12.17999
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 59.819938269493434 e diffAngle = 120.18006173050657
+dEFPX = 25.67932891845703, dEFPY = 21.461615562438965
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 340
+expectedRockPosX = 4.7835693359375, expectedRockPosY = 18.439294815063477
+getPosx() = 16.06801, getPosy() = 10.93199
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 56.36499894074302 e diffAngle = 123.63500105925698
+dEFPX = 26.884441375732422, dEFPY = 23.1073055267334
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 341
+expectedRockPosX = 4.805013656616211, expectedRockPosY = 18.638145446777344
+getPosx() = 16.69201, getPosy() = 10.30799
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 54.97804403277567 e diffAngle = 125.02195596722433
+dEFPX = 27.486997604370117, dEFPY = 23.930155754089355
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 342
+expectedRockPosX = 4.847902297973633, expectedRockPosY = 19.03583526611328
+getPosx() = 17.94001, getPosy() = 9.059988
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 52.69353760879517 e diffAngle = 127.30646239120483
+dEFPX = 28.692106246948242, dEFPY = 25.575847625732422
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 343
+expectedRockPosX = 4.869346618652344, expectedRockPosY = 19.234683990478516
+getPosx() = 18.56401, getPosy() = 8.435987
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 51.74304967154211 e diffAngle = 128.2569503284579
+dEFPX = 29.294662475585938, dEFPY = 26.398696899414062
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 344
+expectedRockPosX = 4.901514053344727, expectedRockPosY = 19.532955169677734
+getPosx() = 19.50001, getPosy() = 7.499987
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 50.502577524820595 e diffAngle = 129.4974224751794
+dEFPX = 30.198495864868164, dEFPY = 27.63296890258789
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 345
+expectedRockPosX = 4.933679580688477, expectedRockPosY = 19.831226348876953
+getPosx() = 20.43601, getPosy() = 6.563986
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 49.44235064538529 e diffAngle = 130.5576493546147
+dEFPX = 31.102331161499023, dEFPY = 28.86724090576172
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 346
+expectedRockPosX = 4.9551239013671875, expectedRockPosY = 20.030075073242188
+getPosx() = 21.06001, getPosy() = 5.939985
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 48.817471946898934 e diffAngle = 131.18252805310107
+dEFPX = 31.70488739013672, dEFPY = 29.69009017944336
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 347
+expectedRockPosX = 4.987290382385254, expectedRockPosY = 20.328346252441406
+getPosx() = 21.99602, getPosy() = 5.003984
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 47.98208246814622 e diffAngle = 132.01791753185378
+dEFPX = 32.60872936248779, dEFPY = 30.924362182617188
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 348
+expectedRockPosX = 5.01945686340332, expectedRockPosY = 20.626615524291992
+getPosx() = 22.93202, getPosy() = 4.067984
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 47.24926144588329 e diffAngle = 132.7507385541167
+dEFPX = 33.512563705444336, dEFPY = 32.15863227844238
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 349
+expectedRockPosX = 5.051623344421387, expectedRockPosY = 20.924884796142578
+getPosx() = 23.86802, getPosy() = 3.131984
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 46.601414827417614 e diffAngle = 133.3985851725824
+dEFPX = 34.41639423370361, dEFPY = 33.39290142059326
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 350
+expectedRockPosX = 5.073067665100098, expectedRockPosY = 21.123733520507812
+getPosx() = 24.49202, getPosy() = 2.507983
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 46.209769244204466 e diffAngle = 133.79023075579553
+dEFPX = 35.01895046234131, dEFPY = 34.2157506942749
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 351
+expectedRockPosX = 5.1052350997924805, expectedRockPosY = 21.42200469970703
+getPosx() = 25.42802, getPosy() = 1.571983
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = 45.67423996201359 e diffAngle = 134.3257600379864
+dEFPX = 35.9227876663208, dEFPY = 35.450021743774414
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 352
+expectedRockPosX = 10.668233871459961, expectedRockPosY = -15.53635025024414
+getPosx() = 26.36402, getPosy() = 0.6359832
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -224.14327696256382 e diffAngle = 44.143276962563846
+dEFPX = 31.295785903930664, dEFPY = 0.5723333358764648
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 353
+expectedRockPosX = 10.625954627990723, expectedRockPosY = -15.340869903564453
+getPosx() = 26.98802, getPosy() = 0.0119831
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -226.82261546280415 e diffAngle = 46.82261546280415
+dEFPX = 31.96206569671631, dEFPY = 0.2471475601196289
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 354
+expectedRockPosX = 10.56253433227539, expectedRockPosY = -15.047649383544922
+getPosx() = 27.92402, getPosy() = -0.9240171
+getVelx() = 15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -230.87152041375407 e diffAngle = 50.87152041375407
+dEFPX = 32.96148681640625, dEFPY = 1.4763679504394531
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 355
+expectedRockPosX = 10.499114036560059, expectedRockPosY = -14.75442886352539
+getPosx() = 27.1406, getPosy() = -1.860017
+getVelx() = -15.6, getVely() = -15.6
+shipAngle = 180.0, angleToTarget = -232.2302096068013 e diffAngle = 52.23020960680128
+dEFPX = 1.0414857864379883, dEFPY = 2.7055892944335938
+cos(52.23020960680128) = 0.6124903536343203
+diffExpectedFromPosX = -1.0414857864379883, diffExpectedFromPosY = 2.7055892944335938
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 356
+expectedRockPosX = 10.41456413269043, expectedRockPosY = -14.363470077514648
+getPosx() = 26.0126, getPosy() = -3.228018
+getVelx() = -13.2, getVely() = -18.00001
+shipAngle = 180.0, angleToTarget = -234.4769238187018 e diffAngle = 54.476923818701835
+dEFPX = 2.398036003112793, dEFPY = 6.864557266235352
+cos(54.476923818701835) = 0.5810307979780023
+diffExpectedFromPosX = -2.398036003112793, diffExpectedFromPosY = 6.864557266235352
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 357
+expectedRockPosX = 10.372283935546875, expectedRockPosY = -14.167989730834961
+getPosx() = 25.5206, getPosy() = -3.984018
+getVelx() = -12.0, getVely() = -19.20001
+shipAngle = 180.0, angleToTarget = -236.08768685344657 e diffAngle = 56.0876868534466
+dEFPX = 3.1483154296875, dEFPY = 9.01603889465332
+cos(56.0876868534466) = 0.5579234698463259
+diffExpectedFromPosX = -3.1483154296875, diffExpectedFromPosY = 9.01603889465332
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 358
+expectedRockPosX = 10.30886459350586, expectedRockPosY = -13.87476921081543
+getPosx() = 24.8726, getPosy() = -5.208018
+getVelx() = -10.2, getVely() = -21.00001
+shipAngle = 180.0, angleToTarget = -239.2434946632596 e diffAngle = 59.24349466325964
+dEFPX = 4.363736152648926, dEFPY = 12.333257675170898
+cos(59.24349466325964) = 0.511390659394237
+diffExpectedFromPosX = -4.363736152648926, diffExpectedFromPosY = 12.333257675170898
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 359
+expectedRockPosX = 10.266584396362305, expectedRockPosY = -13.679288864135742
+getPosx() = 24.5006, getPosy() = -6.084019
+getVelx() = -9.0, getVely() = -22.20001
+shipAngle = 180.0, angleToTarget = -241.91562370355493 e diffAngle = 61.91562370355496
+dEFPX = 5.234016418457031, dEFPY = 14.604740142822266
+cos(61.91562370355496) = 0.4707713208860532
+diffExpectedFromPosX = -5.234016418457031, diffExpectedFromPosY = 14.604740142822266
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 360
+expectedRockPosX = 10.182034492492676, expectedRockPosY = -13.288318634033203
+getPosx() = 23.9006, getPosy() = -7.98002
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = -248.84641927072514 e diffAngle = 68.84641927072516
+dEFPX = 7.118565559387207, dEFPY = 19.291709899902344
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 361
+expectedRockPosX = 10.139754295349121, expectedRockPosY = -13.092840194702148
+getPosx() = 23.6366, getPosy() = -8.964021
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = -252.9906074574742 e diffAngle = 72.9906074574742
+dEFPX = 6.896845817565918, dEFPY = 20.471189498901367
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 362
+expectedRockPosX = 10.076333999633789, expectedRockPosY = -12.799619674682617
+getPosx() = 23.2406, getPosy() = -10.44002
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = -259.8380543729926 e diffAngle = 79.83805437299259
+dEFPX = 6.564266204833984, dEFPY = 22.24041175842285
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 363
+expectedRockPosX = 10.012914657592773, expectedRockPosY = -12.506399154663086
+getPosx() = 22.8446, getPosy() = -11.91602
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = -267.36571071017784 e diffAngle = 87.36571071017784
+dEFPX = 6.231685638427734, dEFPY = 24.00963020324707
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 364
+expectedRockPosX = 9.970634460449219, expectedRockPosY = -12.310918807983398
+getPosx() = 22.5806, getPosy() = -12.90003
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = 87.32520550214397 e diffAngle = 92.67479449785603
+dEFPX = 6.009965896606445, dEFPY = 25.189119338989258
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 365
+expectedRockPosX = 9.907224655151367, expectedRockPosY = -12.0177001953125
+getPosx() = 22.1846, getPosy() = -14.37603
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = 79.12664285425885 e diffAngle = 100.87335714574115
+dEFPX = 5.677375793457031, dEFPY = 26.95833969116211
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 366
+expectedRockPosX = 9.843804359436035, expectedRockPosY = -11.724479675292969
+getPosx() = 21.7886, getPosy() = -15.85203
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = 70.93729957600718 e diffAngle = 109.06270042399282
+dEFPX = 5.344796180725098, dEFPY = 28.727561950683594
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 367
+expectedRockPosX = 9.780384063720703, expectedRockPosY = -11.431259155273438
+getPosx() = 21.3926, getPosy() = -17.32803
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = 63.07819583749824 e diffAngle = 116.92180416250176
+dEFPX = 5.012214660644531, dEFPY = 30.496780395507812
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 368
+expectedRockPosX = 9.738103866577148, expectedRockPosY = -11.23577880859375
+getPosx() = 21.1286, getPosy() = -18.31203
+getVelx() = -6.6, getVely() = -24.60001
+shipAngle = 180.0, angleToTarget = 58.14972106817362 e diffAngle = 121.85027893182638
+dEFPX = 4.790494918823242, dEFPY = 31.67626190185547
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 369
+expectedRockPosX = 9.674694061279297, expectedRockPosY = -10.942560195922852
+getPosx() = 19.83617, getPosy() = -19.05235
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.0, angleToTarget = 51.40692605584144 e diffAngle = 128.59307394415856
+dEFPX = 12.678253173828125, dEFPY = 19.382200241088867
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 370
+expectedRockPosX = 9.632413864135742, expectedRockPosY = -10.747079849243164
+getPosx() = 18.92258, getPosy() = -19.50324
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00010681152344, angleToTarget = 46.6949360555206 e diffAngle = 133.30517075600284
+dEFPX = 13.549562454223633, dEFPY = 20.0285701751709
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 371
+expectedRockPosX = 9.568994522094727, expectedRockPosY = -10.453859329223633
+getPosx() = 17.55219, getPosy() = -20.17959
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00010681152344, angleToTarget = 39.380263005904766 e diffAngle = 140.61984380561867
+dEFPX = 14.85653305053711, dEFPY = 20.998140335083008
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 372
+expectedRockPosX = 9.505574226379395, expectedRockPosY = -10.160640716552734
+getPosx() = 16.18181, getPosy() = -20.85594
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.0001983642578, angleToTarget = 31.973298480423153 e diffAngle = 148.02689988383466
+dEFPX = 16.163493156433105, dEFPY = 21.967708587646484
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 373
+expectedRockPosX = 9.442164421081543, expectedRockPosY = -9.867420196533203
+getPosx() = 14.81142, getPosy() = -21.53228
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.0001983642578, angleToTarget = 24.71629549382618 e diffAngle = 155.28390287043163
+dEFPX = 17.470473289489746, dEFPY = 22.937271118164062
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 374
+expectedRockPosX = 9.399884223937988, expectedRockPosY = -9.671939849853516
+getPosx() = 13.89783, getPosy() = -21.98318
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.0001983642578, angleToTarget = 20.069917896157705 e diffAngle = 159.9302804681001
+dEFPX = 18.34178352355957, dEFPY = 23.583648681640625
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 375
+expectedRockPosX = 9.336463928222656, expectedRockPosY = -9.378719329833984
+getPosx() = 12.52745, getPosy() = -22.65952
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00030517578125, angleToTarget = 13.510391915873 e diffAngle = 166.48991325990823
+dEFPX = 19.648743629455566, dEFPY = 24.553211212158203
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 376
+expectedRockPosX = 9.27304458618164, expectedRockPosY = -9.085500717163086
+getPosx() = 11.15707, getPosy() = -23.33587
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00030517578125, angleToTarget = 7.531333437193467 e diffAngle = 172.46897173858778
+dEFPX = 20.955703735351562, dEFPY = 25.52277946472168
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 377
+expectedRockPosX = 9.230764389038086, expectedRockPosY = -8.890020370483398
+getPosx() = 10.24348, getPosy() = -23.78677
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00030517578125, angleToTarget = 3.88911511285076 e diffAngle = 176.1111900629305
+dEFPX = 21.827013969421387, dEFPY = 26.169160842895508
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 378
+expectedRockPosX = 9.146214485168457, expectedRockPosY = -8.499059677124023
+getPosx() = 8.416298, getPosy() = -24.68856
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00039672851562, angleToTarget = -2.581477773296811 e diffAngle = 182.58187450181242
+dEFPX = 23.569645881652832, dEFPY = 27.461912155151367
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 379
+expectedRockPosX = 9.103934288024902, expectedRockPosY = -8.303579330444336
+getPosx() = 7.502708, getPosy() = -25.13946
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00039672851562, angleToTarget = -5.432943105106958 e diffAngle = 185.4333398336226
+dEFPX = 24.44095516204834, dEFPY = 28.10828971862793
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 380
+expectedRockPosX = 9.04051399230957, expectedRockPosY = -8.010360717773438
+getPosx() = 6.132324, getPosy() = -25.81581
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00050354003906, angleToTarget = -9.276293254900054 e diffAngle = 189.27679679493912
+dEFPX = 25.7479190826416, dEFPY = 29.077857971191406
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 381
+expectedRockPosX = 8.998233795166016, expectedRockPosY = -7.814879894256592
+getPosx() = 5.218735, getPosy() = -26.2667
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00050354003906, angleToTarget = -11.575814552871165 e diffAngle = 191.57631809291024
+dEFPX = 26.61922836303711, dEFPY = 29.72423219680786
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 382
+expectedRockPosX = 8.934820175170898, expectedRockPosY = -7.5216498374938965
+getPosx() = 3.848351, getPosy() = -26.94305
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00050354003906, angleToTarget = -14.676149878806612 e diffAngle = 194.67665341884566
+dEFPX = 27.926198959350586, dEFPY = 30.693811893463135
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 383
+expectedRockPosX = 8.892541885375977, expectedRockPosY = -7.326169490814209
+getPosx() = 2.934761, getPosy() = -27.39395
+getVelx() = -22.83973, getVely() = -11.27241
+shipAngle = 180.00050354003906, angleToTarget = -16.53525411923256 e diffAngle = 196.5357576592716
+dEFPX = 28.797510147094727, dEFPY = 31.340189456939697
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 384
+expectedRockPosX = 8.807985305786133, expectedRockPosY = -6.93520975112915
+getPosx() = 1.055096, getPosy() = -27.76284
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00059509277344, angleToTarget = -20.417308699460932 e diffAngle = 200.41790379223437
+dEFPX = 32.3528995513916, dEFPY = 14.227624416351318
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 385
+expectedRockPosX = 8.765707015991211, expectedRockPosY = -6.739730358123779
+getPosx() = 0.07109582, getPosy() = -27.49884
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00059509277344, angleToTarget = -22.725569673867767 e diffAngle = 202.7261647666412
+dEFPX = 33.294620513916016, dEFPY = 14.159103870391846
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 386
+expectedRockPosX = 8.702289581298828, expectedRockPosY = -6.446509838104248
+getPosx() = -1.404905, getPosy() = -27.10284
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00070190429688, angleToTarget = -26.07261962695644 e diffAngle = 206.07332153125333
+dEFPX = 34.707204818725586, dEFPY = 14.056324481964111
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 387
+expectedRockPosX = 8.660011291503906, expectedRockPosY = -6.2510294914245605
+getPosx() = -2.388905, getPosy() = -26.83884
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00070190429688, angleToTarget = -28.22124143211216 e diffAngle = 208.22194333640903
+dEFPX = 35.64892578125, dEFPY = 13.987804889678955
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 388
+expectedRockPosX = 8.596593856811523, expectedRockPosY = -5.957809925079346
+getPosx() = -3.864905, getPosy() = -26.44284
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00070190429688, angleToTarget = -31.31307780479358 e diffAngle = 211.31377970909045
+dEFPX = 37.06150817871094, dEFPY = 13.885024547576904
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 389
+expectedRockPosX = 8.554315567016602, expectedRockPosY = -5.762329578399658
+getPosx() = -4.848906, getPosy() = -26.17884
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00079345703125, angleToTarget = -33.28447159649511 e diffAngle = 213.28526505352636
+dEFPX = 38.003231048583984, dEFPY = 13.816504955291748
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 390
+expectedRockPosX = 8.490898132324219, expectedRockPosY = -5.469110012054443
+getPosx() = -6.324906, getPosy() = -25.78284
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00079345703125, angleToTarget = -36.1051128016762 e diffAngle = 216.10590625870745
+dEFPX = 39.41581344604492, dEFPY = 13.713724613189697
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 391
+expectedRockPosX = 8.42747974395752, expectedRockPosY = -5.175889492034912
+getPosx() = -7.800906, getPosy() = -25.38684
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.0009002685547, angleToTarget = -38.76272698326177 e diffAngle = 218.76362725181644
+dEFPX = 40.828396797180176, dEFPY = 13.610945224761963
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 392
+expectedRockPosX = 8.364063262939453, expectedRockPosY = -4.882669925689697
+getPosx() = -9.276908, getPosy() = -24.99084
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.0009002685547, angleToTarget = -41.26059395532039 e diffAngle = 221.26149422387508
+dEFPX = 42.24098205566406, dEFPY = 13.508164882659912
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 393
+expectedRockPosX = 8.30064582824707, expectedRockPosY = -4.589450359344482
+getPosx() = -10.75291, getPosy() = -24.59484
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.0009002685547, angleToTarget = -43.60402687939288 e diffAngle = 223.60492714794756
+dEFPX = 43.65356636047363, dEFPY = 13.405384540557861
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 394
+expectedRockPosX = 8.258367538452148, expectedRockPosY = -4.3939690589904785
+getPosx() = -11.73691, getPosy() = -24.33084
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00100708007812, angleToTarget = -45.08380440291282 e diffAngle = 225.08481148299094
+dEFPX = 44.59528923034668, dEFPY = 13.336865901947021
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 395
+expectedRockPosX = 8.194950103759766, expectedRockPosY = -4.100748538970947
+getPosx() = -13.21291, getPosy() = -23.93484
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.00100708007812, angleToTarget = -47.185313669415834 e diffAngle = 227.18632074949397
+dEFPX = 46.007869720458984, dEFPY = 13.234086513519287
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 396
+expectedRockPosX = 8.131532669067383, expectedRockPosY = -3.807528018951416
+getPosx() = -14.68891, getPosy() = -23.53884
+getVelx() = -24.60001, getVely() = 6.600005
+shipAngle = 180.0010986328125, angleToTarget = -49.15221906296488 e diffAngle = 229.1533176957774
+dEFPX = 47.42045021057129, dEFPY = 13.131307125091553
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 397
+expectedRockPosX = 8.068115234375, expectedRockPosY = -3.5143074989318848
+getPosx() = -15.91713, getPosy() = -22.772
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.0010986328125, angleToTarget = -51.23910919655333 e diffAngle = 231.24020782936583
+dEFPX = 39.496856689453125, dEFPY = 0.9440484046936035
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 398
+expectedRockPosX = 8.025836944580078, expectedRockPosY = -3.3188271522521973
+getPosx() = -16.5376, getPosy() = -21.96393
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.0010986328125, angleToTarget = -52.7993490229063 e diffAngle = 232.8004476557188
+dEFPX = 40.07504653930664, dEFPY = 1.5566372871398926
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 399
+expectedRockPosX = 7.962419509887695, expectedRockPosY = -3.025607109069824
+getPosx() = -17.46829, getPosy() = -20.75183
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00120544433594, angleToTarget = -55.12196056253879 e diffAngle = 235.12316600687473
+dEFPX = 40.94231986999512, dEFPY = 2.475518226623535
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 400
+expectedRockPosX = 7.8990020751953125, expectedRockPosY = -2.7323861122131348
+getPosx() = -18.39899, getPosy() = -19.53972
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00120544433594, angleToTarget = -57.416909635660545 e diffAngle = 237.41811507999648
+dEFPX = 41.809600830078125, dEFPY = 3.3944058418273926
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 401
+expectedRockPosX = 7.856723785400391, expectedRockPosY = -2.5369057655334473
+getPosx() = -19.01945, getPosy() = -18.73165
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00120544433594, angleToTarget = -58.928144005503974 e diffAngle = 238.92934944983992
+dEFPX = 42.38778305053711, dEFPY = 4.0069966316223145
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 402
+expectedRockPosX = 7.793306350708008, expectedRockPosY = -2.243684768676758
+getPosx() = -19.95015, getPosy() = -17.51954
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.0012969970703, angleToTarget = -61.16232947789891 e diffAngle = 241.16362647496922
+dEFPX = 43.25506782531738, dEFPY = 4.925884246826172
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 403
+expectedRockPosX = 7.751028060913086, expectedRockPosY = -2.0482048988342285
+getPosx() = -20.57061, getPosy() = -16.71147
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.0012969970703, angleToTarget = -62.62755830904627 e diffAngle = 242.62885530611658
+dEFPX = 43.83325004577637, dEFPY = 5.538475513458252
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 404
+expectedRockPosX = -1.4446721076965332, expectedRockPosY = 17.093368530273438
+getPosx() = -21.81154, getPosy() = -15.09533
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.0012969970703, angleToTarget = -32.322908392050024 e diffAngle = 212.32420538912032
+dEFPX = 35.87847852706909, dEFPY = 11.986958503723145
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 405
+expectedRockPosX = -1.4058010578155518, expectedRockPosY = 17.28955841064453
+getPosx() = -22.43201, getPosy() = -14.28726
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00140380859375, angleToTarget = -33.65864802093796 e diffAngle = 213.6600518295317
+dEFPX = 36.53781771659851, dEFPY = 11.375078201293945
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 406
+expectedRockPosX = -1.3280611038208008, expectedRockPosY = 17.681928634643555
+getPosx() = -23.67294, getPosy() = -12.67112
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00140380859375, angleToTarget = -36.35923217988438 e diffAngle = 216.36063598847812
+dEFPX = 37.856486320495605, dEFPY = 10.151308059692383
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 407
+expectedRockPosX = -1.2891900539398193, expectedRockPosY = 17.87811851501465
+getPosx() = -24.2934, getPosy() = -11.86305
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00140380859375, angleToTarget = -37.72124702104842 e diffAngle = 217.72265082964216
+dEFPX = 38.51581788063049, dEFPY = 9.5394287109375
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 408
+expectedRockPosX = -1.2308850288391113, expectedRockPosY = 18.172399520874023
+getPosx() = -25.2241, getPosy() = -10.65095
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00149536132812, angleToTarget = -39.774770273147624 e diffAngle = 219.77626563447575
+dEFPX = 39.50482511520386, dEFPY = 8.621609687805176
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 409
+expectedRockPosX = -1.1920151710510254, expectedRockPosY = 18.36857795715332
+getPosx() = -25.84456, getPosy() = -9.84288
+getVelx() = -15.51161, getVely() = 20.20174
+shipAngle = 180.00149536132812, angleToTarget = -41.14854262223813 e diffAngle = 221.15003798356625
+dEFPX = 40.16415548324585, dEFPY = 8.00971794128418
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 410
+expectedRockPosX = -5.990632057189941, expectedRockPosY = 14.120282173156738
+getPosx() = -26.53099, getPosy() = -8.556679
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00160217285156, angleToTarget = -42.16968311672758 e diffAngle = 222.17128528957915
+dEFPX = 18.866406440734863, dEFPY = 2.737959861755371
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 411
+expectedRockPosX = -6.135042190551758, expectedRockPosY = 14.145052909851074
+getPosx() = -26.46403, getPosy() = -7.540082
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00160217285156, angleToTarget = -43.15122699339777 e diffAngle = 223.15282916624932
+dEFPX = 18.6550350189209, dEFPY = 3.7297868728637695
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 412
+expectedRockPosX = -6.351655960083008, expectedRockPosY = 14.182202339172363
+getPosx() = -26.36359, getPosy() = -6.015186
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00169372558594, angleToTarget = -44.735741631556515 e diffAngle = 224.73743535714246
+dEFPX = 18.337982177734375, dEFPY = 5.217532157897949
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 413
+expectedRockPosX = -6.496066093444824, expectedRockPosY = 14.2069730758667
+getPosx() = -26.29663, getPosy() = -4.99859
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00180053710938, angleToTarget = -45.8739253075914 e diffAngle = 225.87572584470078
+dEFPX = 18.126612663269043, dEFPY = 6.209357261657715
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 414
+expectedRockPosX = -6.712679862976074, expectedRockPosY = 14.244122505187988
+getPosx() = -26.1962, getPosy() = -3.473694
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00180053710938, angleToTarget = -47.71741478925646 e diffAngle = 227.71921532636583
+dEFPX = 17.80956745147705, dEFPY = 7.697104454040527
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 415
+expectedRockPosX = -6.857089996337891, expectedRockPosY = 14.268892288208008
+getPosx() = -26.12924, getPosy() = -2.457098
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.0019073486328, angleToTarget = -49.04581065001048 e diffAngle = 229.0477179986433
+dEFPX = 17.59819793701172, dEFPY = 8.68893051147461
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 416
+expectedRockPosX = -7.073704719543457, expectedRockPosY = 14.306042671203613
+getPosx() = -26.0288, getPosy() = -0.9322023
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.0019989013672, angleToTarget = -51.203749427732134 e diffAngle = 231.20574832909932
+dEFPX = 17.281142234802246, dEFPY = 10.176676750183105
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 417
+expectedRockPosX = -7.218113899230957, expectedRockPosY = 14.330812454223633
+getPosx() = -25.96184, getPosy() = 0.08439463
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.0019989013672, angleToTarget = -52.76286760436416 e diffAngle = 232.76486650573133
+dEFPX = 17.06977367401123, dEFPY = 11.168502807617188
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 418
+expectedRockPosX = -7.434728622436523, expectedRockPosY = 14.367972373962402
+getPosx() = -25.8614, getPosy() = 1.60929
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00210571289062, angleToTarget = -55.30115642105137 e diffAngle = 235.30326213394198
+dEFPX = 16.75271987915039, dEFPY = 12.656237602233887
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 419
+expectedRockPosX = -7.579137802124023, expectedRockPosY = 14.392732620239258
+getPosx() = -25.79444, getPosy() = 2.625887
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.002197265625, angleToTarget = -57.13807053201582 e diffAngle = 237.14026779764083
+dEFPX = 16.541349411010742, dEFPY = 13.648075103759766
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 420
+expectedRockPosX = -7.795752048492432, expectedRockPosY = 14.429892539978027
+getPosx() = -25.694, getPosy() = 4.150782
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.002197265625, angleToTarget = -60.130896145934855 e diffAngle = 240.13309341155986
+dEFPX = 16.22429609298706, dEFPY = 15.135809898376465
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 421
+expectedRockPosX = -8.012365341186523, expectedRockPosY = 14.467042922973633
+getPosx() = -25.59356, getPosy() = 5.675677
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00230407714844, angleToTarget = -63.43294360714185 e diffAngle = 243.4352476842903
+dEFPX = 15.907241821289062, dEFPY = 16.623554229736328
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 422
+expectedRockPosX = -8.156774520874023, expectedRockPosY = 14.491812705993652
+getPosx() = -25.5266, getPosy() = 6.692274
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.0023956298828, angleToTarget = -65.81858278288358 e diffAngle = 245.8209784127664
+dEFPX = 15.695873260498047, dEFPY = 17.61538028717041
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 423
+expectedRockPosX = -8.373388290405273, expectedRockPosY = 14.528963088989258
+getPosx() = -25.42616, getPosy() = 8.21717
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00250244140625, angleToTarget = -69.68882539590113 e diffAngle = 249.69132783730737
+dEFPX = 15.378820419311523, dEFPY = 19.10312843322754
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 424
+expectedRockPosX = -8.517797470092773, expectedRockPosY = 14.553732872009277
+getPosx() = -25.3592, getPosy() = 9.233768
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00250244140625, angleToTarget = -72.46939876742668 e diffAngle = 252.47190120883295
+dEFPX = 15.167449951171875, dEFPY = 20.094956398010254
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 425
+expectedRockPosX = -8.806615829467773, expectedRockPosY = 14.603272438049316
+getPosx() = -25.22528, getPosy() = 11.26696
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00259399414062, angleToTarget = -78.51374915390389 e diffAngle = 258.5163431480445
+dEFPX = 14.744712829589844, dEFPY = 22.078608512878418
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 426
+expectedRockPosX = -8.95102596282959, expectedRockPosY = 14.628042221069336
+getPosx() = -25.15833, getPosy() = 12.28356
+getVelx() = 1.673952, getVely() = 25.41492
+shipAngle = 180.00270080566406, angleToTarget = -81.76892273484326 e diffAngle = 261.77162354050733
+dEFPX = 14.533352851867676, dEFPY = 23.070436477661133
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 427
+expectedRockPosX = -9.239843368530273, expectedRockPosY = 14.677582740783691
+getPosx() = -23.58138, getPosy() = 13.54544
+getVelx() = 20.20172, getVely() = 15.51164
+shipAngle = 180.0028076171875, angleToTarget = -85.48634355124656 e diffAngle = 265.4891511684341
+dEFPX = 5.86018180847168, dEFPY = 14.379496574401855
+cos(265.4891511684341) = -0.07864785845488456
+diffExpectedFromPosX = -5.86018180847168, diffExpectedFromPosY = -14.379496574401855
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 428
+expectedRockPosX = -9.384252548217773, expectedRockPosY = 14.702352523803711
+getPosx() = -22.73731, getPosy() = 14.12991
+getVelx() = 21.40178, getVely() = 14.3117
+shipAngle = 180.0028076171875, angleToTarget = -87.54524815998637 e diffAngle = 267.5480557771739
+dEFPX = 8.048721313476562, dEFPY = 13.7392578125
+cos(267.5480557771739) = -0.042781438871388154
+diffExpectedFromPosX = -8.048721313476562, diffExpectedFromPosY = -13.7392578125
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 429
+expectedRockPosX = -9.600866317749023, expectedRockPosY = 14.739502906799316
+getPosx() = -21.3812, getPosy() = 14.91661
+getVelx() = 23.20187, getVely() = 12.51179
+shipAngle = 180.00289916992188, angleToTarget = -90.86132622527064 e diffAngle = 270.86422539519253
+dEFPX = 11.42153549194336, dEFPY = 12.688897132873535
+cos(270.86422539519253) = 0.015083006676882393
+diffExpectedFromPosX = -11.42153549194336, diffExpectedFromPosY = -12.688897132873535
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 430
+expectedRockPosX = -9.745275497436523, expectedRockPosY = 14.764272689819336
+getPosx() = -20.41712, getPosy() = 15.38109
+getVelx() = 24.40193, getVely() = 11.31185
+shipAngle = 180.0030059814453, angleToTarget = -93.3079344853522 e diffAngle = 273.31094046679755
+dEFPX = 13.730085372924805, dEFPY = 11.928667068481445
+cos(273.31094046679755) = 0.05775465645089463
+diffExpectedFromPosX = -13.730085372924805, diffExpectedFromPosY = -11.928667068481445
+tiro = 0.0, motorPrincipal = 1.0, motorLadoFrente = -1.0, motorLadoFundo = -1.0
+
+[ Destroyer Bot ] gamestate.getTick() = 431
+expectedRockPosX = -9.961889266967773, expectedRockPosY = 14.801423072814941
+getPosx() = -18.881, getPosy() = 15.9878
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.0030975341797, angleToTarget = -97.57672829282572 e diffAngle = 277.5798258270054
+dEFPX = 17.282909393310547, dEFPY = 10.698317527770996
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 432
+expectedRockPosX = -10.106298446655273, expectedRockPosY = 14.826192855834961
+getPosx() = -17.83292, getPosy() = 16.36828
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.0030975341797, angleToTarget = -101.28685190364472 e diffAngle = 281.2899494378244
+dEFPX = 18.475399017333984, dEFPY = 11.05402946472168
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 433
+expectedRockPosX = -10.32291316986084, expectedRockPosY = 14.86334228515625
+getPosx() = -16.2608, getPosy() = 16.939
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.00320434570312, angleToTarget = -109.26766484635402 e diffAngle = 289.27086919205715
+dEFPX = 20.264134407043457, dEFPY = 11.58759880065918
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 434
+expectedRockPosX = -10.53952693939209, expectedRockPosY = 14.90050220489502
+getPosx() = -14.68868, getPosy() = 17.50971
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.0032958984375, angleToTarget = -122.16386699056926 e diffAngle = 302.16716288900676
+dEFPX = 22.052867889404297, dEFPY = 12.121150016784668
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 435
+expectedRockPosX = -10.68393611907959, expectedRockPosY = 14.925262451171875
+getPosx() = -13.6406, getPosy() = 17.89019
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.0032958984375, angleToTarget = -135.0799562727741 e diffAngle = 315.0832521712116
+dEFPX = 23.245356559753418, dEFPY = 12.476869583129883
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
+[ Destroyer Bot ] gamestate.getTick() = 436
+expectedRockPosX = -10.900548934936523, expectedRockPosY = 14.962422370910645
+getPosx() = -12.06848, getPosy() = 18.46091
+getVelx() = 26.20202, getVely() = 9.511942
+shipAngle = 180.00340270996094, angleToTarget = -161.53899860731724 e diffAngle = 341.5424013172782
+dEFPX = 25.034090042114258, dEFPY = 13.010430335998535
+tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
+
