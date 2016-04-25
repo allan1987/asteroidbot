@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.Map;
 
-import com.fuzzylite.Engine;
-
 import bot_interface.Action;
 import bot_interface.BotBase;
 import bot_interface.GameObject;
@@ -16,10 +14,9 @@ import bot_interface.Ship;
 
 public class DestroyerBot extends BotBase {
 	
-	private Engine engine;
 	private double posX, posY, diffVelX, diffVelY, diffX, diffY, velAng, shipAngle, angleToTarget, 
 	diffAngle, expectedObjectPosX, expectedObjectPosY, diffExpectedFromPosX, diffExpectedFromPosY,
-	senAng5 = 0.08715, cosAng5 = 0.99619, cosAngx = -0.08715;
+	senAng5 = 0.08715, cosAng5 = 0.99619, cosAngx = -0.08715, cosAng10 = 0.98480, senAng100 = 0.98480;
 	private float motorPrincipal, motorLadoFrente, motorLadoFundo, tiro;
 	
 	public Action process(GameState gamestate) {
@@ -41,27 +38,6 @@ public class DestroyerBot extends BotBase {
 			return process(gamestate, nearShip, nearLaser, nearRock);
 	}
 	
-//	private void a(GameObject gameObject) {
-//		//Homing algorithm
-//		double angle;
-//		if (getAng() > Math.PI)
-//		    angle -= 2*Math.PI;
-//		else if (getAng() < -Math.PI)
-//		    angle += 2*Math.PI;
-//		 
-//		double angleToTarget = Math.atan2(gameObject.getPosy() - getPosy(), gameObject.getPosx() - getPosx()); 
-//		double relativeAngleToTarget = angleToTarget - angle;
-//		 
-//		if (relativeAngleToTarget > Math.PI)
-//		    relativeAngleToTarget -= 2*Math.PI;
-//		else if (relativeAngleToTarget < -Math.PI)
-//		    relativeAngleToTarget += 2*Math.PI;
-//		                 
-//		angle += relativeAngleToTarget * rotationSpeed;
-//		x += Math.cos(angle) * moveSpeed;
-//		y += Math.sin(angle) * moveSpeed;
-//	}
-	
 	private void calcDiffXYLaserBalance(GameState gameState, Laser nearLaser) {
 		//S = So + Vt
 		for(int i = 0; i <= nearLaser.getLifetime(); i++) {
@@ -71,10 +47,10 @@ public class DestroyerBot extends BotBase {
 			diffExpectedFromPosX = expectedObjectPosX - getPosx();
 			diffExpectedFromPosY = expectedObjectPosY - getPosy();
 			
-			gameState.log("expectedLaserPosX = " + expectedObjectPosX + ", expectedLaserPosY = " + expectedObjectPosY);
-			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
+//			gameState.log("expectedLaserPosX = " + expectedObjectPosX + ", expectedLaserPosY = " + expectedObjectPosY);
+//			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
 			
-			if(Math.abs(diffExpectedFromPosX) <= 10 && Math.abs(diffExpectedFromPosY) <= 10) {
+			if(Math.abs(diffExpectedFromPosX) <= gameState.getArenaRadius()/3 && Math.abs(diffExpectedFromPosY) <= gameState.getArenaRadius()/3) {
 				if(diffExpectedFromPosX < 0 || diffExpectedFromPosY < 0) {
 					motorLadoFrente = 1;
 					motorLadoFundo = 1;
@@ -84,28 +60,28 @@ public class DestroyerBot extends BotBase {
 					motorLadoFundo = -1;
 				}
 				
-				gameState.log("cos(" + getAng() + ") = " + Math.round(Math.cos(Math.toRadians(getAng()))));
+//				gameState.log("cos(" + getAng() + ") = " + Math.round(Math.cos(Math.toRadians(getAng()))));
 				motorLadoFrente *= Math.round(Math.cos(Math.toRadians(getAng())));
 				motorLadoFundo *= Math.round(Math.cos(Math.toRadians(getAng())));
 				
-				gameState.log("deu break");
+//				gameState.log("deu break");
 				break;
 			}
 		}
 			
-		gameState.log("laser pertence a uid = " + nearLaser.getOwner() + ", nearLaser.getUid() = " + nearLaser.getUid());
-		gameState.log("nearLaser.getVelx() = " + nearLaser.getVelx() + ", getVelx() = " + getVelx());
-		gameState.log("diffVelX = " + diffVelX);
-		gameState.log("nearLaser.getVely() = " + nearLaser.getVely() + ", getVely() = " + getVely());
-		gameState.log("diffVelY = " + diffVelY);
-		gameState.log("nearLaser.getPosx() = " + nearLaser.getPosx() + ", getPosx() = " + getPosx());
-		gameState.log("nearLaser.getPosy() = " + nearLaser.getPosy() + ", getPosy() = " + getPosy());
-		gameState.log("diffX = " + diffX);
-		gameState.log("diffY = " + diffY);
+//		gameState.log("laser pertence a uid = " + nearLaser.getOwner() + ", nearLaser.getUid() = " + nearLaser.getUid());
+//		gameState.log("nearLaser.getVelx() = " + nearLaser.getVelx() + ", getVelx() = " + getVelx());
+//		gameState.log("diffVelX = " + diffVelX);
+//		gameState.log("nearLaser.getVely() = " + nearLaser.getVely() + ", getVely() = " + getVely());
+//		gameState.log("diffVelY = " + diffVelY);
+//		gameState.log("nearLaser.getPosx() = " + nearLaser.getPosx() + ", getPosx() = " + getPosx());
+//		gameState.log("nearLaser.getPosy() = " + nearLaser.getPosy() + ", getPosy() = " + getPosy());
+//		gameState.log("diffX = " + diffX);
+//		gameState.log("diffY = " + diffY);
 	}
 	
 	private void calcDiffXYRockBalance(GameState gameState, Rock nearRock) {
-		shipAngle = getAng() % 360;
+		shipAngle = getAng();// % 360;
 		
 		if(nearRock != null) {
 			//S = So + Vt
@@ -115,45 +91,117 @@ public class DestroyerBot extends BotBase {
 			diffExpectedFromPosX = expectedObjectPosX - (getPosx() + getVelx());
 			diffExpectedFromPosY = expectedObjectPosY - (getPosy() + getVely());
 			
-			gameState.log("expectedRockPosX = " + expectedObjectPosX + ", expectedRockPosY = " + expectedObjectPosY);
-			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
-			gameState.log("getVelx() = " + getVelx() + ", getVely() = " + getVely());
+//			gameState.log("expectedRockPosX = " + expectedObjectPosX + ", expectedRockPosY = " + expectedObjectPosY);
+//			gameState.log("nearRock.getPosx() = " + nearRock.getPosx() + ", nearRock.getPosy() = " + nearRock.getPosy());
+//			gameState.log("getPosx() = " + getPosx() + ", getPosy() = " + getPosy());
+//			gameState.log("nearRock.getVelx() = " + nearRock.getVelx() + ", nearRock.getVely() = " + nearRock.getVely());
+//			gameState.log("getVelx() = " + getVelx() + ", getVely() = " + getVely());
 			
-			angleToTarget = (Math.toDegrees(Math.atan2(expectedObjectPosY - getPosy(), expectedObjectPosX - getPosx())) - 90) % 360;
+			angleToTarget = (Math.toDegrees(Math.atan2(diffExpectedFromPosY, diffExpectedFromPosX)) - 90);// % 360;
 			
-			diffAngle = (shipAngle - angleToTarget) % 360;
+			diffAngle = (shipAngle - angleToTarget);// % 360;
 			
-			gameState.log("shipAngle = " + shipAngle + ", angleToTarget = " + angleToTarget + " e diffAngle = " + diffAngle);
-			gameState.log("dEFPX = " + Math.abs(diffExpectedFromPosX) + ", dEFPY = " + Math.abs(diffExpectedFromPosY));
+//			gameState.log("shipAngle = " + shipAngle + ", angleToTarget = " + angleToTarget + " e diffAngle = " + diffAngle);
+//			gameState.log("dEFPX = " + diffExpectedFromPosX + ", dEFPY = " + diffExpectedFromPosY);
 			
-			if(Math.abs(diffExpectedFromPosX) <= 15 && Math.abs(diffExpectedFromPosY) <= 15) {
+			if(Math.abs(diffExpectedFromPosX) <= gameState.getArenaRadius()/2 && Math.abs(diffExpectedFromPosY) <= gameState.getArenaRadius()/2) {
 				
-				gameState.log("cos(" + diffAngle + ") = " + Math.cos(Math.toRadians(diffAngle)));
-				gameState.log("diffExpectedFromPosX = " + diffExpectedFromPosX + ", diffExpectedFromPosY = " + diffExpectedFromPosY);
+//				gameState.log("cos(" + diffAngle + ") = " + Math.cos(Math.toRadians(diffAngle)));
+//				gameState.log("diffExpectedFromPosX = " + diffExpectedFromPosX + ", diffExpectedFromPosY = " + diffExpectedFromPosY);
 				
-				
-				if(Math.cos(Math.toRadians(getAng())) <= -cosAng5) {
-					motorPrincipal = 1;
-				}
-				else if(Math.cos(Math.toRadians(getAng())) >= cosAng5) {
-					motorPrincipal = -1;
-				}
-				
-				if(diffExpectedFromPosX < 0 || diffExpectedFromPosY < 0) {
-					motorLadoFrente = 1;
-					motorLadoFundo = 1;
+//				if(gameState.getArenaRadius() - Math.abs(getPosx()) <= gameState.getArenaRadius()/10
+//				&& ((Math.cos(Math.toRadians(getAng())) >= cosAng10) 
+//				|| (Math.cos(Math.toRadians(getAng())) <= -cosAng10))) {
+//					
+//					if(diffExpectedFromPosX < diffExpectedFromPosY) {
+//						motorPrincipal = -1;
+//					}
+//					else {
+//						if(diffExpectedFromPosY < 0) {
+//							motorPrincipal = 1;
+//						}
+//						else {
+//							motorPrincipal = -1;
+//						}
+//					}
+//				}
+//				else if(gameState.getArenaRadius() - Math.abs(getPosy()) <= gameState.getArenaRadius()/10
+//				&& ((Math.sin(Math.toRadians(getAng())) >= senAng100) 
+//				|| (Math.sin(Math.toRadians(getAng())) <= -senAng100))) {
+//					
+//					if(diffExpectedFromPosY < diffExpectedFromPosX) {
+//						motorPrincipal = -1;
+//					}
+//					else {
+//						if(diffExpectedFromPosX < 0) {
+//							motorPrincipal = 1;
+//						}
+//						else {
+//							motorPrincipal = -1;
+//						}
+//					}
+//				}
+				if(false) {
 				}
 				else {
+					
+					if(Math.abs(diffExpectedFromPosX) < Math.abs(diffExpectedFromPosY)) {
+						if(diffExpectedFromPosX < 0) {
+							gameState.log("A");
+							motorPrincipal = 1;
+							motorLadoFrente = 1;
+							motorLadoFundo = 1;
+						}
+						else {
+							gameState.log("B");
+							motorPrincipal = -1;
+							motorLadoFrente = -1;
+							motorLadoFundo = -1;
+						}
+					}
+					else {
+						if(diffExpectedFromPosY < 0) {
+							gameState.log("C");
+							motorPrincipal = -1;
+							motorLadoFrente = -1;
+							motorLadoFundo = -1;
+						}
+						else {
+							gameState.log("D");
+							motorPrincipal = 1;
+							motorLadoFrente = 1;
+							motorLadoFundo = 1;
+						}
+					}
+				}
+			}
+			else {
+				angleToTarget = (Math.toDegrees(Math.atan2(getPosy() + getVely(), getPosx() + getVelx())) - 90);// % 360;
+				diffAngle = (shipAngle - angleToTarget);// % 360;
+				
+				double xyAoQuadrado = getPosx() * getPosx() + getPosy() * getPosy();
+				double raioAoQuadrado = gameState.getArenaRadius() * gameState.getArenaRadius();
+				
+/*				if(raioAoQuadrado - xyAoQuadrado < 4) {
+//					
+//				}
+				else */if(getVelx() > 0 || getVely() > 0) {
+					gameState.log("E");
+					motorPrincipal = -1;
 					motorLadoFrente = -1;
 					motorLadoFundo = -1;
 				}
-				
-				
-				
-//				gameState.log("cos(" + getAng() + ") = " + Math.round(Math.cos(Math.toRadians(getAng()))));
-				motorLadoFrente *= Math.round(Math.cos(Math.toRadians(getAng())));
-				motorLadoFundo *= Math.round(Math.cos(Math.toRadians(getAng())));
+				else if(getVelx() < 0 || getVely() < 0) {
+					gameState.log("F");
+					motorPrincipal = 1;
+					motorLadoFrente = 1;
+					motorLadoFundo = 1;
+				}
 			}
+			
+			motorPrincipal *= Math.round(Math.cos(Math.toRadians(diffAngle)));
+			motorLadoFrente *= Math.round(Math.sin(Math.toRadians(diffAngle)));
+			motorLadoFundo *= Math.round(Math.sin(Math.toRadians(diffAngle)));
 		}
 		
 //		gameState.log("laser pertence a uid = " + nearLaser.getOwner() + ", nearLaser.getUid() = " + nearLaser.getUid());
@@ -189,8 +237,8 @@ public class DestroyerBot extends BotBase {
 		
 		diffAngle = (shipAngle - angleToTarget) % 360;
 		
-		gamestate.log("S shipAngle = " + shipAngle + ", velAng = " + getVelang());
-		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
+//		gamestate.log("S shipAngle = " + shipAngle + ", velAng = " + getVelang());
+//		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
 		
 		if(Math.sin(Math.toRadians(diffAngle)) < -senAng5) {
 			motorLadoFrente = -1;
@@ -230,7 +278,6 @@ public class DestroyerBot extends BotBase {
 				tiro = 1;
 			}
 			else {
-				gamestate.log("getCharge = " + getCharge());
 				if(getCharge() >= 3) {
 					tiro = getCharge();
 				}
@@ -238,75 +285,32 @@ public class DestroyerBot extends BotBase {
 		}
 	}
 	
-	private Action process(GameState gamestate, GameObject nearShip, GameObject nearLaser, GameObject nearRock) {
+	private Action process(final GameState gamestate, final GameObject nearShip, final GameObject nearLaser, final GameObject nearRock) {
 		motorPrincipal = 0;
 		motorLadoFrente = 0;
 		motorLadoFundo = 0;
 		tiro = 0;
 		
 		if(nearShip != null) {
-//			manageCharge(gamestate, (Ship)nearShip);
+			manageCharge(gamestate, (Ship)nearShip);
+			
+			if(nearRock != null) {
+				calcDiffXYRockBalance(gamestate, (Rock)nearRock);
+			}
+			
+			if(nearLaser != null) {
+				calcDiffXYLaserBalance(gamestate, (Laser)nearLaser);
+			}
+			
 			calcDiffAngleBalance(gamestate, (Ship)nearShip);
-		}
-		
-		if(nearRock != null) {
-			calcDiffXYRockBalance(gamestate, (Rock)nearRock);
-		}
-		
-		if(nearLaser != null) {
-			calcDiffXYLaserBalance(gamestate, (Laser)nearLaser);
 		}
 		
 		equilibrateVelAng();
 		
 //		gamestate.log("shipAngle = " + shipAngle + ", velAng = " + getVelang());
 //		gamestate.log("angleToTarget = " + angleToTarget + ", diffAngle = " + diffAngle);
-		gamestate.log("tiro = " + tiro + ", motorPrincipal = " + motorPrincipal + ", motorLadoFrente = " + motorLadoFrente + ", motorLadoFundo = " + motorLadoFundo);
+//		gamestate.log("tiro = " + tiro + ", motorPrincipal = " + motorPrincipal + ", motorLadoFrente = " + motorLadoFrente + ", motorLadoFundo = " + motorLadoFundo);
 		
-//		posX.setInputValue(getPosx());
-//		posY.setInputValue(getPosy());
-//		velX.setInputValue(getVelx());
-//		velY.setInputValue(getVely());
-//		velAng.setInputValue(getVelang());
-		
-//		if(object.getPosx() < getPosx()) {
-//			diffX.setInputValue((object.getPosx() + object.getRadius()) - (getPosx() - getRadius()));
-//		}
-//		else {
-//			diffX.setInputValue((object.getPosx() - object.getRadius()) - (getPosx() + getRadius()));
-//		}
-		
-//		if(object.getPosy() < getPosy()) {
-//			diffY.setInputValue((object.getPosy() + object.getRadius()) - (getPosy() - getRadius()));
-//		}
-//		else {
-//			diffY.setInputValue((object.getPosy() - object.getRadius()) - (getPosy() + getRadius()));
-//		}
-		
-//		diffX.setInputValue((object.getPosx() - getPosx()));
-//		diffY.setInputValue((object.getPosy() - getPosy()));
-//		double hipotenusa = Math.sqrt(diffX.getInputValue() * diffX.getInputValue() + diffY.getInputValue() * diffY.getInputValue());
-		
-//		double att = Math.toDegrees(Math.atan2(object.getPosy(), object.getPosx()));
-//		gamestate.log("att = " + att);
-//		gamestate.log("atan = " + Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx())));
-//		gamestate.log("getAng() % 360 = " + Math.abs(getAng()) % 360);
-		
-//		angleToTarget.setInputValue(90 - Math.abs(Math.toDegrees(Math.atan2(object.getPosy() - getPosy(), object.getPosx() - getPosx()))) % 360);
-		
-//		engine.process();
-		
-//		motorPrincipal = Math.round(motorPrincipal.getOutputValue());// * Math.round(Math.sin(Math.toRadians(getAng()))));
-//		motorLadoFrente = Math.round(motorLadoFrente.getOutputValue());// * Math.round(Math.cos(Math.toRadians(getAng()))));
-//		motorLadoFundo = Math.round(motorLadoFundo.getOutputValue());// * Math.round(Math.cos(Math.toRadians(getAng()))));
-//		int tiro = 1;
-		
-//		gamestate.log(/*"diffX = " + diffX.getInpu/tValue() + ", diffY = " + diffY.getInputValue() + */" e angleToTarget = " + angleToTarget.getInputValue());// + ", hipotenusa = " + hipotenusa + "seno = " + seno.getInputValue());
-		
-//		gamestate.log("Bruto: motorPrincipal = " + Math.round(motorPrincipal.getOutputValue()) + ", motorLadoFrente = " + Math.round(motorLadoFrente.getOutputValue()) + ", motorLadoFundo = " + Math.round(motorLadoFundo.getOutputValue()));
-		
-//		gamestate.log("RESULT: velX = " + velX.getInputValue() + ", velY = " + velY.getInputValue() + ", diffX = " + diffX.getInputValue() + ", diffY = " + diffY.getInputValue() + ", mPrincipal = " + mPrincipal + ", mLadoFrente = " + mLadoFrente + ", mLadoFundo = " + mLadoFundo);
-//		return new Action(0, 0, 0, tiro);
 		return new Action(motorPrincipal, motorLadoFrente, motorLadoFundo, (int)tiro);
 	}
 	
@@ -352,290 +356,7 @@ public class DestroyerBot extends BotBase {
 		return nearObject;
 	}
 	
-	public DestroyerBot() {
-//		engine = new Engine();
-//        engine.setName("AllanArielBot");
-//        
-//        posX = new InputVariable();
-//        posX.setName("posX");
-//        posX.setRange(-36.0, 36.0);
-//        posX.addTerm(new Triangle("MAXIMO_DIREITA",    -36.0, -27.0, -18.0));
-//        posX.addTerm(new Triangle("EXTREMO_DIREITA", 	-27.0, -18.0,  -9.0));
-//        posX.addTerm(new Triangle("DIREITA", 			-18.0,  -9.0,   0.0));
-//        posX.addTerm(new Triangle("MEIO", 				 -9.0,   0.0,   9.0));
-//        posX.addTerm(new Triangle("ESQUERDA", 			  0.0,   9.0,  18.0));
-//        posX.addTerm(new Triangle("EXTREMO_ESQUERDA", 	  9.0,  18.0,  27.0));
-//        posX.addTerm(new Triangle("MAXIMO_ESQUERDA", 	 18.0,  27.0,  36.0));
-//        engine.addInputVariable(posX);
-//        
-//        posY = new InputVariable();
-//        posY.setName("posY");
-//        posY.setRange(-36.0, 36.0);
-//        posY.addTerm(new Triangle("MAXIMO_CIMA", 	 -36.0, -27.0, -18.0));
-//        posY.addTerm(new Triangle("EXTREMO_CIMA", 	 -27.0, -18.0,  -9.0));
-//        posY.addTerm(new Triangle("CIMA", 			 -18.0,  -9.0,   0.0));
-//        posY.addTerm(new Triangle("MEIO", 			  -9.0,   0.0,   9.0));
-//        posY.addTerm(new Triangle("BAIXO", 			   0.0,   9.0,  18.0));
-//        posY.addTerm(new Triangle("EXTREMO_BAIXO", 	   9.0,  18.0,  27.0));
-//        posY.addTerm(new Triangle("MAXIMO_BAIXO", 	  18.0,  27.0,  36.0));
-//        engine.addInputVariable(posY);
-//        
-//        velX = new InputVariable();
-//        velX.setName("velX");
-//        velX.setRange(-25.0, 25.0);
-//        velX.addTerm(new Triangle("MAXIMA_PARA_DIREITA",	-25.0, -20.0, -15.0));
-//        velX.addTerm(new Triangle("EXTREMA_PARA_DIREITA",	-20.0, -15.0, -10.0));
-//        velX.addTerm(new Triangle("ALTA_PARA_DIREITA", 		-15.0, -10.0,  -5.0));
-//        velX.addTerm(new Triangle("PARA_DIREITA", 			-10.0,  -5.0,   0.0));
-//        velX.addTerm(new Triangle("INERCIA", 				 -5.0,   0.0,   5.0));
-//        velX.addTerm(new Triangle("PARA_ESQUERDA", 		  	  0.0,   5.0,  10.0));
-//        velX.addTerm(new Triangle("ALTA_PARA_ESQUERDA",  	  5.0,  10.0,  15.0));
-//        velX.addTerm(new Triangle("EXTREMA_PARA_ESQUERDA",	 10.0,  15.0,  20.0));
-//        velX.addTerm(new Triangle("MAXIMA_PARA_ESQUERDA",	 15.0,  20.0,  25.0));
-//        engine.addInputVariable(velX);
-//        
-//        velY = new InputVariable();
-//        velY.setName("velY");
-//        velY.setRange(-25.0, 25.0);
-//        velY.addTerm(new Triangle("MAXIMA_PARA_CIMA",	-25.0, -20.0, -15.0));
-//        velY.addTerm(new Triangle("EXTREMA_PARA_CIMA",	-20.0, -15.0, -10.0));
-//        velY.addTerm(new Triangle("ALTA_PARA_CIMA", 	-15.0, -10.0,  -5.0));
-//        velY.addTerm(new Triangle("PARA_CIMA", 			-10.0,  -5.0,   0.0));
-//        velY.addTerm(new Triangle("INERCIA", 			 -5.0,   0.0,   5.0));
-//        velY.addTerm(new Triangle("PARA_BAIXO", 		  0.0,   5.0,  10.0));
-//        velY.addTerm(new Triangle("ALTA_PARA_BAIXO", 	  5.0,  10.0,  15.0));
-//        velY.addTerm(new Triangle("EXTREMA_PARA_BAIXO",	 10.0,  15.0,  20.0));
-//        velY.addTerm(new Triangle("MAXIMA_PARA_BAIXO",	 15.0,  20.0,  25.0));
-//        engine.addInputVariable(velY);
-//        
-//        velAng = new InputVariable();
-//        velAng.setName("velAng");
-//        velAng.setRange(-500.0, 500.0);
-//        velAng.addTerm(new Triangle("450_PARA_DIREITA",	-500.0, -450.0, -400.0));
-//        velAng.addTerm(new Triangle("400_PARA_DIREITA",	-450.0, -400.0, -350.0));
-//        velAng.addTerm(new Triangle("350_PARA_DIREITA",	-400.0, -350.0, -300.0));
-//        velAng.addTerm(new Triangle("300_PARA_DIREITA",	-350.0, -300.0, -250.0));
-//        velAng.addTerm(new Triangle("250_PARA_DIREITA",	-300.0, -250.0, -200.0));
-//        velAng.addTerm(new Triangle("200_PARA_DIREITA",	-250.0, -200.0, -150.0));
-//        velAng.addTerm(new Triangle("150_PARA_DIREITA", -200.0, -150.0, -100.0));
-//        velAng.addTerm(new Triangle("100_PARA_DIREITA", -150.0, -100.0,  -50.0));
-//        velAng.addTerm(new Triangle("50_PARA_DIREITA", 	-100.0,  -50.0,    0.0));
-//        velAng.addTerm(new Triangle("INERCIA", 			 -50.0,    0.0,   50.0));
-//        velAng.addTerm(new Triangle("50_PARA_ESQUERDA",    0.0,   50.0,  100.0));
-//        velAng.addTerm(new Triangle("100_PARA_ESQUERDA",  50.0,  100.0,  150.0));
-//        velAng.addTerm(new Triangle("150_PARA_ESQUERDA", 100.0,  150.0,  200.0));
-//        velAng.addTerm(new Triangle("200_PARA_ESQUERDA", 150.0,  200.0,  250.0));
-//        velAng.addTerm(new Triangle("250_PARA_ESQUERDA", 200.0,  250.0,  300.0));
-//        velAng.addTerm(new Triangle("300_PARA_ESQUERDA", 250.0,  300.0,  350.0));
-//        velAng.addTerm(new Triangle("350_PARA_ESQUERDA", 300.0,  350.0,  400.0));
-//        velAng.addTerm(new Triangle("400_PARA_ESQUERDA", 350.0,  400.0,  450.0));
-//        velAng.addTerm(new Triangle("450_PARA_ESQUERDA", 400.0,  450.0,  500.0));
-//        engine.addInputVariable(velAng);
-//        
-//        diffX = new InputVariable();
-//        diffX.setName("diffX");
-//        diffX.setRange(-40.0, 40.0);
-//        diffX.addTerm(new Triangle("DIREITA", 					-40.0, -30.0, -20.0));
-//        diffX.addTerm(new Triangle("PROXIMO_DIREITA", 			-30.0, -20.0,  -10.0));
-//        diffX.addTerm(new Triangle("MUITO_PROXIMO_DIREITA", 	-20.0,  -10.0,   0.0));
-//        diffX.addTerm(new Triangle("COLADO", 					 -10.0,   0.0,   10.0));
-//        diffX.addTerm(new Triangle("MUITO_PROXIMO_ESQUERDA", 	  0.0,   10.0,  20.0));
-//        diffX.addTerm(new Triangle("PROXIMO_ESQUERDA", 			  10.0,  20.0,  30.0));
-//        diffX.addTerm(new Triangle("ESQUERDA", 			 		 20.0,  30.0,  40.0));
-//        engine.addInputVariable(diffX);
-//        
-//        diffY = new InputVariable();
-//        diffY.setName("diffY");
-//        diffY.setRange(-40.0, 40.0);
-//        diffY.addTerm(new Triangle("CIMA", 					-40.0, -30.0, -20.0));
-//        diffY.addTerm(new Triangle("PROXIMO_CIMA", 			-30.0, -20.0, -10.0));
-//        diffY.addTerm(new Triangle("MUITO_PROXIMO_CIMA", 	-20.0, -10.0,   0.0));
-//        diffY.addTerm(new Triangle("COLADO", 				-10.0,   0.0,  10.0));
-//        diffY.addTerm(new Triangle("MUITO_PROXIMO_BAIXO", 	  0.0,  10.0,  20.0));
-//        diffY.addTerm(new Triangle("PROXIMO_BAIXO", 		 10.0,  20.0,  30.0));
-//        diffY.addTerm(new Triangle("BAIXO", 			 	 20.0,  30.0,  40.0));
-//        engine.addInputVariable(diffY);
-//        
-//        angleToTarget = new InputVariable();
-//        angleToTarget.setName("angleToTarget");
-//        angleToTarget.setRange(-90.0, 90.0);
-//        angleToTarget.addTerm(new Triangle("MUITO_BAIXO",	   	   -90.0, -67.5, -45.0));
-//        angleToTarget.addTerm(new Triangle("BAIXO", 			   -67.5, -45.0, -22.5));
-//        angleToTarget.addTerm(new Triangle("POUCO_BAIXO", 	       -45.0, -22.5,   0.0));
-//        angleToTarget.addTerm(new Triangle("INTERMEDIARIO", 	   -22.5,   0.0,  22.5));
-//        angleToTarget.addTerm(new Triangle("POUCO_ALTO", 			 0.0,  22.5,  45.0));
-//        angleToTarget.addTerm(new Triangle("ALTO", 	  				22.5,  45.0,  67.5));
-//        angleToTarget.addTerm(new Triangle("MUITO_ALTO", 	   	    45.0,  67.5,  90.0));
-//        engine.addInputVariable(angleToTarget);
-//        
-//        motorPrincipal = new OutputVariable();
-//        motorPrincipal.setName("motorPrincipal");
-//        motorPrincipal.setRange(-1.2, 1.2);
-//        motorPrincipal.setDefaultValue(0.0);
-//        motorPrincipal.addTerm(new Triangle("PARA_FRENTE", 	-1.2, -0.6, 0.0));
-//        motorPrincipal.addTerm(new Triangle("PARADO", 		-0.6,  0.0, 0.6));
-//        motorPrincipal.addTerm(new Triangle("PARA_TRAS", 	 0.0,  0.6, 1.2));
-//        engine.addOutputVariable(motorPrincipal);
-//        
-//        motorLadoFrente = new OutputVariable();
-//        motorLadoFrente.setName("motorLadoFrente");
-//        motorLadoFrente.setRange(-1.2, 1.2);
-//        motorLadoFrente.setDefaultValue(0.0);
-//        motorLadoFrente.addTerm(new Triangle("PARA_DIREITA", 	-1.2, -0.6, 0.0));
-//        motorLadoFrente.addTerm(new Triangle("PARADO", 			-0.6,  0.0, 0.6));
-//        motorLadoFrente.addTerm(new Triangle("PARA_ESQUERDA", 	 0.0,  0.6, 1.2));
-//        engine.addOutputVariable(motorLadoFrente);
-//        
-//        motorLadoFundo = new OutputVariable();
-//        motorLadoFundo.setName("motorLadoFundo");
-//        motorLadoFundo.setRange(-1.2, 1.2);
-//        motorLadoFundo.setDefaultValue(0.0);
-//        motorLadoFundo.addTerm(new Triangle("PARA_DIREITA", 	-1.2, -0.6, 0.0));
-//        motorLadoFundo.addTerm(new Triangle("PARADO", 			-0.6,  0.0, 0.6));
-//        motorLadoFundo.addTerm(new Triangle("PARA_ESQUERDA", 	 0.0,  0.6, 1.2));
-//        engine.addOutputVariable(motorLadoFundo);
-//        
-//        RuleBlock ruleBlock = new RuleBlock();
-//        ruleBlock.setEnabled(true);
-        
-//        String[] rules = {
-        		
-//        		"if velX is MAXIMA_PARA_ESQUERDA "
-//        		+ "or velX is EXTREMA_PARA_ESQUERDA "
-//        		+ "or velX is ALTA_PARA_ESQUERDA "
-//        		+ "then motorLadoFrente is PARA_DIREITA "
-//        		+ "and motorLadoFundo is PARA_DIREITA",
-        		
-
-        		
-//        		"if (diffX is MUITO_PROXIMO_ESQUERDA "
-//        		+ "or diffX is COLADO) "
-//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
-////        		+ "or diffY is COLADO "
-//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorLadoFrente is PARA_DIREITA "
-//        		+ "and motorLadoFundo is PARA_DIREITA",
-        		
-        		
-        		
-//        		"if velX is MAXIMA_PARA_DIREITA "
-//                + "or velX is EXTREMA_PARA_DIREITA "
-//        		+ "or velX is ALTA_PARA_DIREITA "
-//        		+ "then motorLadoFrente is PARA_ESQUERDA "
-//        		+ "and motorLadoFundo is PARA_ESQUERDA",
-        		
-
-        		
-//				"if diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "and (diffY is MUITO_PROXIMO_BAIXO "
-//        		+ "or diffY is COLADO "
-//        		+ "or diffY is MUITO_PROXIMO_CIMA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorLadoFrente is PARA_ESQUERDA "
-//        		+ "and motorLadoFundo is PARA_ESQUERDA",
-        		
-        		
-        		
-//        		"if velY is MAXIMA_PARA_BAIXO "
-//        		+ "or velY is EXTREMA_PARA_BAIXO "
-//				+ "or velY is ALTA_PARA_BAIXO "
-//				+ "then motorPrincipal is PARA_FRENTE",
-				
-
-				
-//				"if (diffY is MUITO_PROXIMO_BAIXO "
-//				+ "or diffY is COLADO)"
-//        		+ "and (diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "or diffX is COLADO "
-//        		+ "or diffX is MUITO_PROXIMO_ESQUERDA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorPrincipal is PARA_FRENTE",
-        		
-        		
-        		
-//        		"if velY is MAXIMA_PARA_CIMA "
-//                + "or velY is EXTREMA_PARA_CIMA "
-//        		+ "or velY is ALTA_PARA_CIMA "
-//        		+ "then motorPrincipal is PARA_TRAS",
-        		
-
-        		
-//                "if diffY is MUITO_PROXIMO_CIMA "
-//        		+ "and (diffX is MUITO_PROXIMO_DIREITA "
-//        		+ "or diffX is COLADO "
-//        		+ "or diffX is MUITO_PROXIMO_ESQUERDA) "
-//        		+ "and (velAng is 50_PARA_ESQUERDA "
-//        		+ "or velAng is INERCIA "
-//        		+ "or velAng is 50_PARA_DIREITA) "
-//        		+ "then motorPrincipal is PARA_TRAS",
-        		
-        		
-        		
-//        		"if angleToTarget is MUITO_BAIXO "
-//        		+ "or angleToTarget is BAIXO "
-//        		+ "or angleToTarget is POUCO_BAIXO "
-//        		+ "then motorLadoFrente is PARA_ESQUERDA "
-//        		+ "and motorLadoFundo is PARADO",
-//        		
-//        		"if angleToTarget is INTERMEDIARIO "
-//        		+ "then motorLadoFrente is PARADO",
-//        		
-//        		"if angleToTarget is MUITO_ALTO "
-//                + "or angleToTarget is ALTO "
-//                + "or angleToTarget is POUCO_ALTO "
-//                + "then motorLadoFrente is PARA_DIREITA "
-//                + "and motorLadoFundo is PARADO",
-//                
-//
-//                
-//        		"if velAng is 450_PARA_ESQUERDA "
-//        		+ "or velAng is 400_PARA_ESQUERDA "
-//        		+ "or velAng is 350_PARA_ESQUERDA "
-//        		+ "or velAng is 300_PARA_ESQUERDA "
-//        		+ "or velAng is 250_PARA_ESQUERDA "
-//        	    + "or velAng is 200_PARA_ESQUERDA "
-//        	    + "or velAng is 150_PARA_ESQUERDA "
-//        	    + "or velAng is 100_PARA_ESQUERDA "
-//        	    + "or velAng is 50_PARA_ESQUERDA "
-//        	    + "then motorLadoFrente is PARA_ESQUERDA "
-//        	    + "and motorLadoFundo is PARADO",
-//        	    
-//        	    
-//         		 
-//         		"if velAng is 450_PARA_DIREITA "
-//         		+ "or velAng is 400_PARA_DIREITA "
-//         		+ "or velAng is 350_PARA_DIREITA "
-//         		+ "or velAng is 300_PARA_DIREITA "
-//        		+ "or velAng is 250_PARA_DIREITA "
-//        	    + "or velAng is 200_PARA_DIREITA "
-//        	    + "or velAng is 150_PARA_DIREITA "
-//        	    + "or velAng is 100_PARA_DIREITA "
-//        	    + "or velAng is 50_PARA_DIREITA "
-//               	+ "then motorLadoFrente is PARA_DIREITA "
-//               	+ "and motorLadoFundo is PARADO"
-//        };
-        
-//        for(String rule : rules) {
-//        	ruleBlock.addRule(Rule.parse(rule, engine));
-//        }
-//        
-//        engine.addRuleBlock(ruleBlock);
-//        
-//        engine.configure("Minimum", "Maximum", "Minimum", "Maximum", "Centroid");
-//        
-//        StringBuilder status = new StringBuilder();
-//        if (!engine.isReady(status)) {
-//            throw new RuntimeException("Engine not ready. "
-//                    + "The following errors were encountered:\n" + status.toString());
-//        }
-	}
+	public DestroyerBot() {}
 	
 	public static void main(String[] args) throws IOException {        
 		GameState game = new GameState(new DestroyerBot());

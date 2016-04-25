@@ -1,5 +1,0 @@
-[ Destroyer Bot ] Bot Loaded
-
-[ Destroyer Bot ] gamestate.getTick() = 0
-tiro = 0.0, motorPrincipal = 0.0, motorLadoFrente = 0.0, motorLadoFundo = 0.0
-
