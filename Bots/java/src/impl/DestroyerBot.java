@@ -17,6 +17,8 @@ public class DestroyerBot extends BotBase {
 	private double posX, posY, diffVelX, diffVelY, diffX, diffY, velAng, shipAngle, angleToTarget, 
 	diffAngle, expectedObjectPosX, expectedObjectPosY, diffExpectedFromPosX, diffExpectedFromPosY,
 	senAng5 = 0.08715, cosAng5 = 0.99619, cosAngx = -0.08715, cosAng10 = 0.98480, senAng100 = 0.98480;
+	double expectedShipPosX, expectedShipPosY, expectedLaserPosX, expectedLaserPosY, expectedRockPosX, 
+	expectedRockPosY;
 	private float motorPrincipal, motorLadoFrente, motorLadoFundo, tiro;
 	
 	public Action process(GameState gamestate) {
@@ -88,8 +90,8 @@ public class DestroyerBot extends BotBase {
 			expectedObjectPosX = nearRock.getPosx() + nearRock.getVelx();
 			expectedObjectPosY = nearRock.getPosy() + nearRock.getVely();
 			
-			diffExpectedFromPosX = expectedObjectPosX - (getPosx() + getVelx());
-			diffExpectedFromPosY = expectedObjectPosY - (getPosy() + getVely());
+			diffExpectedFromPosX = expectedObjectPosX - getPosx();
+			diffExpectedFromPosY = expectedObjectPosY - getPosy();
 			
 //			gameState.log("expectedRockPosX = " + expectedObjectPosX + ", expectedRockPosY = " + expectedObjectPosY);
 //			gameState.log("nearRock.getPosx() = " + nearRock.getPosx() + ", nearRock.getPosy() = " + nearRock.getPosy());
@@ -179,8 +181,8 @@ public class DestroyerBot extends BotBase {
 				angleToTarget = (Math.toDegrees(Math.atan2(getPosy() + getVely(), getPosx() + getVelx())) - 90);// % 360;
 				diffAngle = (shipAngle - angleToTarget);// % 360;
 				
-				double xyAoQuadrado = getPosx() * getPosx() + getPosy() * getPosy();
-				double raioAoQuadrado = gameState.getArenaRadius() * gameState.getArenaRadius();
+//				double xyAoQuadrado = getPosx() * getPosx() + getPosy() * getPosy();
+//				double raioAoQuadrado = gameState.getArenaRadius() * gameState.getArenaRadius();
 				
 /*				if(raioAoQuadrado - xyAoQuadrado < 4) {
 //					
@@ -219,20 +221,20 @@ public class DestroyerBot extends BotBase {
 		shipAngle = getAng() % 360;
 		
 		if(nearShip != null) {
-			expectedObjectPosX = nearShip.getPosx();
-			expectedObjectPosY = nearShip.getPosy();
+			expectedObjectPosX = nearShip.getPosx() + nearShip.getVelx();
+			expectedObjectPosY = nearShip.getPosy() + nearShip.getVely();
 			
 			diffExpectedFromPosX = expectedObjectPosX - getPosx();
 			diffExpectedFromPosY = expectedObjectPosY - getPosy();
 			
 			if(Math.abs(diffExpectedFromPosX) > gamestate.getArenaRadius()) {
-				expectedObjectPosY += nearShip.getVely() * 3;
+				expectedObjectPosY += nearShip.getVely() * Math.max(0, tiro - 1);
 			}
 			if(Math.abs(diffExpectedFromPosY) > gamestate.getArenaRadius()) {
-				expectedObjectPosX += nearShip.getVelx() * 3;
+				expectedObjectPosX += nearShip.getVelx() * Math.max(0, tiro - 1);
 			}
 			
-			angleToTarget = (Math.toDegrees(Math.atan2(expectedObjectPosY - getPosy(), expectedObjectPosX - getPosx())) - 90) % 360;
+			angleToTarget = (Math.toDegrees(Math.atan2(diffExpectedFromPosY, diffExpectedFromPosX)) - 90) % 360;
 		}
 		
 		diffAngle = (shipAngle - angleToTarget) % 360;
@@ -265,24 +267,40 @@ public class DestroyerBot extends BotBase {
 		}
 	}
 	
-	private void manageCharge(GameState gamestate, Ship nearShip) {
+	private void manageCharge(GameState gamestate, Ship nearShip, Laser nearLaser, Rock nearRock) {
+		expectedShipPosX = expectedShipPosY = expectedLaserPosX = expectedLaserPosY = expectedRockPosX = expectedRockPosY = 999;
+				
 		if(nearShip != null) {
-			expectedObjectPosX = nearShip.getPosx() + nearShip.getVelx();
-			expectedObjectPosY = nearShip.getPosy() + nearShip.getVely();
+			expectedShipPosX = nearShip.getPosx() + nearShip.getVelx();
+			expectedShipPosY = nearShip.getPosy() + nearShip.getVely();
+		}
+		
+		if(nearLaser != null) {
+			expectedLaserPosX = nearLaser.getPosx() + nearLaser.getVelx();
+			expectedLaserPosY = nearLaser.getPosy() + nearLaser.getVely();
+		}
+		
+		if(nearRock != null) {
+			expectedRockPosX = nearRock.getPosx() + nearRock.getVelx();
+			expectedRockPosY = nearRock.getPosy() + nearRock.getVely();
+		}
+		
+			expectedObjectPosX = Math.min(expectedShipPosX, Math.min(expectedRockPosX, expectedLaserPosX));
+			expectedObjectPosY = Math.min(expectedShipPosY, Math.min(expectedRockPosY, expectedLaserPosY));
 			
 			diffExpectedFromPosX = expectedObjectPosX - getPosx();
 			diffExpectedFromPosY = expectedObjectPosY - getPosy();
 			
-			if(Math.abs(diffExpectedFromPosX) < gamestate.getArenaRadius()
-			&& Math.abs(diffExpectedFromPosY) < gamestate.getArenaRadius()) {
+//			if(Math.abs(diffExpectedFromPosX) < gamestate.getArenaRadius()
+//			&& Math.abs(diffExpectedFromPosY) < gamestate.getArenaRadius()) {
+			if(Math.abs(diffExpectedFromPosX) <= gamestate.getArenaRadius()/2
+			&& Math.abs(diffExpectedFromPosY) <= gamestate.getArenaRadius()/2) {
 				tiro = 1;
 			}
-			else {
-				if(getCharge() >= 3) {
-					tiro = getCharge();
-				}
+			else if(getCharge() >= 3) {
+				tiro = getCharge();
 			}
-		}
+//		}
 	}
 	
 	private Action process(final GameState gamestate, final GameObject nearShip, final GameObject nearLaser, final GameObject nearRock) {
@@ -292,7 +310,7 @@ public class DestroyerBot extends BotBase {
 		tiro = 0;
 		
 		if(nearShip != null) {
-			manageCharge(gamestate, (Ship)nearShip);
+			manageCharge(gamestate, (Ship)nearShip, (Laser)nearLaser, (Rock)nearRock);
 			
 			if(nearRock != null) {
 				calcDiffXYRockBalance(gamestate, (Rock)nearRock);
